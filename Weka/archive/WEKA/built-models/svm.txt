@@ -1,0 +1,122 @@
+=== Run information ===
+
+Scheme:weka.classifiers.functions.LibSVM -S 0 -K 0 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1
+Relation:     a1-weka.filters.unsupervised.attribute.NominalToString-Cfirst-weka.filters.unsupervised.attribute.Remove-R2-weka.filters.unsupervised.attribute.StringToWordVector-R1-W500000-prune-rate-1.0-C-T-I-N0-stemmerweka.core.stemmers.LovinsStemmer-M1-tokenizerweka.core.tokenizers.AlphabeticTokenizer-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.InfoGainAttributeEval-Sweka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Instances:    1916
+Attributes:   2947
+[list of attributes omitted]
+Test mode:5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 7.72 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        1271               66.3361 %
+Incorrectly Classified Instances       645               33.6639 %
+Kappa statistic                          0.6493
+Mean absolute error                      0.0157
+Root mean squared error                  0.1251
+Relative absolute error                 34.9534 %
+Root relative squared error             83.6263 %
+Total Number of Instances             1916     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.846     0.028      0.72      0.846     0.778      0.909    Art
+                 0.816     0.008      0.872     0.816     0.843      0.904    Beauty
+                 0.671     0.032      0.637     0.671     0.654      0.819    Love
+                 0.644     0.058      0.485     0.644     0.553      0.793    Life
+                 0.9       0.008      0.763     0.9       0.826      0.946    Knowledge
+                 0.68      0.005      0.654     0.68      0.667      0.838    Truth
+                 0.774     0.007      0.632     0.774     0.696      0.883    Best
+                 0.523     0.005      0.697     0.523     0.597      0.759    Strength
+                 0.646     0.014      0.618     0.646     0.632      0.816    Great
+                 0.6       0.005      0.75      0.6       0.667      0.797    Friendship
+                 0.84      0.004      0.75      0.84      0.792      0.918    Hope
+                 0.92      0.008      0.605     0.92      0.73       0.956    Power
+                 0.24      0.019      0.25      0.24      0.245      0.61     Funny
+                 0.48      0.009      0.414     0.48      0.444      0.736    Time
+                 0.76      0.003      0.76      0.76      0.76       0.878    Courage
+                 0.8       0.01       0.678     0.8       0.734      0.895    Happiness
+                 0.36      0.008      0.545     0.36      0.434      0.676    Wisdom
+                 0.853     0.011      0.762     0.853     0.805      0.921    Future
+                 0.72      0.004      0.72      0.72      0.72       0.858    Alone
+                 0.56      0.007      0.5       0.56      0.528      0.776    God
+                 0.74      0.006      0.771     0.74      0.755      0.867    Dreams
+                 0.76      0.003      0.792     0.76      0.776      0.879    Home
+                 0.24      0.004      0.462     0.24      0.316      0.618    Nature
+                 0.04      0.004      0.125     0.04      0.061      0.518    Inspirational
+                 0.48      0.001      0.923     0.48      0.632      0.74     War
+                 0.82      0.004      0.854     0.82      0.837      0.908    Freedom
+                 0.278     0.014      0.278     0.278     0.278      0.632    Motivational
+                 0.92      0.002      0.885     0.92      0.902      0.959    Smile
+                 0.784     0.011      0.734     0.784     0.758      0.886    Change
+                 0.52      0.004      0.619     0.52      0.565      0.758    Success
+                 0.556     0.013      0.5       0.556     0.526      0.771    Work
+                 0.6       0.005      0.625     0.6       0.612      0.798    Morning
+                 0.8       0.003      0.8       0.8       0.8        0.899    Money
+                 0.92      0.003      0.793     0.92      0.852      0.958    Music
+                 0.44      0.003      0.688     0.44      0.537      0.719    Education
+                 0.625     0.001      0.882     0.625     0.732      0.812    Women
+                 0.76      0.003      0.792     0.76      0.776      0.879    Trust
+                 0.4       0.002      0.714     0.4       0.513      0.699    Faith
+                 0.84      0.004      0.75      0.84      0.792      0.918    Family
+                 0.68      0.001      0.895     0.68      0.773      0.839    Sad
+                 0.44      0.004      0.579     0.44      0.5        0.718    Learning
+                 0.16      0.004      0.364     0.16      0.222      0.578    History
+                 0.56      0.001      0.875     0.56      0.683      0.779    Travel
+Weighted Avg.    0.663     0.015      0.664     0.663     0.656      0.824
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z  aa  ab  ac  ad  ae  af  ag  ah  ai  aj  ak  al  am  an  ao  ap  aq   <-- classified as
+ 126   3   1   3   0   0   0   0   1   0   0   0   2   1   0   2   1   1   0   0   1   1   0   0   0   1   1   0   1   0   2   0   0   0   0   0   0   0   0   0   0   1   0 |   a = Art
+   1 102   4   1   0   0   1   0   1   0   0   1   3   0   0   0   0   0   0   1   0   1   0   0   0   0   0   1   0   0   2   0   0   3   0   0   0   0   2   0   1   0   0 |   b = Beauty
+   1   1 100   9   1   0   2   0   3   3   1   2   4   2   0   3   1   0   4   1   0   1   2   0   0   0   0   2   0   0   0   0   1   2   1   0   1   0   0   0   0   1   0 |   c = Love
+   4   1   7  96   0   0   0   0   1   1   1   0   6   1   1   3   2   3   0   2   1   0   2   0   0   1   4   0   5   0   2   3   0   0   0   0   0   0   1   0   1   0   0 |   d = Life
+   0   0   0   0  45   1   0   0   0   0   0   1   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0 |   e = Knowledge
+   3   0   1   0   0  17   0   0   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0 |   f = Truth
+   0   1   0   1   0   0  24   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   1   0   0   0   0   1   0   0   0   0   0   0 |   g = Best
+   0   1   1   3   0   0   0  23   1   0   0   3   1   1   2   0   0   1   0   0   0   0   0   1   1   0   1   0   1   1   1   0   0   0   0   1   0   0   0   0   0   0   0 |   h = Strength
+   3   0   1   6   0   0   0   0  42   1   1   0   0   0   0   1   1   1   0   0   0   1   0   0   0   1   1   0   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0 |   i = Great
+   3   1   2   4   0   0   0   0   1  30   0   1   1   0   0   2   0   0   1   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0 |   j = Friendship
+   0   0   0   1   0   0   0   0   0   0  21   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0 |   k = Hope
+   0   0   0   0   1   0   0   0   0   0   0  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   l = Power
+   6   0   6  12   0   0   0   0   2   0   0   0  12   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   2   1   0   2   0   0   0   1   0   0   2   0   0   1   0 |   m = Funny
+   0   0   0   3   0   0   0   1   0   0   0   0   0  12   0   0   0   5   0   0   0   0   0   0   0   0   0   0   2   0   1   0   1   0   0   0   0   0   0   0   0   0   0 |   n = Time
+   0   0   1   2   0   0   0   1   0   0   0   1   0   0  19   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0 |   o = Courage
+   0   0   1   3   0   1   0   0   0   0   0   1   0   0   0  40   0   1   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0 |   p = Happiness
+   5   1   3   4   7   0   1   1   1   0   0   0   1   0   1   0  18   1   0   0   0   0   0   0   0   0   2   0   1   0   0   0   1   0   0   0   0   0   0   0   0   0   2 |   q = Wisdom
+   0   0   0   4   0   0   0   0   0   0   0   0   1   1   0   0   1  64   0   1   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   1   0   0   0   0 |   r = Future
+   1   0   3   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0  18   0   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   s = Alone
+   1   0   0   0   1   2   0   0   0   0   0   0   1   0   0   0   0   0   1  14   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   2   2   0   0   0   0   0 |   t = God
+   1   1   0   0   0   0   1   0   2   0   0   0   0   0   0   0   0   0   0   0  37   0   0   3   0   0   2   0   0   1   1   1   0   0   0   0   0   0   0   0   0   0   0 |   u = Dreams
+   0   1   1   0   0   0   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0  19   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0 |   v = Home
+   4   1   2   5   0   0   2   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0 |   w = Nature
+   1   1   3   3   0   0   2   0   0   0   0   0   1   1   0   3   0   0   0   1   1   0   0   1   0   0   2   0   3   0   2   0   0   0   0   0   0   0   0   0   0   0   0 |   x = Inspirational
+   3   0   0   1   0   1   1   0   1   0   0   0   1   0   0   0   1   1   0   0   0   0   0   0  12   0   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0   1   0 |   y = War
+   0   0   2   0   1   0   0   1   0   1   2   2   0   0   0   0   0   0   0   0   0   0   0   0   0  41   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   z = Freedom
+   1   0   1   6   0   1   1   1   2   0   1   0   2   0   0   0   3   1   0   0   2   0   0   1   0   0  10   0   0   2   1   0   0   0   0   0   0   0   0   0   0   0   0 |  aa = Motivational
+   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  23   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |  ab = Smile
+   1   0   1   2   0   1   0   1   0   1   1   1   0   3   0   0   0   0   0   0   0   0   0   0   0   1   0   0  58   0   1   1   0   0   0   0   0   0   0   0   1   0   0 |  ac = Change
+   2   0   1   4   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  13   2   0   0   0   1   0   0   1   0   0   0   0   0 |  ad = Success
+   3   0   2   2   0   0   0   0   1   0   0   0   2   1   0   2   0   0   0   0   1   0   0   0   0   0   0   0   2   1  25   1   1   0   0   0   0   0   0   0   1   0   0 |  ae = Work
+   0   0   2   2   0   0   1   0   0   1   0   0   1   1   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0  15   0   0   0   0   0   0   0   0   0   0   0 |  af = Morning
+   0   0   1   0   0   0   0   0   1   0   0   0   0   1   0   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0  20   0   0   0   0   0   0   0   0   0   0 |  ag = Money
+   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  23   0   0   0   0   0   1   0   0   0 |  ah = Music
+   0   0   0   3   2   0   1   0   0   0   0   1   0   2   0   0   0   0   1   0   0   0   0   0   0   1   2   0   0   0   0   0   0   0  11   0   0   0   0   0   1   0   0 |  ai = Education
+   1   0   0   1   0   0   0   0   1   0   0   0   4   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0  15   0   0   0   0   0   0   0 |  aj = Women
+   0   0   2   0   0   2   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  19   0   0   0   0   0   0 |  ak = Trust
+   1   0   2   0   0   0   0   1   1   0   0   1   0   1   0   0   1   0   0   5   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0   0   0  10   0   0   0   0   0 |  al = Faith
+   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  21   0   0   0   0 |  am = Family
+   0   0   0   6   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  17   0   0   0 |  an = Sad
+   0   0   2   5   1   0   0   0   1   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0  11   1   0 |  ao = Learning
+   2   0   2   5   0   0   1   0   2   0   0   0   2   0   1   0   0   2   0   0   0   0   0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   1   0   0   0   4   0 |  ap = History
+   1   0   2   1   0   0   0   0   1   1   0   0   0   0   0   0   1   0   0   0   1   1   0   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   0   0   0   0  14 |  aq = Travel
+

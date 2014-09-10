@@ -1,0 +1,3026 @@
+@relation Camera__133Negetive293Positive-weka.filters.unsupervised.attribute.NominalToString-C1-weka.filters.unsupervised.attribute.StringToWordVector-R1-W2000-prune-rate-1.0-C-T-N1-L-S-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.AlphabeticTokenizer
+
+@attribute ' negative' {' negative',' positive'}
+@attribute absolutely numeric
+@attribute absurd numeric
+@attribute acceleration numeric
+@attribute accentuates numeric
+@attribute accept numeric
+@attribute acceptable numeric
+@attribute access numeric
+@attribute accessories numeric
+@attribute account numeric
+@attribute accumulated numeric
+@attribute accumulates numeric
+@attribute accumulating numeric
+@attribute acknoledge numeric
+@attribute acknoledges numeric
+@attribute acknowledge numeric
+@attribute acknowledged numeric
+@attribute acknowledgement numeric
+@attribute acquired numeric
+@attribute action numeric
+@attribute actions numeric
+@attribute activation numeric
+@attribute activations numeric
+@attribute actuation numeric
+@attribute actuations numeric
+@attribute adapter numeric
+@attribute add numeric
+@attribute added numeric
+@attribute adding numeric
+@attribute addison numeric
+@attribute additional numeric
+@attribute address numeric
+@attribute addressed numeric
+@attribute addresses numeric
+@attribute adds numeric
+@attribute adhered numeric
+@attribute adjust numeric
+@attribute adjusting numeric
+@attribute admit numeric
+@attribute admitted numeric
+@attribute admitting numeric
+@attribute adopter numeric
+@attribute adopters numeric
+@attribute advancing numeric
+@attribute advantage numeric
+@attribute advertised numeric
+@attribute advocate numeric
+@attribute af numeric
+@attribute affected numeric
+@attribute affecting numeric
+@attribute afford numeric
+@attribute aforementioned numeric
+@attribute afraid numeric
+@attribute afternoon numeric
+@attribute agent numeric
+@attribute ago numeric
+@attribute agree numeric
+@attribute agreed numeric
+@attribute ahead numeric
+@attribute ai numeric
+@attribute air numeric
+@attribute alert numeric
+@attribute aligned numeric
+@attribute alike numeric
+@attribute amateur numeric
+@attribute amateurs numeric
+@attribute amazing numeric
+@attribute amazon numeric
+@attribute america numeric
+@attribute amount numeric
+@attribute amounts numeric
+@attribute annoyed numeric
+@attribute annoying numeric
+@attribute answer numeric
+@attribute answered numeric
+@attribute answering numeric
+@attribute anticipation numeric
+@attribute anymore numeric
+@attribute aperture numeric
+@attribute apertures numeric
+@attribute aperturewhile numeric
+@attribute apologizing numeric
+@attribute apparent numeric
+@attribute apparently numeric
+@attribute appearance numeric
+@attribute appeared numeric
+@attribute appearing numeric
+@attribute appears numeric
+@attribute appease numeric
+@attribute apply numeric
+@attribute approach numeric
+@attribute approx numeric
+@attribute area numeric
+@attribute arena numeric
+@attribute arrived numeric
+@attribute arrives numeric
+@attribute article numeric
+@attribute ashamed numeric
+@attribute asked numeric
+@attribute asks numeric
+@attribute aspect numeric
+@attribute asses numeric
+@attribute assets numeric
+@attribute assist numeric
+@attribute assume numeric
+@attribute assured numeric
+@attribute attached numeric
+@attribute attaching numeric
+@attribute attempt numeric
+@attribute attempting numeric
+@attribute attending numeric
+@attribute attention numeric
+@attribute attitude numeric
+@attribute attracts numeric
+@attribute aug numeric
+@attribute austin numeric
+@attribute authorization numeric
+@attribute auto numeric
+@attribute autofocus numeric
+@attribute automatic numeric
+@attribute automatically numeric
+@attribute avoid numeric
+@attribute awaiting numeric
+@attribute aware numeric
+@attribute awesome numeric
+@attribute awful numeric
+@attribute awhile numeric
+@attribute back numeric
+@attribute background numeric
+@attribute backpack numeric
+@attribute backup numeric
+@attribute bad numeric
+@attribute badly numeric
+@attribute balance numeric
+@attribute ball numeric
+@attribute ballhead numeric
+@attribute barely numeric
+@attribute bars numeric
+@attribute based numeric
+@attribute basic numeric
+@attribute basically numeric
+@attribute batch numeric
+@attribute bay numeric
+@attribute beautiful numeric
+@attribute began numeric
+@attribute beginning numeric
+@attribute behalf numeric
+@attribute behavior numeric
+@attribute benefit numeric
+@attribute bestbuy numeric
+@attribute beta numeric
+@attribute betterment numeric
+@attribute beware numeric
+@attribute bh numeric
+@attribute big numeric
+@attribute bigger numeric
+@attribute biggest numeric
+@attribute biggie numeric
+@attribute bill numeric
+@attribute bit numeric
+@attribute black numeric
+@attribute blah numeric
+@attribute blaster numeric
+@attribute blew numeric
+@attribute bloated numeric
+@attribute blobs numeric
+@attribute blogs numeric
+@attribute blotchy numeric
+@attribute blow numeric
+@attribute blower numeric
+@attribute blowouts numeric
+@attribute blows numeric
+@attribute blue numeric
+@attribute bodies numeric
+@attribute body numeric
+@attribute bother numeric
+@attribute bottom numeric
+@attribute bought numeric
+@attribute box numeric
+@attribute boxed numeric
+@attribute brainer numeric
+@attribute brand numeric
+@attribute breaker numeric
+@attribute brenizer numeric
+@attribute broke numeric
+@attribute broken numeric
+@attribute brought numeric
+@attribute brush numeric
+@attribute btw numeric
+@attribute bubble numeric
+@attribute bucks numeric
+@attribute budget numeric
+@attribute build numeric
+@attribute bunch numeric
+@attribute bundled numeric
+@attribute burn numeric
+@attribute burst numeric
+@attribute business numeric
+@attribute buttons numeric
+@attribute buy numeric
+@attribute buyer numeric
+@attribute buyers numeric
+@attribute buying numeric
+@attribute bythom numeric
+@attribute california numeric
+@attribute call numeric
+@attribute called numeric
+@attribute calling numeric
+@attribute calls numeric
+@attribute camera numeric
+@attribute camerain numeric
+@attribute cameras numeric
+@attribute cameraswhat numeric
+@attribute camerathank numeric
+@attribute canned numeric
+@attribute canon numeric
+@attribute cap numeric
+@attribute capabilities numeric
+@attribute capability numeric
+@attribute captured numeric
+@attribute car numeric
+@attribute card numeric
+@attribute cards numeric
+@attribute care numeric
+@attribute careful numeric
+@attribute carefully numeric
+@attribute carrier numeric
+@attribute cart numeric
+@attribute case numeric
+@attribute cases numeric
+@attribute cash numeric
+@attribute caught numeric
+@attribute caused numeric
+@attribute causing numeric
+@attribute center numeric
+@attribute chain numeric
+@attribute chance numeric
+@attribute chances numeric
+@attribute change numeric
+@attribute changing numeric
+@attribute charge numeric
+@attribute charged numeric
+@attribute charges numeric
+@attribute cheaper numeric
+@attribute check numeric
+@attribute checked numeric
+@attribute checkout numeric
+@attribute china numeric
+@attribute choice numeric
+@attribute choose numeric
+@attribute choosing numeric
+@attribute chris numeric
+@attribute circumstances numeric
+@attribute clarity numeric
+@attribute class numeric
+@attribute clean numeric
+@attribute cleanable numeric
+@attribute cleaned numeric
+@attribute cleaning numeric
+@attribute cleanings numeric
+@attribute clear numeric
+@attribute click numeric
+@attribute clicked numeric
+@attribute clicks numeric
+@attribute close numeric
+@attribute closer numeric
+@attribute closure numeric
+@attribute clouds numeric
+@attribute clubs numeric
+@attribute clue numeric
+@attribute clustered numeric
+@attribute codes numeric
+@attribute colleagues numeric
+@attribute collecting numeric
+@attribute collective numeric
+@attribute collide numeric
+@attribute colored numeric
+@attribute colors numeric
+@attribute comfortable numeric
+@attribute coming numeric
+@attribute command numeric
+@attribute common numeric
+@attribute compact numeric
+@attribute companies numeric
+@attribute company numeric
+@attribute compare numeric
+@attribute compared numeric
+@attribute comparison numeric
+@attribute compatible numeric
+@attribute competitive numeric
+@attribute compiled numeric
+@attribute complain numeric
+@attribute complains numeric
+@attribute complaints numeric
+@attribute complete numeric
+@attribute completely numeric
+@attribute comply numeric
+@attribute compressed numeric
+@attribute computer numeric
+@attribute concept numeric
+@attribute concern numeric
+@attribute concerned numeric
+@attribute concerns numeric
+@attribute concerts numeric
+@attribute conclusion numeric
+@attribute conditions numeric
+@attribute confidence numeric
+@attribute confident numeric
+@attribute confirmed numeric
+@attribute confirming numeric
+@attribute conscience numeric
+@attribute conscientiously numeric
+@attribute consistent numeric
+@attribute constant numeric
+@attribute consult numeric
+@attribute consulting numeric
+@attribute consumer numeric
+@attribute consumers numeric
+@attribute contact numeric
+@attribute contamination numeric
+@attribute continue numeric
+@attribute continued numeric
+@attribute continues numeric
+@attribute continuous numeric
+@attribute continuously numeric
+@attribute contrast numeric
+@attribute control numeric
+@attribute controls numeric
+@attribute convinced numeric
+@attribute copy numeric
+@attribute copying numeric
+@attribute corner numeric
+@attribute corporate numeric
+@attribute correct numeric
+@attribute corrected numeric
+@attribute correcting numeric
+@attribute cost numeric
+@attribute costco numeric
+@attribute costing numeric
+@attribute costs numeric
+@attribute cottage numeric
+@attribute cough numeric
+@attribute couldn numeric
+@attribute counter numeric
+@attribute country numeric
+@attribute couple numeric
+@attribute court numeric
+@attribute cousin numeric
+@attribute cover numeric
+@attribute coverage numeric
+@attribute covered numeric
+@attribute covering numeric
+@attribute cpu numeric
+@attribute crap numeric
+@attribute crapola numeric
+@attribute crappy numeric
+@attribute created numeric
+@attribute credibility numeric
+@attribute credit numeric
+@attribute crisp numeric
+@attribute critical numeric
+@attribute crop numeric
+@attribute cruel numeric
+@attribute cryptic numeric
+@attribute current numeric
+@attribute cust numeric
+@attribute customer numeric
+@attribute customers numeric
+@attribute cybershot numeric
+@attribute cycle numeric
+@attribute daily numeric
+@attribute dallas numeric
+@attribute damaging numeric
+@attribute damn numeric
+@attribute dark numeric
+@attribute data numeric
+@attribute date numeric
+@attribute day numeric
+@attribute days numeric
+@attribute de numeric
+@attribute deal numeric
+@attribute dealer numeric
+@attribute dealing numeric
+@attribute debris numeric
+@attribute dec numeric
+@attribute decent numeric
+@attribute decide numeric
+@attribute decided numeric
+@attribute decision numeric
+@attribute defect numeric
+@attribute defective numeric
+@attribute delay numeric
+@attribute delhi numeric
+@attribute delighted numeric
+@attribute delivery numeric
+@attribute demands numeric
+@attribute demonstrating numeric
+@attribute denying numeric
+@attribute department numeric
+@attribute deposits numeric
+@attribute design numeric
+@attribute designed numeric
+@attribute desirable numeric
+@attribute details numeric
+@attribute determine numeric
+@attribute devalued numeric
+@attribute developing numeric
+@attribute development numeric
+@attribute dial numeric
+@attribute didn numeric
+@attribute difference numeric
+@attribute difficult numeric
+@attribute digital numeric
+@attribute dilemma numeric
+@attribute din numeric
+@attribute directly numeric
+@attribute dirt numeric
+@attribute dirtier numeric
+@attribute dirty numeric
+@attribute disappointed numeric
+@attribute disappointing numeric
+@attribute disappointment numeric
+@attribute discount numeric
+@attribute discourage numeric
+@attribute discouraged numeric
+@attribute discover numeric
+@attribute discovered numeric
+@attribute disgusting numeric
+@attribute disk numeric
+@attribute dispair numeric
+@attribute display numeric
+@attribute displeasure numeric
+@attribute distance numeric
+@attribute distinct numeric
+@attribute distributor numeric
+@attribute disturbing numeric
+@attribute doesn numeric
+@attribute don numeric
+@attribute dont numeric
+@attribute door numeric
+@attribute dots numeric
+@attribute doubt numeric
+@attribute downside numeric
+@attribute dozens numeric
+@attribute dpreview numeric
+@attribute drastic numeric
+@attribute dreaded numeric
+@attribute dream numeric
+@attribute drives numeric
+@attribute drop numeric
+@attribute dropped numeric
+@attribute drops numeric
+@attribute dslr numeric
+@attribute dslrs numeric
+@attribute dud numeric
+@attribute due numeric
+@attribute dumb numeric
+@attribute dust numeric
+@attribute dusting numeric
+@attribute dusts numeric
+@attribute dx numeric
+@attribute dynamic numeric
+@attribute eagerly numeric
+@attribute early numeric
+@attribute earned numeric
+@attribute ease numeric
+@attribute easy numeric
+@attribute eat numeric
+@attribute ebay numeric
+@attribute ecosystem numeric
+@attribute edges numeric
+@attribute edit numeric
+@attribute editing numeric
+@attribute effected numeric
+@attribute effort numeric
+@attribute efforts numeric
+@attribute el numeric
+@attribute elimination numeric
+@attribute elliott numeric
+@attribute email numeric
+@attribute emails numeric
+@attribute embarrassed numeric
+@attribute embarrassment numeric
+@attribute emotionally numeric
+@attribute empathize numeric
+@attribute emphasize numeric
+@attribute employees numeric
+@attribute end numeric
+@attribute ends numeric
+@attribute enjoy numeric
+@attribute enjoying numeric
+@attribute enlarge numeric
+@attribute ensure numeric
+@attribute enthusiast numeric
+@attribute entire numeric
+@attribute equipment numeric
+@attribute equity numeric
+@attribute ergonomics numeric
+@attribute eroded numeric
+@attribute espically numeric
+@attribute estate numeric
+@attribute ethical numeric
+@attribute europes numeric
+@attribute evauluating numeric
+@attribute evening numeric
+@attribute event numeric
+@attribute eventually numeric
+@attribute evidence numeric
+@attribute exact numeric
+@attribute examination numeric
+@attribute examine numeric
+@attribute excellent numeric
+@attribute excepting numeric
+@attribute exceptional numeric
+@attribute excess numeric
+@attribute excessive numeric
+@attribute exchange numeric
+@attribute exchanged numeric
+@attribute excited numeric
+@attribute exclusive numeric
+@attribute excuse numeric
+@attribute execllent numeric
+@attribute exfoliating numeric
+@attribute exhibits numeric
+@attribute exist numeric
+@attribute existent numeric
+@attribute existing numeric
+@attribute expect numeric
+@attribute expected numeric
+@attribute expecting numeric
+@attribute expense numeric
+@attribute expensive numeric
+@attribute experience numeric
+@attribute experienced numeric
+@attribute experiencing numeric
+@attribute expiration numeric
+@attribute expires numeric
+@attribute explained numeric
+@attribute exposure numeric
+@attribute extended numeric
+@attribute extensive numeric
+@attribute external numeric
+@attribute extras numeric
+@attribute eye numeric
+@attribute eyes numeric
+@attribute face numeric
+@attribute fact numeric
+@attribute factory numeric
+@attribute facts numeric
+@attribute fail numeric
+@attribute failed numeric
+@attribute failure numeric
+@attribute fainter numeric
+@attribute fair numeric
+@attribute faith numeric
+@attribute fall numeric
+@attribute falling numeric
+@attribute family numeric
+@attribute fans numeric
+@attribute fantastic numeric
+@attribute fashioned numeric
+@attribute fast numeric
+@attribute faster numeric
+@attribute fatal numeric
+@attribute faulty numeric
+@attribute favor numeric
+@attribute favorable numeric
+@attribute feature numeric
+@attribute features numeric
+@attribute feb numeric
+@attribute february numeric
+@attribute fee numeric
+@attribute feedback numeric
+@attribute feel numeric
+@attribute feeling numeric
+@attribute feels numeric
+@attribute fellow numeric
+@attribute felt numeric
+@attribute ferrari numeric
+@attribute fiasco numeric
+@attribute figured numeric
+@attribute file numeric
+@attribute files numeric
+@attribute fill numeric
+@attribute filled numeric
+@attribute filter numeric
+@attribute filthy numeric
+@attribute final numeric
+@attribute finally numeric
+@attribute financial numeric
+@attribute find numeric
+@attribute finder numeric
+@attribute fine numeric
+@attribute finessing numeric
+@attribute finger numeric
+@attribute firmware numeric
+@attribute fist numeric
+@attribute fit numeric
+@attribute fix numeric
+@attribute fixed numeric
+@attribute fixes numeric
+@attribute fixing numeric
+@attribute flagship numeric
+@attribute flake numeric
+@attribute flash numeric
+@attribute flashes numeric
+@attribute flat numeric
+@attribute flaw numeric
+@attribute flaws numeric
+@attribute flex numeric
+@attribute flinging numeric
+@attribute focus numeric
+@attribute focused numeric
+@attribute focusing numeric
+@attribute fogs numeric
+@attribute folks numeric
+@attribute follow numeric
+@attribute fora numeric
+@attribute forced numeric
+@attribute foredit numeric
+@attribute fork numeric
+@attribute forked numeric
+@attribute form numeric
+@attribute formula numeric
+@attribute fortunately numeric
+@attribute forums numeric
+@attribute forward numeric
+@attribute found numeric
+@attribute fourth numeric
+@attribute frame numeric
+@attribute framed numeric
+@attribute freaking numeric
+@attribute free numeric
+@attribute frequently numeric
+@attribute friday numeric
+@attribute friends numeric
+@attribute front numeric
+@attribute frustrated numeric
+@attribute fuel numeric
+@attribute fulfill numeric
+@attribute full numeric
+@attribute fully numeric
+@attribute fumeiyo numeric
+@attribute fun numeric
+@attribute function numeric
+@attribute fundamental numeric
+@attribute future numeric
+@attribute fx numeric
+@attribute fyi numeric
+@attribute game numeric
+@attribute gap numeric
+@attribute garbage numeric
+@attribute gathered numeric
+@attribute gave numeric
+@attribute gb numeric
+@attribute gear numeric
+@attribute generate numeric
+@attribute generated numeric
+@attribute generations numeric
+@attribute generous numeric
+@attribute genuine numeric
+@attribute giant numeric
+@attribute gift numeric
+@attribute give numeric
+@attribute giving numeric
+@attribute glad numeric
+@attribute glass numeric
+@attribute glasses numeric
+@attribute glowing numeric
+@attribute god numeric
+@attribute good numeric
+@attribute goodbye numeric
+@attribute google numeric
+@attribute googled numeric
+@attribute gracious numeric
+@attribute graciously numeric
+@attribute grade numeric
+@attribute gradually numeric
+@attribute grand numeric
+@attribute granular numeric
+@attribute grease numeric
+@attribute greased numeric
+@attribute great numeric
+@attribute greeko numeric
+@attribute grilling numeric
+@attribute grime numeric
+@attribute guarantee numeric
+@attribute guess numeric
+@attribute guidance numeric
+@attribute guide numeric
+@attribute guilt numeric
+@attribute gut numeric
+@attribute guy numeric
+@attribute hadn numeric
+@attribute half numeric
+@attribute halloween numeric
+@attribute halt numeric
+@attribute hampshire numeric
+@attribute hand numeric
+@attribute handle numeric
+@attribute handled numeric
+@attribute handles numeric
+@attribute hands numeric
+@attribute happen numeric
+@attribute happening numeric
+@attribute happy numeric
+@attribute hard numeric
+@attribute hasn numeric
+@attribute hassle numeric
+@attribute hate numeric
+@attribute haunt numeric
+@attribute haven numeric
+@attribute headache numeric
+@attribute hear numeric
+@attribute heard numeric
+@attribute heart numeric
+@attribute heavy numeric
+@attribute held numeric
+@attribute hell numeric
+@attribute helps numeric
+@attribute hero numeric
+@attribute herpes numeric
+@attribute hesitation numeric
+@attribute hey numeric
+@attribute hide numeric
+@attribute high numeric
+@attribute higher numeric
+@attribute highly numeric
+@attribute hike numeric
+@attribute hinges numeric
+@attribute hit numeric
+@attribute hitting numeric
+@attribute hobby numeric
+@attribute hogan numeric
+@attribute hold numeric
+@attribute holiday numeric
+@attribute holidays numeric
+@attribute holiest numeric
+@attribute holy numeric
+@attribute home numeric
+@attribute homepage numeric
+@attribute homework numeric
+@attribute honest numeric
+@attribute honestly numeric
+@attribute hope numeric
+@attribute hoped numeric
+@attribute hopes numeric
+@attribute hoping numeric
+@attribute horrible numeric
+@attribute horror numeric
+@attribute hour numeric
+@attribute hours numeric
+@attribute housing numeric
+@attribute huge numeric
+@attribute humanity numeric
+@attribute hundred numeric
+@attribute hundreds numeric
+@attribute hung numeric
+@attribute hurts numeric
+@attribute idea numeric
+@attribute ignore numeric
+@attribute ii numeric
+@attribute iii numeric
+@attribute image numeric
+@attribute images numeric
+@attribute imagine numeric
+@attribute imgur numeric
+@attribute imho numeric
+@attribute immediately numeric
+@attribute implied numeric
+@attribute imply numeric
+@attribute impossible numeric
+@attribute impression numeric
+@attribute impressive numeric
+@attribute improved numeric
+@attribute improvement numeric
+@attribute improving numeric
+@attribute impulsively numeric
+@attribute incentive numeric
+@attribute including numeric
+@attribute incompetent numeric
+@attribute increase numeric
+@attribute increased numeric
+@attribute increasing numeric
+@attribute incredible numeric
+@attribute india numeric
+@attribute indian numeric
+@attribute indicating numeric
+@attribute indoor numeric
+@attribute indoors numeric
+@attribute infamous numeric
+@attribute info numeric
+@attribute information numeric
+@attribute informed numeric
+@attribute informing numeric
+@attribute infuriated numeric
+@attribute initial numeric
+@attribute injection numeric
+@attribute insane numeric
+@attribute inside numeric
+@attribute inspecting numeric
+@attribute installing numeric
+@attribute instance numeric
+@attribute instructions numeric
+@attribute insult numeric
+@attribute insurance numeric
+@attribute insured numeric
+@attribute intact numeric
+@attribute intended numeric
+@attribute intercept numeric
+@attribute interestingly numeric
+@attribute internal numeric
+@attribute international numeric
+@attribute internationally numeric
+@attribute internet numeric
+@attribute introduced numeric
+@attribute introducing numeric
+@attribute introduction numeric
+@attribute inventory numeric
+@attribute invested numeric
+@attribute investing numeric
+@attribute investment numeric
+@attribute iq numeric
+@attribute irrelevant numeric
+@attribute isn numeric
+@attribute iso numeric
+@attribute isolated numeric
+@attribute issue numeric
+@attribute issues numeric
+@attribute ist numeric
+@attribute item numeric
+@attribute items numeric
+@attribute iterations numeric
+@attribute jan numeric
+@attribute january numeric
+@attribute japanese numeric
+@attribute job numeric
+@attribute joy numeric
+@attribute jpg numeric
+@attribute july numeric
+@attribute jump numeric
+@attribute jumped numeric
+@attribute junk numeric
+@attribute keepers numeric
+@attribute keeping numeric
+@attribute keh numeric
+@attribute ken numeric
+@attribute key numeric
+@attribute kicked numeric
+@attribute kicks numeric
+@attribute kid numeric
+@attribute kidding numeric
+@attribute kind numeric
+@attribute kit numeric
+@attribute knew numeric
+@attribute knowing numeric
+@attribute label numeric
+@attribute lack numeric
+@attribute lacking numeric
+@attribute lafayette numeric
+@attribute laid numeric
+@attribute lakes numeric
+@attribute landscape numeric
+@attribute language numeric
+@attribute large numeric
+@attribute largely numeric
+@attribute larger numeric
+@attribute launch numeric
+@attribute launched numeric
+@attribute lcd numeric
+@attribute leade numeric
+@attribute leads numeric
+@attribute leaning numeric
+@attribute learn numeric
+@attribute learned numeric
+@attribute learning numeric
+@attribute leave numeric
+@attribute leaves numeric
+@attribute leaving numeric
+@attribute left numeric
+@attribute lenrentals numeric
+@attribute lens numeric
+@attribute lenses numeric
+@attribute lensrentals numeric
+@attribute lesson numeric
+@attribute level numeric
+@attribute levels numeric
+@attribute levers numeric
+@attribute life numeric
+@attribute lifting numeric
+@attribute light numeric
+@attribute lightroom numeric
+@attribute limited numeric
+@attribute line numeric
+@attribute lingering numeric
+@attribute link numeric
+@attribute links numeric
+@attribute liquid numeric
+@attribute list numeric
+@attribute listed numeric
+@attribute listen numeric
+@attribute listens numeric
+@attribute lit numeric
+@attribute literally numeric
+@attribute live numeric
+@attribute loaded numeric
+@attribute loading numeric
+@attribute local numeric
+@attribute located numeric
+@attribute location numeric
+@attribute lock numeric
+@attribute locked numeric
+@attribute logical numeric
+@attribute long numeric
+@attribute longer numeric
+@attribute looked numeric
+@attribute losing numeric
+@attribute losses numeric
+@attribute lost numeric
+@attribute lot numeric
+@attribute lots numeric
+@attribute love numeric
+@attribute loved numeric
+@attribute loving numeric
+@attribute low numeric
+@attribute lower numeric
+@attribute lowered numeric
+@attribute loyalty numeric
+@attribute lr numeric
+@attribute lubricant numeric
+@attribute lubricating numeric
+@attribute luck numeric
+@attribute luckily numeric
+@attribute lucky numeric
+@attribute machine numeric
+@attribute macro numeric
+@attribute made numeric
+@attribute magical numeric
+@attribute main numeric
+@attribute maintain numeric
+@attribute major numeric
+@attribute majority numeric
+@attribute make numeric
+@attribute makes numeric
+@attribute making numeric
+@attribute man numeric
+@attribute management numeric
+@attribute manager numeric
+@attribute manipulations numeric
+@attribute manner numeric
+@attribute manual numeric
+@attribute manually numeric
+@attribute manufactured numeric
+@attribute manufacturer numeric
+@attribute manufacturers numeric
+@attribute manufacturing numeric
+@attribute march numeric
+@attribute margin numeric
+@attribute margins numeric
+@attribute marginscoupled numeric
+@attribute mark numeric
+@attribute materials numeric
+@attribute matic numeric
+@attribute matrix numeric
+@attribute matter numeric
+@attribute matters numeric
+@attribute mb numeric
+@attribute means numeric
+@attribute meantime numeric
+@attribute measures numeric
+@attribute mechanical numeric
+@attribute mechanism numeric
+@attribute megapixels numeric
+@attribute melville numeric
+@attribute member numeric
+@attribute memory numeric
+@attribute memtioned numeric
+@attribute mentally numeric
+@attribute mention numeric
+@attribute mentions numeric
+@attribute menu numeric
+@attribute merchandise numeric
+@attribute mess numeric
+@attribute messages numeric
+@attribute metal numeric
+@attribute mi numeric
+@attribute micro numeric
+@attribute mid numeric
+@attribute middle numeric
+@attribute midnight numeric
+@attribute mild numeric
+@attribute miles numeric
+@attribute mind numeric
+@attribute mine numeric
+@attribute mini numeric
+@attribute minimize numeric
+@attribute minor numeric
+@attribute minutes numeric
+@attribute mirror numeric
+@attribute miscommunications numeric
+@attribute mismatched numeric
+@attribute missed numeric
+@attribute missing numeric
+@attribute mistaken numeric
+@attribute mm numeric
+@attribute mnnn numeric
+@attribute moaned numeric
+@attribute mode numeric
+@attribute model numeric
+@attribute models numeric
+@attribute modifications numeric
+@attribute modified numeric
+@attribute module numeric
+@attribute moment numeric
+@attribute monday numeric
+@attribute money numeric
+@attribute monitor numeric
+@attribute month numeric
+@attribute months numeric
+@attribute morally numeric
+@attribute morning numeric
+@attribute mos numeric
+@attribute mountain numeric
+@attribute mounted numeric
+@attribute move numeric
+@attribute moved numeric
+@attribute movie numeric
+@attribute moving numeric
+@attribute mucho numeric
+@attribute multiple numeric
+@attribute mum numeric
+@attribute muscles numeric
+@attribute museum numeric
+@attribute nasty numeric
+@attribute nature numeric
+@attribute nearest numeric
+@attribute necessarily numeric
+@attribute needed numeric
+@attribute needless numeric
+@attribute nef numeric
+@attribute negative numeric
+@attribute newer numeric
+@attribute news numeric
+@attribute newspaper numeric
+@attribute nice numeric
+@attribute nicely numeric
+@attribute night numeric
+@attribute nikkor numeric
+@attribute nikon numeric
+@attribute nikons numeric
+@attribute nikonusers numeric
+@attribute nikor numeric
+@attribute noise numeric
+@attribute normal numeric
+@attribute note numeric
+@attribute noted numeric
+@attribute notice numeric
+@attribute noticeable numeric
+@attribute noticeably numeric
+@attribute noticed numeric
+@attribute noticing numeric
+@attribute november numeric
+@attribute nps numeric
+@attribute number numeric
+@attribute numbers numeric
+@attribute numerous numeric
+@attribute numerously numeric
+@attribute nuts numeric
+@attribute ny numeric
+@attribute objects numeric
+@attribute obscuring numeric
+@attribute obtained numeric
+@attribute occur numeric
+@attribute oct numeric
+@attribute october numeric
+@attribute offer numeric
+@attribute offered numeric
+@attribute offers numeric
+@attribute oil numeric
+@attribute oils numeric
+@attribute oily numeric
+@attribute onkyo numeric
+@attribute online numeric
+@attribute open numeric
+@attribute operation numeric
+@attribute opinion numeric
+@attribute optics numeric
+@attribute option numeric
+@attribute options numeric
+@attribute order numeric
+@attribute ordered numeric
+@attribute ordering numeric
+@attribute original numeric
+@attribute othe numeric
+@attribute outgrown numeric
+@attribute overexposed numeric
+@attribute overexposing numeric
+@attribute overnight numeric
+@attribute overshadowed numeric
+@attribute owned numeric
+@attribute owner numeric
+@attribute owners numeric
+@attribute owning numeric
+@attribute owns numeric
+@attribute paces numeric
+@attribute package numeric
+@attribute packing numeric
+@attribute pages numeric
+@attribute paid numeric
+@attribute painful numeric
+@attribute paint numeric
+@attribute paired numeric
+@attribute paperweight numeric
+@attribute part numeric
+@attribute particle numeric
+@attribute particles numeric
+@attribute parts numeric
+@attribute pass numeric
+@attribute passionate numeric
+@attribute past numeric
+@attribute pay numeric
+@attribute paying numeric
+@attribute peace numeric
+@attribute peak numeric
+@attribute peeper numeric
+@attribute pennies numeric
+@attribute pentax numeric
+@attribute people numeric
+@attribute percent numeric
+@attribute percentage numeric
+@attribute perfectly numeric
+@attribute perform numeric
+@attribute performance numeric
+@attribute period numeric
+@attribute periodic numeric
+@attribute periodically numeric
+@attribute persists numeric
+@attribute person numeric
+@attribute personal numeric
+@attribute phone numeric
+@attribute phones numeric
+@attribute photo numeric
+@attribute photograph numeric
+@attribute photographed numeric
+@attribute photographer numeric
+@attribute photographers numeric
+@attribute photographic numeric
+@attribute photographs numeric
+@attribute photography numeric
+@attribute photos numeric
+@attribute photoshop numeric
+@attribute pic numeric
+@attribute pick numeric
+@attribute picked numeric
+@attribute pickup numeric
+@attribute pics numeric
+@attribute picture numeric
+@attribute pictures numeric
+@attribute piece numeric
+@attribute pieces numeric
+@attribute pitty numeric
+@attribute pixel numeric
+@attribute place numeric
+@attribute places numeric
+@attribute placing numeric
+@attribute plagued numeric
+@attribute plaguing numeric
+@attribute plan numeric
+@attribute planning numeric
+@attribute platform numeric
+@attribute played numeric
+@attribute playing numeric
+@attribute pleaded numeric
+@attribute pleased numeric
+@attribute plenty numeric
+@attribute plummeted numeric
+@attribute pm numeric
+@attribute point numeric
+@attribute points numeric
+@attribute policies numeric
+@attribute policy numeric
+@attribute poor numeric
+@attribute poorly numeric
+@attribute pop numeric
+@attribute popped numeric
+@attribute possibly numeric
+@attribute post numeric
+@attribute postal numeric
+@attribute posting numeric
+@attribute pounds numeric
+@attribute power numeric
+@attribute premium numeric
+@attribute prepaid numeric
+@attribute prepared numeric
+@attribute pressured numeric
+@attribute pretend numeric
+@attribute pretended numeric
+@attribute pretends numeric
+@attribute pretty numeric
+@attribute prevalent numeric
+@attribute previos numeric
+@attribute previous numeric
+@attribute previously numeric
+@attribute price numeric
+@attribute prime numeric
+@attribute primes numeric
+@attribute principle numeric
+@attribute prism numeric
+@attribute prix numeric
+@attribute pro numeric
+@attribute problem numeric
+@attribute problems numeric
+@attribute problemsi numeric
+@attribute procedures numeric
+@attribute process numeric
+@attribute produce numeric
+@attribute produced numeric
+@attribute producing numeric
+@attribute product numeric
+@attribute productbut numeric
+@attribute production numeric
+@attribute professional numeric
+@attribute profit numeric
+@attribute program numeric
+@attribute prohibit numeric
+@attribute prohibitive numeric
+@attribute promote numeric
+@attribute proof numeric
+@attribute proper numeric
+@attribute propertly numeric
+@attribute pros numeric
+@attribute prospective numeric
+@attribute prosumer numeric
+@attribute protector numeric
+@attribute protocol numeric
+@attribute proud numeric
+@attribute proved numeric
+@attribute public numeric
+@attribute publicly numeric
+@attribute pulled numeric
+@attribute purchase numeric
+@attribute purchased numeric
+@attribute purchasing numeric
+@attribute pure numeric
+@attribute purpose numeric
+@attribute put numeric
+@attribute putting numeric
+@attribute qa numeric
+@attribute qaulity numeric
+@attribute quality numeric
+@attribute quarter numeric
+@attribute question numeric
+@attribute questions numeric
+@attribute queues numeric
+@attribute quick numeric
+@attribute quicker numeric
+@attribute quickly numeric
+@attribute quiet numeric
+@attribute quote numeric
+@attribute race numeric
+@attribute raises numeric
+@attribute ran numeric
+@attribute range numeric
+@attribute rant numeric
+@attribute rare numeric
+@attribute rarely numeric
+@attribute rating numeric
+@attribute raw numeric
+@attribute reached numeric
+@attribute read numeric
+@attribute reading numeric
+@attribute ready numeric
+@attribute real numeric
+@attribute reality numeric
+@attribute realize numeric
+@attribute realized numeric
+@attribute reallyrightstuiff numeric
+@attribute reappear numeric
+@attribute rear numeric
+@attribute reason numeric
+@attribute reasons numeric
+@attribute recall numeric
+@attribute recalled numeric
+@attribute recalling numeric
+@attribute receipt numeric
+@attribute received numeric
+@attribute receiver numeric
+@attribute recent numeric
+@attribute recently numeric
+@attribute recommend numeric
+@attribute recommendation numeric
+@attribute reconditioned numeric
+@attribute record numeric
+@attribute recurs numeric
+@attribute reduce numeric
+@attribute reducing numeric
+@attribute referenced numeric
+@attribute reflect numeric
+@attribute reflected numeric
+@attribute reflection numeric
+@attribute reflections numeric
+@attribute refund numeric
+@attribute refurbish numeric
+@attribute refurbished numeric
+@attribute refurbishments numeric
+@attribute refuse numeric
+@attribute refused numeric
+@attribute regularly numeric
+@attribute regulation numeric
+@attribute rehash numeric
+@attribute related numeric
+@attribute relations numeric
+@attribute relationship numeric
+@attribute release numeric
+@attribute released numeric
+@attribute releases numeric
+@attribute releasing numeric
+@attribute reliable numeric
+@attribute relish numeric
+@attribute remain numeric
+@attribute remained numeric
+@attribute remaining numeric
+@attribute remove numeric
+@attribute removed numeric
+@attribute rental numeric
+@attribute reoccur numeric
+@attribute rep numeric
+@attribute repair numeric
+@attribute repaired numeric
+@attribute repairs numeric
+@attribute repay numeric
+@attribute repeated numeric
+@attribute replace numeric
+@attribute replaced numeric
+@attribute replacement numeric
+@attribute replacing numeric
+@attribute reply numeric
+@attribute report numeric
+@attribute reported numeric
+@attribute reporting numeric
+@attribute reports numeric
+@attribute representative numeric
+@attribute reps numeric
+@attribute reputation numeric
+@attribute request numeric
+@attribute requested numeric
+@attribute requests numeric
+@attribute required numeric
+@attribute reschedule numeric
+@attribute research numeric
+@attribute researching numeric
+@attribute reserved numeric
+@attribute residue numeric
+@attribute resolution numeric
+@attribute resolutionas numeric
+@attribute resolved numeric
+@attribute resolving numeric
+@attribute respect numeric
+@attribute response numeric
+@attribute responses numeric
+@attribute responsibility numeric
+@attribute responsible numeric
+@attribute rest numeric
+@attribute restocking numeric
+@attribute result numeric
+@attribute retailer numeric
+@attribute retirement numeric
+@attribute retouching numeric
+@attribute retrospect numeric
+@attribute return numeric
+@attribute returned numeric
+@attribute returning numeric
+@attribute returns numeric
+@attribute reveal numeric
+@attribute revenue numeric
+@attribute reverse numeric
+@attribute review numeric
+@attribute reviewed numeric
+@attribute reviewers numeric
+@attribute reviews numeric
+@attribute reward numeric
+@attribute rid numeric
+@attribute rides numeric
+@attribute rights numeric
+@attribute risk numeric
+@attribute rlenses numeric
+@attribute rocket numeric
+@attribute rocks numeric
+@attribute rockwell numeric
+@attribute rolling numeric
+@attribute room numeric
+@attribute roughly numeric
+@attribute rubbing numeric
+@attribute rude numeric
+@attribute rug numeric
+@attribute rule numeric
+@attribute ruling numeric
+@attribute rumored numeric
+@attribute rumors numeric
+@attribute ryan numeric
+@attribute sad numeric
+@attribute sadly numeric
+@attribute sale numeric
+@attribute sales numeric
+@attribute salesman numeric
+@attribute sample numeric
+@attribute satisfactory numeric
+@attribute saturday numeric
+@attribute saving numeric
+@attribute savings numeric
+@attribute sb numeric
+@attribute scared numeric
+@attribute scenario numeric
+@attribute scene numeric
+@attribute school numeric
+@attribute science numeric
+@attribute scope numeric
+@attribute scratch numeric
+@attribute screen numeric
+@attribute sd numeric
+@attribute sealing numeric
+@attribute searching numeric
+@attribute secondary numeric
+@attribute seconds numeric
+@attribute sell numeric
+@attribute seller numeric
+@attribute selling numeric
+@attribute sells numeric
+@attribute send numeric
+@attribute sending numeric
+@attribute sensor numeric
+@attribute sensors numeric
+@attribute september numeric
+@attribute serial numeric
+@attribute seriousness numeric
+@attribute serve numeric
+@attribute service numeric
+@attribute serviced numeric
+@attribute services numeric
+@attribute set numeric
+@attribute setting numeric
+@attribute settings numeric
+@attribute settle numeric
+@attribute settles numeric
+@attribute severe numeric
+@attribute severely numeric
+@attribute shadows numeric
+@attribute shame numeric
+@attribute shavings numeric
+@attribute shiny numeric
+@attribute shipped numeric
+@attribute shipping numeric
+@attribute shocked numeric
+@attribute shoddy numeric
+@attribute shoot numeric
+@attribute shooting numeric
+@attribute shoots numeric
+@attribute shop numeric
+@attribute shopped numeric
+@attribute short numeric
+@attribute shortly numeric
+@attribute shot numeric
+@attribute shots numeric
+@attribute shouldn numeric
+@attribute show numeric
+@attribute showed numeric
+@attribute showing numeric
+@attribute shows numeric
+@attribute shuffle numeric
+@attribute shutter numeric
+@attribute shutters numeric
+@attribute side numeric
+@attribute sigma numeric
+@attribute significant numeric
+@attribute silent numeric
+@attribute similar numeric
+@attribute simple numeric
+@attribute simply numeric
+@attribute single numeric
+@attribute site numeric
+@attribute sites numeric
+@attribute situation numeric
+@attribute situations numeric
+@attribute size numeric
+@attribute sized numeric
+@attribute skipping numeric
+@attribute sky numeric
+@attribute sleight numeric
+@attribute slightly numeric
+@attribute sling numeric
+@attribute slip numeric
+@attribute slowly numeric
+@attribute slr numeric
+@attribute small numeric
+@attribute smaller numeric
+@attribute smudges numeric
+@attribute smuggy numeric
+@attribute sn numeric
+@attribute snow numeric
+@attribute software numeric
+@attribute sol numeric
+@attribute sold numeric
+@attribute solution numeric
+@attribute solutions numeric
+@attribute solves numeric
+@attribute son numeric
+@attribute sony numeric
+@attribute sooner numeric
+@attribute sort numeric
+@attribute sound numeric
+@attribute sounded numeric
+@attribute sounds numeric
+@attribute source numeric
+@attribute south numeric
+@attribute space numeric
+@attribute spatter numeric
+@attribute speak numeric
+@attribute special numeric
+@attribute specific numeric
+@attribute specifically numeric
+@attribute speck numeric
+@attribute specks numeric
+@attribute specs numeric
+@attribute speed numeric
+@attribute speedlight numeric
+@attribute spend numeric
+@attribute spending numeric
+@attribute spent numeric
+@attribute spews numeric
+@attribute splatter numeric
+@attribute spoils numeric
+@attribute spoke numeric
+@attribute sports numeric
+@attribute spot numeric
+@attribute spotless numeric
+@attribute spots numeric
+@attribute spotting numeric
+@attribute sprays numeric
+@attribute spread numeric
+@attribute spring numeric
+@attribute st numeric
+@attribute stabilize numeric
+@attribute stand numeric
+@attribute standing numeric
+@attribute star numeric
+@attribute stars numeric
+@attribute start numeric
+@attribute started numeric
+@attribute starting numeric
+@attribute starts numeric
+@attribute stay numeric
+@attribute stayed numeric
+@attribute staying numeric
+@attribute step numeric
+@attribute stick numeric
+@attribute stock numeric
+@attribute stop numeric
+@attribute stopped numeric
+@attribute stopping numeric
+@attribute stops numeric
+@attribute store numeric
+@attribute strategy numeric
+@attribute strong numeric
+@attribute structure numeric
+@attribute stuck numeric
+@attribute stuff numeric
+@attribute sturdy numeric
+@attribute style numeric
+@attribute subject numeric
+@attribute successful numeric
+@attribute suckered numeric
+@attribute sucks numeric
+@attribute suddenly numeric
+@attribute suffer numeric
+@attribute suggest numeric
+@attribute suggested numeric
+@attribute suggestion numeric
+@attribute sunday numeric
+@attribute super numeric
+@attribute superb numeric
+@attribute superior numeric
+@attribute supplied numeric
+@attribute supplier numeric
+@attribute support numeric
+@attribute supposedly numeric
+@attribute surely numeric
+@attribute surface numeric
+@attribute surfaces numeric
+@attribute surprise numeric
+@attribute surprised numeric
+@attribute surreal numeric
+@attribute suspect numeric
+@attribute swab numeric
+@attribute swabs numeric
+@attribute switch numeric
+@attribute sympathy numeric
+@attribute synopsis numeric
+@attribute system numeric
+@attribute tab numeric
+@attribute takes numeric
+@attribute takin numeric
+@attribute taking numeric
+@attribute talk numeric
+@attribute talked numeric
+@attribute talking numeric
+@attribute tamron numeric
+@attribute tarnishing numeric
+@attribute tax numeric
+@attribute tech numeric
+@attribute technical numeric
+@attribute technically numeric
+@attribute technique numeric
+@attribute technology numeric
+@attribute techs numeric
+@attribute telling numeric
+@attribute tender numeric
+@attribute test numeric
+@attribute tested numeric
+@attribute testers numeric
+@attribute testing numeric
+@attribute texas numeric
+@attribute thailand numeric
+@attribute thankfully numeric
+@attribute thee numeric
+@attribute thick numeric
+@attribute thing numeric
+@attribute things numeric
+@attribute thinking numeric
+@attribute thinks numeric
+@attribute thinktank numeric
+@attribute thirds numeric
+@attribute thom numeric
+@attribute thorougly numeric
+@attribute thought numeric
+@attribute thoughts numeric
+@attribute thousand numeric
+@attribute thousands numeric
+@attribute thrilled numeric
+@attribute throne numeric
+@attribute throw numeric
+@attribute throwing numeric
+@attribute thursday numeric
+@attribute tickets numeric
+@attribute tighter numeric
+@attribute time numeric
+@attribute times numeric
+@attribute tiny numeric
+@attribute today numeric
+@attribute told numeric
+@attribute tonight numeric
+@attribute tons numeric
+@attribute top numeric
+@attribute totally numeric
+@attribute touch numeric
+@attribute toyota numeric
+@attribute tqc numeric
+@attribute track numeric
+@attribute travel numeric
+@attribute traveling numeric
+@attribute travelling numeric
+@attribute treat numeric
+@attribute treated numeric
+@attribute treatment numeric
+@attribute tregards numeric
+@attribute triggered numeric
+@attribute trinity numeric
+@attribute trip numeric
+@attribute tripod numeric
+@attribute trouble numeric
+@attribute true numeric
+@attribute trust numeric
+@attribute tuesday numeric
+@attribute tuning numeric
+@attribute turned numeric
+@attribute tweets numeric
+@attribute tx numeric
+@attribute type numeric
+@attribute unable numeric
+@attribute unacceptable numeric
+@attribute underexpose numeric
+@attribute underexposed numeric
+@attribute underexposing numeric
+@attribute understand numeric
+@attribute understanding numeric
+@attribute understood numeric
+@attribute unethical numeric
+@attribute unhappy numeric
+@attribute uniform numeric
+@attribute unit numeric
+@attribute units numeric
+@attribute unknown numeric
+@attribute unmounted numeric
+@attribute unsuspecting numeric
+@attribute unusable numeric
+@attribute unusually numeric
+@attribute update numeric
+@attribute updated numeric
+@attribute updateit numeric
+@attribute updates numeric
+@attribute upgrade numeric
+@attribute upgraded numeric
+@attribute upgrading numeric
+@attribute upper numeric
+@attribute ups numeric
+@attribute upset numeric
+@attribute urls numeric
+@attribute usa numeric
+@attribute usable numeric
+@attribute usd numeric
+@attribute user numeric
+@attribute users numeric
+@attribute usual numeric
+@attribute usualy numeric
+@attribute vacuum numeric
+@attribute valuing numeric
+@attribute vanishing numeric
+@attribute vendor numeric
+@attribute version numeric
+@attribute vfx numeric
+@attribute vibration numeric
+@attribute video numeric
+@attribute videos numeric
+@attribute view numeric
+@attribute viewed numeric
+@attribute viewfinder numeric
+@attribute viewpoint numeric
+@attribute virtually numeric
+@attribute visible numeric
+@attribute visually numeric
+@attribute voice numeric
+@attribute void numeric
+@attribute voiding numeric
+@attribute vr numeric
+@attribute vrii numeric
+@attribute wait numeric
+@attribute waited numeric
+@attribute waiting numeric
+@attribute walk numeric
+@attribute walked numeric
+@attribute wall numeric
+@attribute wanted numeric
+@attribute wanting numeric
+@attribute warrant numeric
+@attribute warranty numeric
+@attribute wasn numeric
+@attribute ways numeric
+@attribute wear numeric
+@attribute web numeric
+@attribute website numeric
+@attribute wedding numeric
+@attribute weddings numeric
+@attribute week numeric
+@attribute weekends numeric
+@attribute weeks numeric
+@attribute weight numeric
+@attribute weren numeric
+@attribute wet numeric
+@attribute whats numeric
+@attribute wheels numeric
+@attribute white numeric
+@attribute wide numeric
+@attribute widespread numeric
+@attribute wife numeric
+@attribute wiggle numeric
+@attribute wild numeric
+@attribute win numeric
+@attribute winner numeric
+@attribute wipe numeric
+@attribute wipes numeric
+@attribute wireless numeric
+@attribute woman numeric
+@attribute won numeric
+@attribute wonderful numeric
+@attribute wondering numeric
+@attribute word numeric
+@attribute words numeric
+@attribute work numeric
+@attribute worked numeric
+@attribute working numeric
+@attribute workmanship numeric
+@attribute works numeric
+@attribute worried numeric
+@attribute worry numeric
+@attribute worse numeric
+@attribute worst numeric
+@attribute worth numeric
+@attribute worthless numeric
+@attribute wouldn numeric
+@attribute wow numeric
+@attribute write numeric
+@attribute writing numeric
+@attribute wrong numeric
+@attribute wu numeric
+@attribute xxx numeric
+@attribute xxxx numeric
+@attribute xxxxx numeric
+@attribute yeah numeric
+@attribute year numeric
+@attribute years numeric
+@attribute yesterday numeric
+@attribute zoo numeric
+@attribute zoom numeric
+@attribute aa numeric
+@attribute aaa numeric
+@attribute ability numeric
+@attribute abroad numeric
+@attribute accesories numeric
+@attribute accessory numeric
+@attribute accident numeric
+@attribute accidentally numeric
+@attribute accurate numeric
+@attribute activities numeric
+@attribute activity numeric
+@attribute acts numeric
+@attribute actual numeric
+@attribute ad numeric
+@attribute adept numeric
+@attribute adequate numeric
+@attribute adjusted numeric
+@attribute adjustments numeric
+@attribute adult numeric
+@attribute adultbut numeric
+@attribute adults numeric
+@attribute adultseasy numeric
+@attribute advanced numeric
+@attribute advice numeric
+@attribute advise numeric
+@attribute advised numeric
+@attribute affordable numeric
+@attribute age numeric
+@attribute allowing numeric
+@attribute alot numeric
+@attribute ama numeric
+@attribute amature numeric
+@attribute amazed numeric
+@attribute amozon numeric
+@attribute angle numeric
+@attribute anti numeric
+@attribute anticipated numeric
+@attribute applications numeric
+@attribute appreciated numeric
+@attribute archive numeric
+@attribute aren numeric
+@attribute artist numeric
+@attribute assignments numeric
+@attribute assumed numeric
+@attribute attach numeric
+@attribute audio numeric
+@attribute aunt numeric
+@attribute aunts numeric
+@attribute average numeric
+@attribute baby numeric
+@attribute backlit numeric
+@attribute bag numeric
+@attribute bang numeric
+@attribute bare numeric
+@attribute basics numeric
+@attribute batteries numeric
+@attribute battery numeric
+@attribute bc numeric
+@attribute beach numeric
+@attribute beat numeric
+@attribute beginner numeric
+@attribute bell numeric
+@attribute bells numeric
+@attribute belt numeric
+@attribute bicycle numeric
+@attribute bieber numeric
+@attribute biggy numeric
+@attribute birds numeric
+@attribute birthday numeric
+@attribute blaming numeric
+@attribute blur numeric
+@attribute blurry numeric
+@attribute bonous numeric
+@attribute born numeric
+@attribute borrowing numeric
+@attribute boughht numeric
+@attribute brain numeric
+@attribute break numeric
+@attribute bright numeric
+@attribute brightness numeric
+@attribute brilliant numeric
+@attribute brings numeric
+@attribute brother numeric
+@attribute buck numeric
+@attribute built numeric
+@attribute bulky numeric
+@attribute bundle numeric
+@attribute busy numeric
+@attribute butterfly numeric
+@attribute button numeric
+@attribute cable numeric
+@attribute cables numeric
+@attribute camcorder numeric
+@attribute camerabest numeric
+@attribute camp numeric
+@attribute cannon numeric
+@attribute cannons numeric
+@attribute canons numeric
+@attribute capabilty numeric
+@attribute capable numeric
+@attribute capacity numeric
+@attribute capture numeric
+@attribute carabiner numeric
+@attribute cardboard numeric
+@attribute caring numeric
+@attribute carribean numeric
+@attribute carry numeric
+@attribute carrying numeric
+@attribute casual numeric
+@attribute cat numeric
+@attribute catch numeric
+@attribute category numeric
+@attribute cats numeric
+@attribute cell numeric
+@attribute cellphone numeric
+@attribute centers numeric
+@attribute chafes numeric
+@attribute challenge numeric
+@attribute challenged numeric
+@attribute characteristics numeric
+@attribute charger numeric
+@attribute chargers numeric
+@attribute charging numeric
+@attribute chat numeric
+@attribute cheap numeric
+@attribute checking numeric
+@attribute cheese numeric
+@attribute cheesy numeric
+@attribute child numeric
+@attribute children numeric
+@attribute chip numeric
+@attribute chose numeric
+@attribute christmas numeric
+@attribute cio numeric
+@attribute city numeric
+@attribute classroom numeric
+@attribute clearwe numeric
+@attribute clip numeric
+@attribute clips numeric
+@attribute closed numeric
+@attribute cloudy numeric
+@attribute colonial numeric
+@attribute color numeric
+@attribute comment numeric
+@attribute comments numeric
+@attribute complained numeric
+@attribute complaint numeric
+@attribute complexities numeric
+@attribute complicated numeric
+@attribute con numeric
+@attribute concert numeric
+@attribute concise numeric
+@attribute confuse numeric
+@attribute confused numeric
+@attribute connect numeric
+@attribute cons numeric
+@attribute construction numeric
+@attribute consumption numeric
+@attribute contributes numeric
+@attribute convenient numeric
+@attribute coolpix numeric
+@attribute cord numeric
+@attribute corelogic numeric
+@attribute correctly numeric
+@attribute costed numeric
+@attribute couldnt numeric
+@attribute creative numeric
+@attribute creativeasin numeric
+@attribute creativity numeric
+@attribute credits numeric
+@attribute crispness numeric
+@attribute criteria numeric
+@attribute cruise numeric
+@attribute crystal numeric
+@attribute cumbersome numeric
+@attribute cute numeric
+@attribute cybeshot numeric
+@attribute cycling numeric
+@attribute dad numeric
+@attribute damage numeric
+@attribute damaged numeric
+@attribute damages numeric
+@attribute darling numeric
+@attribute dateand numeric
+@attribute daughter numeric
+@attribute deals numeric
+@attribute december numeric
+@attribute defined numeric
+@attribute delayed numeric
+@attribute delete numeric
+@attribute delicate numeric
+@attribute dependable numeric
+@attribute depending numeric
+@attribute describe numeric
+@attribute description numeric
+@attribute desktop numeric
+@attribute detail numeric
+@attribute didnt numeric
+@attribute died numeric
+@attribute digi numeric
+@attribute digic numeric
+@attribute directions numeric
+@attribute disapointed numeric
+@attribute disappoint numeric
+@attribute disc numeric
+@attribute discovering numeric
+@attribute discs numeric
+@attribute disney numeric
+@attribute disneyland numeric
+@attribute disorder numeric
+@attribute dlsr numeric
+@attribute doctor numeric
+@attribute documentation numeric
+@attribute doesnt numeric
+@attribute dog numeric
+@attribute dogs numeric
+@attribute dollars numeric
+@attribute double numeric
+@attribute download numeric
+@attribute downloaded numeric
+@attribute draker numeric
+@attribute drawback numeric
+@attribute driving numeric
+@attribute dropping numeric
+@attribute dvd numeric
+@attribute earlier numeric
+@attribute earliest numeric
+@attribute easier numeric
+@attribute easily numeric
+@attribute east numeric
+@attribute eco numeric
+@attribute educate numeric
+@attribute effect numeric
+@attribute efficient numeric
+@attribute elaborate numeric
+@attribute elderly numeric
+@attribute electronics numeric
+@attribute elf numeric
+@attribute eliminates numeric
+@attribute enjoys numeric
+@attribute enlarged numeric
+@attribute enthusiastically numeric
+@attribute entice numeric
+@attribute entry numeric
+@attribute erasing numeric
+@attribute error numeric
+@attribute espcially numeric
+@attribute essa numeric
+@attribute evaluate numeric
+@attribute evelyn numeric
+@attribute events numeric
+@attribute everyday numeric
+@attribute exceeded numeric
+@attribute exceeds numeric
+@attribute excelent numeric
+@attribute excellant numeric
+@attribute excelled numeric
+@attribute excellence numeric
+@attribute exclusively numeric
+@attribute exotic numeric
+@attribute expectation numeric
+@attribute expectations numeric
+@attribute expedient numeric
+@attribute experiment numeric
+@attribute expert numeric
+@attribute explain numeric
+@attribute explanatory numeric
+@attribute exposures numeric
+@attribute express numeric
+@attribute exstence numeric
+@attribute extra numeric
+@attribute extreme numeric
+@attribute extremely numeric
+@attribute fabulous numeric
+@attribute fairly numeric
+@attribute familiar numeric
+@attribute familiarity numeric
+@attribute fan numeric
+@attribute fancy numeric
+@attribute father numeric
+@attribute fathers numeric
+@attribute fault numeric
+@attribute favorite numeric
+@attribute fees numeric
+@attribute fewer numeric
+@attribute fiddled numeric
+@attribute fidget numeric
+@attribute figure numeric
+@attribute film numeric
+@attribute fingernails numeric
+@attribute firefighter numeric
+@attribute fires numeric
+@attribute fish numeric
+@attribute fishing numeric
+@attribute fits numeric
+@attribute floor numeric
+@attribute foi numeric
+@attribute foliage numeric
+@attribute foreign numeric
+@attribute forever numeric
+@attribute forget numeric
+@attribute forgot numeric
+@attribute fotos numeric
+@attribute france numeric
+@attribute frances numeric
+@attribute friend numeric
+@attribute friendly numeric
+@attribute fuji numeric
+@attribute fulfilled numeric
+@attribute functions numeric
+@attribute fuss numeric
+@attribute fussy numeric
+@attribute gail numeric
+@attribute galaxy numeric
+@attribute gambled numeric
+@attribute gardens numeric
+@attribute gary numeric
+@attribute gatherings numeric
+@attribute gee numeric
+@attribute general numeric
+@attribute generation numeric
+@attribute gf numeric
+@attribute giftcanon numeric
+@attribute gifts numeric
+@attribute gig numeric
+@attribute gizmos numeric
+@attribute glued numeric
+@attribute gold numeric
+@attribute gorgeous numeric
+@attribute gp numeric
+@attribute grab numeric
+@attribute grabbed numeric
+@attribute grader numeric
+@attribute graduation numeric
+@attribute grainy numeric
+@attribute grandchild numeric
+@attribute grandchildren numeric
+@attribute granddaughter numeric
+@attribute grandma numeric
+@attribute grandmothers numeric
+@attribute grandson numeric
+@attribute grandsons numeric
+@attribute grasp numeric
+@attribute greatgranddaughter numeric
+@attribute greathttps numeric
+@attribute greet numeric
+@attribute ground numeric
+@attribute grown numeric
+@attribute haha numeric
+@attribute handbag numeric
+@attribute handling numeric
+@attribute handy numeric
+@attribute hang numeric
+@attribute happier numeric
+@attribute hardily numeric
+@attribute hardwood numeric
+@attribute hassles numeric
+@attribute hawaii numeric
+@attribute hd numeric
+@attribute hefty numeric
+@attribute hesitant numeric
+@attribute higer numeric
+@attribute hiking numeric
+@attribute hinting numeric
+@attribute history numeric
+@attribute holding numeric
+@attribute holds numeric
+@attribute hooray numeric
+@attribute hourscomes numeric
+@attribute housings numeric
+@attribute howell numeric
+@attribute http numeric
+@attribute hubby numeric
+@attribute hunting numeric
+@attribute husband numeric
+@attribute icon numeric
+@attribute icons numeric
+@attribute ideal numeric
+@attribute im numeric
+@attribute implement numeric
+@attribute important numeric
+@attribute importantly numeric
+@attribute impressed numeric
+@attribute inch numeric
+@attribute included numeric
+@attribute inclusion numeric
+@attribute inconvenient numeric
+@attribute incr numeric
+@attribute inexpensive numeric
+@attribute insert numeric
+@attribute inserted numeric
+@attribute inserting numeric
+@attribute insist numeric
+@attribute instantly numeric
+@attribute instruction numeric
+@attribute intelligent numeric
+@attribute interest numeric
+@attribute interface numeric
+@attribute intrested numeric
+@attribute intrigued numeric
+@attribute intuitive numeric
+@attribute ipad numeric
+@attribute iphone numeric
+@attribute isp numeric
+@attribute italy numeric
+@attribute itif numeric
+@attribute ive numeric
+@attribute jumping numeric
+@attribute justin numeric
+@attribute kiddie numeric
+@attribute kids numeric
+@attribute kill numeric
+@attribute kinda numeric
+@attribute kindle numeric
+@attribute kodak numeric
+@attribute lacks numeric
+@attribute lady numeric
+@attribute lanyard numeric
+@attribute lasted numeric
+@attribute lasts numeric
+@attribute late numeric
+@attribute latest numeric
+@attribute law numeric
+@attribute leica numeric
+@attribute leisure numeric
+@attribute lense numeric
+@attribute lever numeric
+@attribute li numeric
+@attribute lighter numeric
+@attribute lighting numeric
+@attribute lights numeric
+@attribute lightweight numeric
+@attribute likes numeric
+@attribute linkcode numeric
+@attribute lives numeric
+@attribute living numeric
+@attribute load numeric
+@attribute locations numeric
+@attribute lol numeric
+@attribute lolsd numeric
+@attribute loop numeric
+@attribute loss numeric
+@attribute lousy numeric
+@attribute lovers numeric
+@attribute loves numeric
+@attribute lug numeric
+@attribute lumix numeric
+@attribute lx numeric
+@attribute mad numeric
+@attribute mah numeric
+@attribute mail numeric
+@attribute manipulation numeric
+@attribute manisha numeric
+@attribute manuel numeric
+@attribute market numeric
+@attribute mart numeric
+@attribute marvel numeric
+@attribute mary numeric
+@attribute mas numeric
+@attribute massive numeric
+@attribute matched numeric
+@attribute maurer numeric
+@attribute maximum numeric
+@attribute meaning numeric
+@attribute medium numeric
+@attribute meet numeric
+@attribute meets numeric
+@attribute megapixel numeric
+@attribute mentioning numeric
+@attribute menus numeric
+@attribute mera numeric
+@attribute merit numeric
+@attribute merry numeric
+@attribute messed numeric
+@attribute met numeric
+@attribute mexico numeric
+@attribute minted numeric
+@attribute miss numeric
+@attribute mistakes numeric
+@attribute moderate numeric
+@attribute modern numeric
+@attribute mom numeric
+@attribute moments numeric
+@attribute monthly numeric
+@attribute mother numeric
+@attribute motorcycle numeric
+@attribute moves numeric
+@attribute movies numeric
+@attribute mp numeric
+@attribute musuem numeric
+@attribute mvi numeric
+@attribute nah numeric
+@attribute neat numeric
+@attribute neck numeric
+@attribute neg numeric
+@attribute negatives numeric
+@attribute neighbor numeric
+@attribute nephews numeric
+@attribute newly numeric
+@attribute nicer numeric
+@attribute nicest numeric
+@attribute nieces numeric
+@attribute nifty numeric
+@attribute ninjas numeric
+@attribute nivon numeric
+@attribute noisy numeric
+@attribute nope numeric
+@attribute notch numeric
+@attribute novice numeric
+@attribute occasion numeric
+@attribute occasional numeric
+@attribute office numeric
+@attribute older numeric
+@attribute olympus numeric
+@attribute onlythree numeric
+@attribute opened numeric
+@attribute opening numeric
+@attribute operate numeric
+@attribute operated numeric
+@attribute opportunities numeric
+@attribute opportunity numeric
+@attribute opposed numeric
+@attribute optical numeric
+@attribute optional numeric
+@attribute org numeric
+@attribute originally numeric
+@attribute outdoor numeric
+@attribute outdoors numeric
+@attribute outer numeric
+@attribute outfit numeric
+@attribute pack numeric
+@attribute packaged numeric
+@attribute packaging numeric
+@attribute packed numeric
+@attribute packs numeric
+@attribute pad numeric
+@attribute page numeric
+@attribute pairing numeric
+@attribute palm numeric
+@attribute panaramic numeric
+@attribute par numeric
+@attribute paradoxical numeric
+@attribute park numeric
+@attribute parties numeric
+@attribute party numeric
+@attribute passion numeric
+@attribute payed numeric
+@attribute pays numeric
+@attribute pc numeric
+@attribute pelo numeric
+@attribute pena numeric
+@attribute perfect numeric
+@attribute perfectcamera numeric
+@attribute performed numeric
+@attribute performs numeric
+@attribute persons numeric
+@attribute photosdr numeric
+@attribute pich numeric
+@attribute picky numeric
+@attribute pictured numeric
+@attribute picturescharge numeric
+@attribute pink numeric
+@attribute pirates numeric
+@attribute pitchers numeric
+@attribute pix numeric
+@attribute pixels numeric
+@attribute play numeric
+@attribute plug numeric
+@attribute pocked numeric
+@attribute pocket numeric
+@attribute pointed numeric
+@attribute polaroid numeric
+@attribute portability numeric
+@attribute portable numeric
+@attribute posing numeric
+@attribute postcards numeric
+@attribute pouch numeric
+@attribute powerful numeric
+@attribute powerfull numeric
+@attribute powershot numeric
+@attribute powershots numeric
+@attribute practical numeric
+@attribute pre numeric
+@attribute prefer numeric
+@attribute present numeric
+@attribute presents numeric
+@attribute pressing numeric
+@attribute priced numeric
+@attribute pricey numeric
+@attribute priester numeric
+@attribute print numeric
+@attribute printing numeric
+@attribute prior numeric
+@attribute processing numeric
+@attribute processional numeric
+@attribute produces numeric
+@attribute products numeric
+@attribute programmed numeric
+@attribute promise numeric
+@attribute promised numeric
+@attribute prompt numeric
+@attribute promptly numeric
+@attribute properly numeric
+@attribute protects numeric
+@attribute proven numeric
+@attribute punch numeric
+@attribute purse numeric
+@attribute push numeric
+@attribute pushed numeric
+@attribute puts numeric
+@attribute qualifications numeric
+@attribute qualities numeric
+@attribute quit numeric
+@attribute ranging numeric
+@attribute rate numeric
+@attribute rated numeric
+@attribute ratings numeric
+@attribute rave numeric
+@attribute realizing numeric
+@attribute realy numeric
+@attribute reasonable numeric
+@attribute reassuring numeric
+@attribute rebel numeric
+@attribute reccomend numeric
+@attribute receive numeric
+@attribute recharagables numeric
+@attribute rechargable numeric
+@attribute recharge numeric
+@attribute rechargeable numeric
+@attribute reciever numeric
+@attribute recomend numeric
+@attribute recommended numeric
+@attribute recommene numeric
+@attribute recorded numeric
+@attribute red numeric
+@attribute ref numeric
+@attribute regular numeric
+@attribute remarks numeric
+@attribute remember numeric
+@attribute remembered numeric
+@attribute reminded numeric
+@attribute removing numeric
+@attribute represent numeric
+@attribute require numeric
+@attribute requires numeric
+@attribute researched numeric
+@attribute reservation numeric
+@attribute respectfully numeric
+@attribute results numeric
+@attribute reunion numeric
+@attribute reviewer numeric
+@attribute reviewing numeric
+@attribute riding numeric
+@attribute roll numeric
+@attribute romone numeric
+@attribute rooms numeric
+@attribute running numeric
+@attribute samsung numeric
+@attribute sand numeric
+@attribute sandisk numeric
+@attribute santa numeric
+@attribute satisfaction numeric
+@attribute satisfied numeric
+@attribute save numeric
+@attribute saves numeric
+@attribute savvy numeric
+@attribute savy numeric
+@attribute scams numeric
+@attribute scan numeric
+@attribute scenes numeric
+@attribute schlump numeric
+@attribute scotland numeric
+@attribute scratches numeric
+@attribute sdhc numeric
+@attribute se numeric
+@attribute secure numeric
+@attribute select numeric
+@attribute selections numeric
+@attribute sensing numeric
+@attribute separate numeric
+@attribute series numeric
+@attribute sessions numeric
+@attribute seting numeric
+@attribute setup numeric
+@attribute shake numeric
+@attribute shaky numeric
+@attribute sharp numeric
+@attribute shelf numeric
+@attribute shipment numeric
+@attribute shirt numeric
+@attribute shown numeric
+@attribute shrink numeric
+@attribute shuttle numeric
+@attribute simplicity numeric
+@attribute simplistic numeric
+@attribute sister numeric
+@attribute sisters numeric
+@attribute sit numeric
+@attribute sixteen numeric
+@attribute sleek numeric
+@attribute sleeping numeric
+@attribute slight numeric
+@attribute slim numeric
+@attribute slimmer numeric
+@attribute slower numeric
+@attribute smallest numeric
+@attribute smart numeric
+@attribute smile numeric
+@attribute smoke numeric
+@attribute smokes numeric
+@attribute sms numeric
+@attribute snap numeric
+@attribute snapping numeric
+@attribute snaps numeric
+@attribute snob numeric
+@attribute solid numeric
+@attribute sophisticated numeric
+@attribute sorts numeric
+@attribute specialty numeric
+@attribute spontaneous numeric
+@attribute squirming numeric
+@attribute ss numeric
+@attribute ssd numeric
+@attribute standard numeric
+@attribute stands numeric
+@attribute staples numeric
+@attribute starter numeric
+@attribute stated numeric
+@attribute steps numeric
+@attribute stills numeric
+@attribute storage numeric
+@attribute strange numeric
+@attribute strap numeric
+@attribute string numeric
+@attribute strongly numeric
+@attribute student numeric
+@attribute stupisms numeric
+@attribute stylish numeric
+@attribute submitted numeric
+@attribute success numeric
+@attribute sun numeric
+@attribute sunny numeric
+@attribute supervisor numeric
+@attribute supervivid numeric
+@attribute supply numeric
+@attribute supporter numeric
+@attribute surprises numeric
+@attribute surprisingly numeric
+@attribute surprized numeric
+@attribute swapped numeric
+@attribute systems numeric
+@attribute tag numeric
+@attribute taker numeric
+@attribute target numeric
+@attribute teacher numeric
+@attribute team numeric
+@attribute technologically numeric
+@attribute tells numeric
+@attribute ten numeric
+@attribute terrific numeric
+@attribute thanksgiving numeric
+@attribute theses numeric
+@attribute theway numeric
+@attribute thier numeric
+@attribute thk numeric
+@attribute tho numeric
+@attribute thoughtful numeric
+@attribute thumb numeric
+@attribute tight numeric
+@attribute till numeric
+@attribute timas numeric
+@attribute timely numeric
+@attribute timer numeric
+@attribute timo numeric
+@attribute tips numeric
+@attribute tirar numeric
+@attribute tired numeric
+@attribute tl numeric
+@attribute tool numeric
+@attribute tools numeric
+@attribute toopen numeric
+@attribute totalling numeric
+@attribute tougher numeric
+@attribute town numeric
+@attribute train numeric
+@attribute transfer numeric
+@attribute transferred numeric
+@attribute transport numeric
+@attribute trash numeric
+@attribute tree numeric
+@attribute tremor numeric
+@attribute tricky numeric
+@attribute trigger numeric
+@attribute trips numeric
+@attribute tuck numeric
+@attribute turn numeric
+@attribute turnout numeric
+@attribute turtles numeric
+@attribute tv numeric
+@attribute typical numeric
+@attribute ucb numeric
+@attribute ultra numeric
+@attribute um numeric
+@attribute underwater numeric
+@attribute unexpected numeric
+@attribute unskilled numeric
+@attribute unsuccessfully numeric
+@attribute unzipped numeric
+@attribute upgrades numeric
+@attribute upload numeric
+@attribute uploaded numeric
+@attribute uploads numeric
+@attribute usage numeric
+@attribute usb numeric
+@attribute usegreat numeric
+@attribute utf numeric
+@attribute utilizing numeric
+@attribute uu numeric
+@attribute vacation numeric
+@attribute vale numeric
+@attribute vary numeric
+@attribute vastly numeric
+@attribute vel numeric
+@attribute verdict numeric
+@attribute versatile numeric
+@attribute viewer numeric
+@attribute viewing numeric
+@attribute vision numeric
+@attribute visit numeric
+@attribute vivid numeric
+@attribute voc numeric
+@attribute volunteer numeric
+@attribute wal numeric
+@attribute walks numeric
+@attribute warned numeric
+@attribute washout numeric
+@attribute waste numeric
+@attribute watched numeric
+@attribute weekend numeric
+@attribute weighs numeric
+@attribute weird numeric
+@attribute whereveri numeric
+@attribute whistles numeric
+@attribute williamsburg numeric
+@attribute wind numeric
+@attribute window numeric
+@attribute wire numeric
+@attribute wirth numeric
+@attribute wise numeric
+@attribute wit numeric
+@attribute wiyhout numeric
+@attribute women numeric
+@attribute wonky numeric
+@attribute wore numeric
+@attribute world numeric
+@attribute worlds numeric
+@attribute wrapped numeric
+@attribute wrist numeric
+@attribute www numeric
+@attribute xmas numeric
+@attribute yada numeric
+@attribute yards numeric
+@attribute young numeric
+@attribute youngest numeric
+@attribute zip numeric
+@attribute zozo numeric
+
+@data
+{1 0.322701,10 0.322701,47 0.322701,60 0.322701,67 0.322701,85 0.322701,121 0.322701,125 0.322701,127 0.322701,168 0.322701,169 0.322701,174 0.51147,193 0.322701,209 0.834171,238 0.322701,255 0.322701,331 0.322701,345 0.322701,350 0.322701,380 0.322701,387 0.322701,435 0.322701,447 0.322701,457 0.51147,494 0.322701,532 0.322701,568 0.322701,573 0.51147,581 0.322701,598 0.322701,637 0.322701,663 0.322701,748 0.322701,763 0.322701,819 0.322701,864 0.322701,868 0.322701,879 0.51147,882 0.322701,885 0.322701,921 0.322701,922 0.322701,955 0.322701,1017 0.51147,1048 0.51147,1086 0.322701,1115 0.322701,1157 0.322701,1210 0.645403,1241 0.322701,1249 0.322701,1256 0.322701,1272 0.322701,1288 0.51147,1370 0.322701,1376 0.322701,1386 0.322701,1410 0.322701,1430 0.322701,1433 0.322701,1436 0.322701,1437 0.322701,1454 0.322701,1461 0.322701,1462 0.645403,1483 0.322701,1524 0.322701,1535 0.749289,1538 0.322701,1545 0.322701,1549 0.322701,1645 0.322701,1647 0.322701,1669 0.322701,1678 0.322701,1695 0.322701,1702 0.322701,1727 0.51147,1735 0.322701,1749 0.322701,1751 0.322701,1753 0.322701,1754 0.322701,1756 0.322701,1776 0.322701,1783 0.322701,1793 0.322701}
+{160 0.642822,209 0.642822,317 0.642822,324 0.642822,358 0.642822,367 0.642822,390 1.018849,400 0.642822,422 0.642822,440 0.642822,457 0.642822,608 0.642822,827 0.642822,955 0.642822,1048 1.018849,1078 0.642822,1157 0.642822,1218 0.642822,1281 0.642822,1360 0.642822,1424 0.642822,1426 0.642822,1430 0.642822,1558 0.642822,1646 0.642822,1685 0.642822}
+{209 1.224407,598 1.224407,670 1.224407,976 1.224407,1048 1.224407,1210 1.224407,1379 1.224407,1625 1.224407}
+{126 0.611972,177 0.969953,209 1.223944,353 0.611972,508 0.611972,517 0.969953,542 0.611972,599 0.611972,649 0.611972,665 0.611972,827 0.611972,828 0.611972,845 0.611972,1076 0.611972,1143 0.611972,1158 0.611972,1171 0.611972,1177 0.611972,1303 0.611972,1349 0.611972,1425 0.611972,1430 0.611972,1584 0.611972,1700 0.611972,1776 0.611972,1783 0.611972}
+{67 0.75018,114 0.473311,209 0.946622,248 0.473311,255 0.473311,257 0.473311,305 0.473311,353 0.473311,380 0.473311,416 0.473311,437 0.75018,609 0.473311,621 0.473311,650 0.473311,687 0.473311,700 0.473311,745 0.473311,827 0.473311,841 0.473311,881 0.473311,1031 0.473311,1048 0.75018,1053 0.473311,1063 0.473311,1108 0.473311,1113 0.473311,1241 0.473311,1273 0.473311,1301 0.473311,1303 0.473311,1352 0.473311,1387 0.473311,1430 0.946622,1462 0.946622,1469 0.473311,1481 0.473311,1493 0.473311,1585 0.473311,1702 0.473311,1788 0.473311}
+{199 1.413824,512 1.413824,595 1.413824,613 1.413824,1211 1.413824,1698 1.413824}
+{20 0.222296,27 0.222296,61 0.222296,73 0.222296,97 0.222296,104 0.35233,140 0.222296,147 0.222296,154 0.222296,178 0.222296,185 0.222296,199 0.222296,203 0.444591,209 0.516155,211 0.222296,212 0.222296,215 0.222296,228 0.222296,240 0.222296,248 0.574626,258 0.222296,279 0.222296,289 0.222296,306 0.444591,316 0.222296,330 0.222296,335 0.222296,336 0.35233,337 0.222296,339 0.222296,356 0.222296,364 0.222296,366 0.516155,369 0.222296,381 0.222296,390 0.444591,405 0.444591,416 0.222296,419 0.222296,437 0.35233,487 0.222296,494 0.35233,498 0.222296,501 0.222296,510 0.222296,528 0.222296,536 0.222296,539 0.222296,545 0.222296,549 0.222296,579 0.222296,600 0.222296,627 0.222296,629 0.222296,632 0.222296,640 0.222296,670 0.222296,689 0.222296,691 0.222296,698 0.222296,700 0.222296,716 0.222296,730 0.222296,733 0.222296,744 0.222296,771 0.222296,780 0.222296,781 0.222296,782 0.222296,793 0.222296,800 0.222296,816 0.222296,817 0.222296,818 0.516155,824 0.222296,827 0.35233,828 0.222296,847 0.35233,848 0.222296,852 0.222296,853 0.222296,871 0.35233,894 0.35233,917 0.222296,925 0.222296,926 0.35233,933 0.222296,942 0.222296,958 0.35233,959 0.222296,1019 0.222296,1024 0.222296,1048 0.769017,1059 0.222296,1067 0.222296,1073 0.222296,1078 0.222296,1089 0.222296,1091 0.222296,1126 0.222296,1157 0.222296,1172 0.222296,1210 0.624063,1218 0.516155,1219 0.222296,1222 0.35233,1228 0.222296,1231 0.222296,1252 0.222296,1257 0.222296,1258 0.35233,1269 0.222296,1281 0.222296,1283 0.222296,1287 0.222296,1319 0.222296,1321 0.222296,1327 0.222296,1332 0.35233,1334 0.222296,1346 0.222296,1351 0.222296,1358 0.35233,1368 0.222296,1369 0.222296,1376 0.222296,1383 0.222296,1397 0.222296,1424 0.222296,1435 0.222296,1451 0.222296,1459 0.35233,1465 0.222296,1469 0.516155,1470 0.222296,1471 0.222296,1474 0.222296,1487 0.222296,1502 0.222296,1506 0.222296,1518 0.222296,1535 0.222296,1552 0.222296,1582 0.222296,1601 0.35233,1625 0.222296,1626 0.222296,1628 0.222296,1631 0.222296,1647 0.222296,1652 0.222296,1664 0.222296,1682 0.222296,1709 0.222296,1711 0.222296,1725 0.222296,1743 0.35233,1775 0.35233}
+{35 0.334027,84 0.334027,111 0.334027,169 0.334027,209 0.863446,211 0.334027,213 0.334027,219 0.334027,229 0.334027,234 0.334027,250 0.334027,255 0.334027,258 0.334027,294 0.334027,299 0.334027,314 0.334027,411 0.334027,412 0.668053,457 0.937731,477 0.334027,502 0.334027,510 0.334027,534 0.334027,541 0.334027,585 0.334027,616 0.334027,627 0.334027,644 0.334027,657 0.334027,679 0.52942,688 0.334027,740 0.334027,763 0.334027,764 0.52942,794 0.334027,811 0.334027,827 0.334027,924 0.334027,943 0.334027,950 0.52942,969 0.334027,1029 0.334027,1035 0.334027,1037 0.334027,1048 0.937731,1058 0.334027,1084 0.334027,1107 0.334027,1115 0.52942,1117 0.334027,1146 0.334027,1211 0.334027,1264 0.334027,1294 0.334027,1298 0.334027,1300 0.334027,1310 0.334027,1322 0.334027,1354 0.334027,1430 0.334027,1436 0.668053,1492 0.668053,1535 0.668053,1553 0.334027,1563 0.334027,1709 0.334027,1710 0.668053}
+{131 1.138303,178 0.569152,209 0.569152,257 0.569152,278 0.569152,320 0.569152,437 0.569152,487 0.569152,491 0.569152,647 0.569152,682 0.569152,698 0.569152,710 0.569152,881 0.569152,931 0.569152,987 0.569152,1008 0.569152,1044 0.569152,1048 0.569152,1089 0.569152,1141 0.569152,1157 0.569152,1203 0.569152,1318 0.569152,1370 0.569152,1430 0.902084,1462 0.569152,1535 0.902084,1627 0.569152,1735 0.569152,1797 0.569152}
+{27 0.512099,28 0.25605,48 0.25605,67 0.25605,96 0.25605,98 0.25605,123 0.25605,127 0.25605,138 0.25605,150 0.25605,173 0.405829,174 0.405829,183 0.25605,199 0.25605,202 0.25605,206 0.25605,209 0.594529,211 0.25605,223 0.25605,233 0.25605,244 0.25605,246 0.25605,255 0.405829,258 0.25605,259 0.25605,264 0.25605,290 0.25605,336 0.25605,366 0.25605,367 0.25605,383 0.594529,404 0.25605,436 0.405829,443 0.405829,444 0.25605,449 0.25605,452 0.25605,457 0.405829,487 0.25605,532 0.25605,540 0.25605,541 0.25605,560 0.25605,598 0.25605,599 0.405829,611 0.512099,615 0.25605,636 0.25605,670 0.25605,682 0.25605,723 0.25605,726 0.25605,733 0.25605,751 0.25605,778 0.25605,779 0.25605,796 0.25605,811 0.512099,827 0.718822,828 0.405829,834 0.405829,835 0.25605,852 0.25605,853 0.25605,879 0.25605,880 0.25605,895 0.25605,898 0.25605,919 0.25605,952 0.25605,967 0.25605,1048 0.917928,1064 0.25605,1078 0.405829,1134 0.25605,1149 0.25605,1162 0.25605,1165 0.25605,1186 0.25605,1203 0.25605,1210 0.718822,1240 0.25605,1247 0.25605,1249 0.25605,1269 0.25605,1278 0.25605,1293 0.25605,1328 0.25605,1332 0.25605,1349 0.405829,1350 0.25605,1361 0.25605,1376 0.25605,1379 0.25605,1399 0.25605,1405 0.25605,1430 0.594529,1433 0.25605,1436 0.25605,1451 0.25605,1457 0.405829,1478 0.25605,1527 0.25605,1555 0.25605,1565 0.25605,1599 0.25605,1618 0.25605,1621 0.25605,1631 0.25605,1644 0.25605,1648 0.25605,1672 0.25605,1683 0.25605,1705 0.25605,1706 0.25605,1734 0.25605,1751 0.25605}
+{6 0.354671,63 0.354671,65 0.354671,127 0.354671,131 0.354671,205 0.354671,209 0.709343,238 0.354671,245 0.562141,377 0.562141,439 0.354671,443 0.354671,455 0.354671,457 0.354671,460 0.354671,526 0.354671,568 0.354671,627 0.354671,629 0.354671,635 0.354671,640 0.562141,653 0.354671,682 0.354671,703 0.354671,714 0.354671,739 0.354671,751 0.354671,789 0.354671,824 0.354671,827 0.354671,881 0.354671,882 0.354671,903 0.354671,936 0.354671,965 0.354671,968 0.354671,1024 0.354671,1044 0.354671,1048 0.562141,1077 0.354671,1087 0.354671,1127 0.354671,1139 0.354671,1144 0.354671,1145 0.354671,1146 0.354671,1163 0.354671,1195 0.354671,1203 0.354671,1210 0.354671,1230 0.354671,1249 0.354671,1324 0.354671,1326 0.354671,1334 0.354671,1340 0.354671,1362 0.354671,1370 0.562141,1430 0.823521,1447 0.354671,1455 0.709343,1480 0.354671,1535 0.823521,1560 0.354671,1626 0.354671,1647 0.354671,1648 0.354671,1678 0.354671,1707 0.354671,1745 0.354671,1761 0.354671,1772 0.354671,1796 0.354671}
+{58 0.396163,86 0.396163,101 0.396163,127 0.396163,131 0.396163,148 0.396163,173 0.627904,177 0.396163,181 0.792327,202 0.396163,209 0.396163,215 0.396163,230 0.396163,235 0.396163,280 0.396163,329 0.396163,366 0.396163,367 0.396163,388 0.396163,397 0.396163,437 0.396163,441 0.396163,456 0.396163,494 0.396163,546 0.396163,588 0.396163,611 0.396163,626 0.396163,664 0.396163,682 0.396163,694 0.396163,747 0.396163,762 0.396163,768 0.396163,808 0.396163,827 0.627904,855 0.396163,879 0.396163,960 0.396163,992 0.396163,1048 1.112171,1078 0.792327,1122 0.396163,1210 0.396163,1218 0.627904,1249 0.396163,1317 0.396163,1349 0.396163,1369 0.396163,1430 0.396163,1526 0.396163,1542 0.396163,1546 0.396163,1606 0.396163,1644 0.396163,1682 0.396163,1701 0.396163,1771 0.396163,1797 0.396163}
+{67 1.009564,199 1.009564,209 1.009564,233 0.636964,358 0.636964,436 1.009564,437 1.009564,640 0.636964,764 0.636964,827 0.636964,970 0.636964,1018 0.636964,1078 0.636964,1099 0.636964,1142 0.636964,1210 0.636964,1430 0.636964,1464 0.636964,1469 0.636964,1535 0.636964,1537 0.636964,1784 0.636964}
+{46 0.306128,51 0.306128,59 0.612256,71 0.306128,77 0.306128,94 0.306128,116 0.306128,127 0.306128,151 0.306128,185 0.485201,186 0.306128,205 0.485201,206 0.306128,207 0.306128,209 0.306128,226 0.306128,231 0.306128,245 0.306128,247 0.306128,251 0.306128,288 0.306128,308 0.306128,309 0.306128,350 0.306128,352 0.306128,366 0.306128,375 0.306128,378 0.485201,478 0.485201,479 0.306128,509 0.306128,556 0.306128,573 0.306128,627 0.306128,632 0.306128,659 0.306128,663 0.306128,670 0.306128,672 0.306128,684 0.306128,718 0.306128,720 0.306128,754 0.306128,757 0.306128,768 0.306128,787 0.306128,827 0.306128,846 0.306128,854 0.306128,881 0.612256,882 0.306128,950 0.306128,974 0.306128,980 0.306128,986 0.306128,994 0.306128,996 0.306128,1004 0.306128,1047 0.306128,1048 0.85941,1062 0.306128,1071 0.306128,1089 0.306128,1119 0.306128,1125 0.306128,1187 0.306128,1201 0.306128,1221 0.306128,1233 0.306128,1240 0.306128,1252 0.306128,1278 0.306128,1291 0.306128,1326 0.306128,1341 0.485201,1358 0.306128,1366 0.306128,1369 0.306128,1388 0.485201,1393 0.306128,1396 0.306128,1418 0.485201,1421 0.306128,1423 0.485201,1429 0.306128,1436 0.306128,1438 0.306128,1451 0.306128,1459 0.306128,1468 0.306128,1547 0.306128,1583 0.306128,1598 0.306128,1624 0.306128,1647 0.306128,1651 0.306128,1652 0.306128,1657 0.306128,1668 0.306128,1774 0.306128,1777 0.306128,1790 0.306128,1797 0.306128}
+{119 0.550773,209 0.872955,267 0.550773,293 0.550773,367 0.872955,379 0.550773,506 0.550773,559 0.550773,701 0.550773,826 0.550773,862 0.550773,942 0.550773,1048 1.101546,1078 1.101546,1196 0.550773,1211 0.872955,1218 0.550773,1240 0.550773,1281 0.550773,1316 0.550773,1440 0.550773,1454 0.550773,1535 1.101546,1704 0.550773,1710 0.550773,1714 0.550773}
+{77 0.228929,83 0.362844,98 0.228929,112 0.228929,116 0.228929,127 0.457858,131 0.457858,158 0.228929,177 0.228929,206 0.228929,209 0.791964,211 0.228929,257 0.457858,258 0.228929,269 0.228929,271 0.228929,284 0.228929,320 0.228929,345 0.228929,348 0.228929,363 0.228929,367 0.228929,378 0.228929,382 0.228929,409 0.362844,416 0.228929,424 0.228929,436 0.228929,437 0.591773,454 0.228929,457 0.362844,463 0.228929,473 0.228929,481 0.362844,482 0.228929,495 0.362844,532 0.228929,588 0.228929,590 0.228929,599 0.362844,646 0.228929,687 0.228929,702 0.228929,708 0.228929,719 0.228929,744 0.362844,751 0.228929,791 0.228929,792 0.228929,802 0.228929,824 0.228929,827 0.457858,839 0.228929,854 0.228929,879 0.228929,888 0.228929,913 0.362844,931 0.228929,942 0.362844,953 0.228929,965 0.228929,967 0.228929,978 0.228929,990 0.228929,1005 0.228929,1018 0.531557,1037 0.362844,1044 0.228929,1048 0.591773,1054 0.228929,1056 0.228929,1074 0.228929,1078 0.228929,1085 0.228929,1099 0.228929,1113 0.362844,1120 0.228929,1127 0.228929,1129 0.228929,1133 0.362844,1141 0.228929,1149 0.228929,1162 0.228929,1177 0.228929,1210 0.686787,1218 0.228929,1246 0.228929,1285 0.228929,1289 0.228929,1297 0.228929,1317 0.228929,1324 0.228929,1327 0.362844,1328 0.228929,1333 0.228929,1348 0.228929,1369 0.228929,1376 0.228929,1379 0.228929,1428 0.228929,1429 0.228929,1430 0.228929,1444 0.228929,1450 0.228929,1454 0.228929,1469 0.228929,1479 0.531557,1481 0.228929,1493 0.228929,1535 0.362844,1564 0.228929,1571 0.228929,1572 0.228929,1583 0.362844,1585 0.228929,1590 0.228929,1595 0.228929,1604 0.228929,1612 0.228929,1613 0.228929,1644 0.457858,1645 0.228929,1647 0.228929,1648 0.228929,1683 0.228929,1690 0.228929,1695 0.362844,1698 0.228929,1735 0.228929,1743 0.457858,1747 0.362844,1753 0.362844,1771 0.228929,1783 0.228929,1785 0.362844,1786 0.228929,1787 0.457858,1791 0.228929,1797 0.228929,1798 0.228929}
+{67 0.729899,149 0.729899,209 0.729899,211 1.156863,333 0.729899,337 0.729899,416 0.729899,418 0.729899,529 0.729899,827 0.729899,892 0.729899,1003 0.729899,1048 0.729899,1163 0.729899,1210 0.729899,1242 0.729899,1370 0.729899,1430 0.729899,1431 0.729899,1466 0.729899,1734 0.729899}
+{2 0.656282,31 0.414068,50 0.414068,64 0.414068,66 0.414068,99 0.414068,174 0.414068,177 0.414068,190 0.414068,199 0.656282,242 0.414068,257 0.414068,258 0.414068,344 0.414068,378 0.414068,385 0.414068,402 0.414068,520 0.414068,578 0.656282,592 0.414068,598 0.414068,638 0.414068,663 0.414068,692 0.656282,744 0.414068,784 0.414068,797 0.414068,827 0.414068,885 0.414068,888 0.414068,904 0.414068,991 0.414068,1009 0.414068,1048 0.961435,1053 0.414068,1078 0.414068,1137 0.414068,1146 0.414068,1155 0.414068,1218 0.828135,1226 0.414068,1249 0.414068,1266 0.414068,1281 0.414068,1307 0.414068,1308 0.414068,1430 0.414068,1436 0.414068,1437 0.414068,1545 0.414068,1597 0.656282,1599 0.414068,1607 0.414068,1740 0.414068,1756 0.414068}
+{7 0.302604,18 0.302604,19 0.302604,40 0.302604,42 0.302604,67 0.702625,102 0.302604,122 0.302604,154 0.302604,175 0.302604,177 0.302604,189 0.302604,191 0.302604,193 0.302604,195 0.302604,199 0.302604,202 0.302604,207 0.302604,209 0.605208,240 0.302604,243 0.302604,254 0.302604,315 0.302604,332 0.302604,357 0.302604,378 0.302604,380 0.302604,387 0.605208,390 0.302604,422 0.302604,444 0.479616,449 0.302604,450 0.302604,457 0.479616,460 0.302604,462 0.302604,463 0.302604,468 0.302604,493 0.302604,496 0.302604,500 0.302604,519 0.302604,535 0.302604,557 0.302604,566 0.302604,690 0.302604,704 0.302604,725 0.302604,752 0.302604,753 0.302604,773 0.302604,777 0.302604,779 0.302604,790 0.302604,827 0.302604,829 0.302604,853 0.302604,863 0.302604,867 0.479616,901 0.302604,946 0.302604,954 0.302604,957 0.302604,1017 0.302604,1048 0.605208,1059 0.302604,1126 0.302604,1127 0.302604,1129 0.302604,1141 0.302604,1144 0.302604,1157 0.302604,1169 0.302604,1171 0.302604,1175 0.302604,1180 0.302604,1203 0.302604,1215 0.302604,1218 0.479616,1225 0.302604,1235 0.302604,1249 0.302604,1255 0.302604,1270 0.479616,1272 0.302604,1283 0.302604,1315 0.302604,1363 0.302604,1369 0.302604,1379 0.479616,1398 0.302604,1424 0.302604,1443 0.302604,1466 0.302604,1480 0.302604,1493 0.302604,1547 0.479616,1588 0.302604,1625 0.302604,1644 0.302604,1699 0.302604,1715 0.302604,1720 0.302604,1734 0.302604,1740 0.302604,1747 0.302604,1798 0.302604}
+{15 0.159057,29 0.159057,30 0.159057,39 0.159057,53 0.159057,56 0.159057,57 0.159057,67 0.159057,69 0.159057,81 0.159057,94 0.159057,98 0.159057,106 0.159057,127 0.550248,136 0.159057,146 0.159057,152 0.159057,174 0.159057,177 0.2521,178 0.2521,179 0.159057,186 0.159057,197 0.2521,199 0.159057,200 0.159057,204 0.159057,205 0.159057,206 0.2521,209 0.621419,215 0.318114,244 0.159057,254 0.159057,255 0.2521,257 0.2521,258 0.159057,265 0.159057,283 0.159057,294 0.159057,310 0.159057,312 0.159057,316 0.159057,336 0.159057,340 0.159057,358 0.2521,365 0.159057,366 0.318114,367 0.2521,371 0.159057,377 0.2521,378 0.159057,387 0.159057,394 0.159057,403 0.159057,413 0.159057,427 0.159057,434 0.2521,445 0.159057,457 0.318114,463 0.159057,479 0.159057,484 0.159057,489 0.159057,490 0.159057,494 0.159057,504 0.2521,506 0.2521,513 0.159057,532 0.2521,533 0.2521,537 0.159057,568 0.159057,569 0.2521,570 0.159057,573 0.2521,580 0.159057,582 0.2521,585 0.2521,588 0.159057,627 0.159057,632 0.318114,634 0.159057,640 0.159057,642 0.159057,655 0.159057,670 0.2521,674 0.159057,675 0.159057,677 0.159057,682 0.411157,698 0.159057,699 0.159057,700 0.159057,705 0.159057,708 0.159057,713 0.318114,714 0.159057,732 0.159057,734 0.159057,736 0.159057,739 0.159057,751 0.2521,759 0.159057,769 0.159057,781 0.159057,803 0.159057,805 0.159057,809 0.159057,813 0.159057,821 0.159057,823 0.159057,827 0.5042,828 0.2521,831 0.159057,850 0.159057,856 0.369319,864 0.159057,872 0.159057,873 0.2521,879 0.159057,881 0.2521,884 0.159057,900 0.159057,907 0.159057,913 0.159057,915 0.159057,924 0.2521,932 0.159057,936 0.159057,947 0.318114,949 0.159057,961 0.159057,971 0.2521,973 0.159057,986 0.159057,999 0.159057,1004 0.159057,1008 0.159057,1014 0.2521,1015 0.159057,1018 0.159057,1020 0.159057,1037 0.159057,1044 0.159057,1048 0.550248,1052 0.2521,1059 0.2521,1061 0.159057,1075 0.159057,1076 0.2521,1078 0.318114,1083 0.159057,1084 0.159057,1092 0.2521,1097 0.2521,1106 0.159057,1116 0.159057,1117 0.2521,1118 0.159057,1120 0.159057,1127 0.2521,1139 0.159057,1141 0.2521,1144 0.159057,1153 0.159057,1154 0.159057,1155 0.2521,1157 0.44653,1162 0.159057,1176 0.159057,1182 0.2521,1186 0.2521,1192 0.159057,1199 0.159057,1203 0.2521,1209 0.159057,1210 0.159057,1221 0.159057,1222 0.159057,1227 0.159057,1228 0.159057,1234 0.159057,1241 0.2521,1245 0.411157,1250 0.159057,1254 0.159057,1269 0.159057,1272 0.159057,1277 0.159057,1284 0.159057,1285 0.318114,1303 0.159057,1330 0.159057,1332 0.159057,1333 0.159057,1334 0.2521,1339 0.159057,1344 0.159057,1345 0.2521,1357 0.159057,1366 0.159057,1376 0.2521,1377 0.318114,1380 0.159057,1381 0.159057,1403 0.159057,1407 0.159057,1414 0.159057,1423 0.159057,1428 0.528377,1429 0.159057,1430 0.2521,1436 0.411157,1451 0.318114,1455 0.2521,1458 0.159057,1461 0.159057,1462 0.159057,1464 0.159057,1469 0.2521,1473 0.159057,1477 0.318114,1481 0.159057,1493 0.159057,1494 0.159057,1499 0.159057,1509 0.159057,1516 0.159057,1533 0.318114,1535 0.318114,1547 0.159057,1560 0.159057,1577 0.318114,1596 0.159057,1609 0.159057,1620 0.159057,1625 0.159057,1627 0.159057,1633 0.159057,1637 0.159057,1641 0.159057,1644 0.318114,1647 0.159057,1648 0.2521,1659 0.159057,1660 0.159057,1661 0.318114,1662 0.159057,1671 0.159057,1703 0.318114,1716 0.2521,1734 0.159057,1751 0.318114,1753 0.159057,1762 0.318114,1778 0.369319,1783 0.159057,1784 0.159057,1800 0.159057}
+{11 0.480586,22 0.480586,111 0.480586,121 0.480586,131 0.480586,140 0.480586,209 0.961173,313 0.480586,357 0.480586,372 0.480586,408 0.480586,436 0.480586,440 0.480586,457 0.480586,726 0.761712,756 0.480586,770 0.480586,815 0.480586,824 0.480586,865 0.480586,918 0.480586,1048 0.761712,1056 0.480586,1078 0.480586,1112 0.480586,1197 0.480586,1210 1.115887,1211 0.480586,1334 0.480586,1384 0.480586,1430 0.761712,1556 0.480586,1559 0.480586,1623 0.480586,1635 0.480586,1670 0.480586,1693 0.480586,1709 0.480586,1755 0.480586,1783 0.480586}
+{174 0.7945,209 0.7945,255 0.7945,322 0.7945,420 0.7945,457 0.7945,620 0.7945,633 0.7945,827 0.7945,907 0.7945,1048 0.7945,1309 0.7945,1325 0.7945,1430 0.7945,1457 0.7945,1462 0.7945,1526 0.7945,1644 0.7945,1771 0.7945}
+{21 0.476025,22 0.476025,87 0.476025,130 0.476025,132 0.476025,162 0.476025,170 0.476025,177 0.476025,178 0.476025,199 0.476025,209 0.754481,257 0.476025,258 0.476025,260 0.476025,370 0.476025,457 0.95205,700 0.476025,827 0.476025,853 0.476025,913 0.476025,960 0.476025,978 0.476025,1009 0.476025,1048 0.476025,1056 0.476025,1078 0.754481,1119 0.476025,1210 0.754481,1241 0.476025,1261 0.476025,1289 0.476025,1303 0.476025,1386 0.476025,1430 1.105295,1465 0.476025,1529 0.476025,1635 0.476025,1645 0.476025,1743 0.476025,1756 0.476025,1797 0.476025}
+{17 0.642822,55 0.642822,60 0.642822,154 0.642822,168 0.642822,255 0.642822,257 0.642822,319 0.642822,367 0.642822,457 0.642822,459 1.018849,827 0.642822,934 0.642822,1017 0.642822,1048 0.642822,1078 0.642822,1156 0.642822,1157 0.642822,1159 0.642822,1285 0.642822,1430 1.018849,1465 0.642822,1466 0.642822,1535 0.642822,1652 0.642822,1678 0.642822}
+{23 0.205362,47 0.325492,62 0.205362,67 0.325492,92 0.205362,107 0.205362,110 0.205362,124 0.205362,127 0.576525,155 0.205362,156 0.205362,164 0.205362,173 0.410725,174 0.616087,177 0.205362,182 0.205362,196 0.205362,202 0.205362,209 0.682199,211 0.205362,228 0.325492,234 0.325492,241 0.205362,255 0.205362,258 0.205362,262 0.205362,279 0.325492,285 0.205362,295 0.205362,323 0.205362,327 0.205362,342 0.325492,345 0.205362,349 0.205362,362 0.205362,374 0.205362,378 0.410725,380 0.205362,385 0.205362,387 0.476837,392 0.205362,407 0.205362,417 0.205362,418 0.205362,436 0.205362,438 0.205362,442 0.205362,457 0.530854,461 0.205362,465 0.205362,466 0.205362,469 0.205362,487 0.205362,497 0.205362,525 0.205362,532 0.205362,546 0.325492,587 0.205362,598 0.325492,599 0.205362,605 0.205362,611 0.325492,613 0.205362,623 0.205362,639 0.205362,646 0.205362,670 0.325492,673 0.205362,676 0.205362,678 0.410725,682 0.205362,693 0.205362,694 0.205362,704 0.205362,714 0.205362,725 0.205362,739 0.205362,745 0.205362,749 0.205362,750 0.205362,755 0.205362,756 0.205362,768 0.410725,785 0.205362,786 0.205362,812 0.205362,819 0.205362,825 0.205362,827 0.530854,828 0.410725,840 0.205362,843 0.205362,844 0.205362,852 0.205362,878 0.325492,881 0.205362,882 0.205362,935 0.205362,941 0.325492,992 0.325492,1018 0.205362,1030 0.205362,1036 0.325492,1041 0.205362,1045 0.205362,1048 0.576525,1078 0.205362,1085 0.205362,1089 0.205362,1099 0.205362,1101 0.205362,1116 0.205362,1127 0.325492,1132 0.205362,1155 0.205362,1156 0.410725,1157 0.410725,1165 0.205362,1166 0.205362,1177 0.476837,1178 0.205362,1190 0.205362,1198 0.205362,1208 0.410725,1214 0.205362,1221 0.205362,1236 0.205362,1262 0.205362,1266 0.205362,1267 0.205362,1270 0.205362,1271 0.205362,1275 0.325492,1319 0.205362,1356 0.205362,1371 0.325492,1376 0.205362,1406 0.205362,1430 0.530854,1432 0.205362,1436 0.205362,1455 0.325492,1462 0.205362,1469 0.205362,1482 0.205362,1488 0.325492,1493 0.205362,1523 0.205362,1525 0.205362,1531 0.205362,1532 0.205362,1535 0.205362,1544 0.205362,1547 0.205362,1557 0.205362,1576 0.205362,1597 0.325492,1610 0.205362,1616 0.205362,1642 0.205362,1644 0.325492,1658 0.205362,1666 0.205362,1682 0.205362,1694 0.205362,1738 0.205362,1740 0.205362,1757 0.205362,1777 0.205362,1790 0.205362,1798 0.205362}
+{67 0.357242,69 0.357242,124 0.357242,127 0.357242,134 0.357242,135 0.357242,153 0.357242,209 0.82949,236 0.357242,238 0.357242,257 0.357242,273 0.357242,274 0.357242,295 0.357242,326 0.566215,327 0.357242,338 0.357242,367 0.357242,409 0.357242,446 0.357242,450 0.357242,457 0.357242,499 0.357242,524 0.357242,538 0.357242,582 0.357242,627 0.357242,706 0.357242,828 0.357242,837 0.357242,857 0.357242,860 0.357242,893 0.357242,904 0.357242,912 0.357242,918 0.357242,929 0.357242,949 0.357242,982 0.357242,1006 0.357242,1007 0.566215,1016 0.357242,1023 0.357242,1026 0.566215,1040 0.357242,1048 0.714484,1156 0.357242,1190 0.357242,1210 0.714484,1211 0.357242,1217 0.357242,1242 0.357242,1248 0.357242,1266 0.357242,1276 0.357242,1374 0.357242,1379 0.357242,1401 0.357242,1430 0.566215,1454 0.357242,1462 0.566215,1535 0.566215,1536 0.566215,1544 0.357242,1650 0.357242,1655 0.357242,1667 0.357242,1686 0.357242,1712 0.357242,1722 0.357242,1723 0.357242,1744 0.357242,1777 0.357242}
+{22 0.330234,92 0.523408,169 0.523408,174 0.330234,178 0.523408,209 0.660467,232 0.330234,255 0.330234,258 0.523408,263 0.523408,343 0.330234,406 0.330234,457 0.990701,503 0.330234,591 0.330234,603 0.330234,799 0.523408,828 0.523408,862 0.330234,879 0.330234,882 0.330234,885 0.330234,942 0.330234,971 0.330234,998 0.330234,1048 0.330234,1059 0.523408,1078 0.766779,1088 0.330234,1110 0.330234,1115 0.330234,1207 0.523408,1209 0.330234,1211 0.330234,1241 0.523408,1242 0.330234,1277 0.330234,1320 0.330234,1323 0.523408,1347 0.330234,1370 0.523408,1386 0.523408,1430 0.660467,1433 0.523408,1462 0.330234,1464 0.330234,1469 0.330234,1493 0.330234,1504 0.330234,1512 0.330234,1535 0.766779,1547 0.330234,1548 0.523408,1591 0.330234,1688 0.330234,1693 0.330234,1702 0.330234,1709 0.330234,1720 0.330234,1722 0.330234,1734 0.330234,1756 0.330234,1793 0.523408}
+{5 0.46426,30 0.292915,31 0.292915,67 0.585831,85 0.292915,173 0.292915,176 0.292915,199 0.292915,209 0.292915,215 0.292915,279 0.292915,304 0.292915,378 0.292915,409 0.292915,437 0.292915,452 0.292915,457 0.92852,516 0.292915,554 0.292915,598 0.292915,599 0.292915,607 0.292915,644 0.292915,670 0.292915,682 0.292915,725 0.292915,735 0.292915,747 0.292915,763 0.292915,775 0.292915,827 0.46426,879 0.292915,882 0.292915,893 0.292915,916 0.292915,931 0.292915,1040 0.292915,1041 0.292915,1048 0.92852,1078 0.822318,1180 0.292915,1210 0.757176,1211 0.46426,1220 0.292915,1245 0.292915,1249 0.292915,1251 0.292915,1272 0.292915,1301 0.292915,1353 0.292915,1369 0.585831,1379 0.292915,1400 0.292915,1430 0.292915,1433 0.292915,1462 0.878746,1491 0.292915,1497 0.46426,1502 0.292915,1533 0.292915,1535 0.822318,1541 0.292915,1617 0.292915,1644 0.292915,1653 0.292915,1695 0.757176,1710 0.292915,1736 0.292915,1771 0.292915,1781 0.292915,1783 0.46426,1793 0.292915,1794 0.292915,1795 0.292915,1798 0.292915}
+{68 0.524862,127 0.524862,173 0.524862,199 0.524862,209 0.831886,211 0.524862,215 0.524862,258 0.524862,378 0.524862,401 0.524862,421 0.524862,437 0.524862,457 0.524862,588 0.524862,599 0.524862,629 0.524862,640 0.524862,666 0.524862,911 0.524862,998 0.524862,1048 1.049724,1210 0.524862,1241 0.524862,1430 0.831886,1466 0.524862,1492 0.524862,1493 0.524862,1495 0.524862,1513 0.524862,1535 0.831886,1547 0.524862,1593 0.524862,1657 0.524862,1666 0.524862,1756 0.524862,1797 0.524862}
+{32 0.326698,55 0.326698,78 0.517804,127 0.326698,145 0.326698,174 0.326698,199 0.326698,209 0.75857,218 0.326698,245 0.326698,267 0.326698,277 0.326698,294 0.326698,302 0.326698,312 0.326698,331 0.326698,366 0.326698,367 0.326698,374 0.326698,386 0.326698,455 0.326698,457 0.517804,505 0.326698,511 0.517804,518 0.326698,546 0.326698,584 0.326698,598 0.326698,608 0.326698,611 0.653397,612 0.326698,613 0.326698,614 0.326698,629 0.326698,630 0.326698,640 0.326698,663 0.326698,697 0.326698,706 0.326698,728 0.326698,827 0.326698,836 0.326698,859 0.326698,862 0.326698,879 0.326698,882 0.326698,888 0.326698,891 0.326698,909 0.326698,920 0.326698,938 0.326698,1004 0.326698,1017 0.326698,1022 0.326698,1048 0.517804,1051 0.326698,1065 0.326698,1066 0.326698,1069 0.326698,1078 0.326698,1123 0.326698,1130 0.326698,1150 0.326698,1157 0.917158,1162 0.326698,1168 0.326698,1210 0.517804,1241 0.326698,1249 0.326698,1268 0.326698,1288 0.326698,1343 0.326698,1371 0.326698,1408 0.326698,1409 0.326698,1452 0.326698,1467 0.326698,1535 0.517804,1579 0.326698,1605 0.517804,1633 0.326698,1636 0.326698,1644 0.326698,1684 0.326698,1797 0.326698,1798 0.517804}
+{78 0.837527,120 0.528421,199 0.528421,209 1.226955,215 0.528421,239 0.528421,261 0.528421,437 0.528421,518 0.528421,568 0.528421,573 0.528421,598 0.528421,607 0.528421,711 0.528421,825 0.837527,1025 0.837527,1029 0.528421,1048 0.528421,1059 0.528421,1095 0.528421,1149 0.837527,1210 0.528421,1274 0.528421,1287 0.528421,1314 0.528421,1400 0.528421,1439 0.528421,1645 0.528421,1666 0.528421,1680 0.528421,1797 0.837527}
+{263 0.65419,331 0.65419,419 0.65419,451 0.65419,457 0.65419,527 0.65419,573 0.65419,598 1.036867,879 0.65419,885 0.65419,1048 1.308381,1100 0.65419,1120 0.65419,1191 0.65419,1210 0.65419,1249 1.036867,1305 0.65419,1382 0.65419,1430 0.65419,1464 0.65419,1542 0.65419,1546 0.65419}
+{66 0.568966,118 0.901789,181 0.901789,209 0.568966,234 0.568966,240 0.568966,258 0.901789,348 0.568966,416 0.568966,418 0.568966,436 0.568966,457 0.568966,476 0.568966,670 0.568966,682 0.568966,686 0.568966,766 0.568966,825 0.568966,838 0.568966,1048 0.568966,1078 0.568966,1132 0.568966,1151 0.568966,1160 0.568966,1178 0.568966,1424 0.568966,1430 0.901789,1466 0.568966,1535 0.568966,1708 0.568966,1718 0.568966}
+{19 0.309967,49 0.309967,82 0.309967,115 0.309967,154 0.309967,173 0.309967,209 0.71972,211 0.491285,252 0.309967,255 0.309967,276 0.309967,283 0.309967,291 0.309967,295 0.309967,378 0.309967,400 0.491285,433 0.309967,437 0.491285,453 0.309967,466 0.309967,532 0.309967,538 0.309967,540 0.309967,563 0.309967,589 0.309967,590 0.309967,592 0.309967,598 0.619933,601 0.309967,607 0.619933,608 0.309967,610 0.309967,618 0.309967,623 0.309967,676 0.309967,744 0.309967,764 0.309967,768 0.309967,795 0.309967,827 0.491285,828 0.309967,864 0.309967,882 0.309967,883 0.309967,885 0.309967,890 0.309967,929 0.309967,942 0.309967,971 0.309967,979 0.309967,998 0.309967,1048 0.801252,1063 0.309967,1127 0.491285,1138 0.309967,1156 0.309967,1194 0.309967,1209 0.309967,1210 0.801252,1220 0.309967,1241 0.309967,1259 0.309967,1260 0.309967,1287 0.309967,1292 0.309967,1296 0.309967,1367 0.309967,1369 0.491285,1376 0.309967,1391 0.309967,1401 0.309967,1430 0.309967,1454 0.309967,1461 0.309967,1462 0.619933,1486 0.309967,1490 0.309967,1519 0.309967,1535 0.309967,1536 0.309967,1539 0.309967,1556 0.309967,1656 0.309967,1675 0.309967,1678 0.309967,1679 0.309967,1739 0.309967,1742 0.309967,1748 0.309967,1783 0.309967,1798 0.309967}
+{15 0.347842,38 0.347842,67 0.551316,91 0.347842,124 0.347842,131 0.347842,144 0.347842,174 0.551316,178 0.347842,206 0.347842,209 0.899158,211 0.347842,307 0.347842,328 0.347842,333 0.347842,345 0.347842,380 0.347842,437 0.551316,457 0.551316,530 0.347842,567 0.347842,577 0.347842,597 0.347842,599 0.347842,606 0.347842,624 0.347842,626 0.347842,682 0.347842,701 0.347842,741 0.347842,743 0.347842,827 0.976516,828 0.695684,879 0.347842,881 0.347842,921 0.347842,1048 0.695684,1078 0.347842,1081 0.347842,1087 0.347842,1119 0.347842,1130 0.347842,1177 0.347842,1203 0.347842,1216 0.347842,1232 0.347842,1239 0.347842,1271 0.347842,1272 0.347842,1286 0.347842,1379 0.551316,1424 0.347842,1439 0.347842,1442 0.347842,1451 0.347842,1462 0.347842,1464 0.347842,1475 0.347842,1526 0.347842,1535 0.347842,1543 0.347842,1566 0.347842,1589 0.347842,1594 0.347842,1626 0.347842,1633 0.347842,1678 0.347842,1689 0.347842,1734 0.347842,1751 0.347842,1766 0.347842,1782 0.347842,1789 0.347842}
+{127 0.653908,199 0.653908,209 1.307816,366 0.653908,430 0.653908,437 1.03642,531 0.653908,591 0.653908,599 0.653908,748 1.03642,753 1.03642,827 1.03642,1017 0.653908,1417 0.653908,1430 0.653908,1436 0.653908,1461 0.653908,1533 0.653908,1722 0.653908}
+{98 0.737939,127 0.737939,177 0.737939,184 0.737939,209 1.169606,223 0.737939,337 0.737939,527 0.737939,700 0.737939,851 0.737939,923 0.737939,932 0.737939,1048 0.737939,1157 0.737939,1301 0.737939,1329 0.737939,1428 0.737939,1615 0.737939,1753 1.169606}
+{174 0.678863,209 0.678863,245 1.075972,336 0.678863,457 0.678863,599 0.678863,648 0.678863,756 0.678863,931 0.678863,1037 0.678863,1210 0.678863,1214 0.678863,1241 0.678863,1284 0.678863,1302 0.678863,1303 0.678863,1369 1.075972,1409 0.678863,1462 0.678863,1535 0.678863,1627 0.678863,1717 0.678863,1736 0.678863}
+{47 0.318773,55 0.318773,85 0.318773,88 0.318773,117 0.318773,125 0.318773,128 0.318773,163 0.318773,177 0.318773,180 0.318773,191 0.318773,209 0.318773,217 0.318773,248 0.318773,253 0.318773,257 0.318773,301 0.318773,317 0.318773,345 0.318773,368 0.318773,377 0.318773,387 0.505243,395 0.318773,455 0.318773,460 0.894908,474 0.318773,577 0.318773,590 0.318773,599 0.318773,611 0.318773,647 0.637545,666 0.318773,670 0.318773,725 0.318773,742 0.318773,763 0.505243,768 0.318773,775 0.318773,825 0.318773,858 0.318773,875 0.318773,936 0.318773,940 0.505243,945 0.318773,985 0.318773,1002 0.318773,1015 0.318773,1028 0.318773,1037 0.318773,1038 0.318773,1046 0.318773,1048 0.318773,1056 0.318773,1057 0.318773,1078 0.505243,1094 0.318773,1109 0.318773,1124 0.505243,1127 0.318773,1130 0.318773,1132 0.318773,1146 0.318773,1148 0.318773,1161 0.505243,1177 0.318773,1198 0.318773,1210 0.318773,1249 0.505243,1347 0.318773,1381 0.505243,1415 0.318773,1430 0.318773,1456 0.318773,1462 0.505243,1488 0.318773,1506 0.318773,1529 0.318773,1535 0.318773,1544 0.318773,1547 0.505243,1550 0.318773,1553 0.505243,1625 0.318773,1678 0.318773,1699 0.318773,1744 0.318773,1785 0.318773,1787 0.318773,1797 0.318773,1798 0.505243}
+{380 1.154382,553 1.154382,867 1.154382,1079 1.154382,1101 1.154382,1200 1.154382,1430 1.154382,1462 1.154382,1535 1.154382}
+{9 0.580945,12 0.580945,67 0.920775,108 0.580945,127 0.920775,209 0.580945,266 0.580945,296 0.580945,457 0.580945,551 0.580945,585 0.580945,660 0.580945,756 0.580945,763 0.580945,981 0.580945,1063 0.580945,1089 0.580945,1164 0.580945,1179 0.920775,1224 0.580945,1240 0.580945,1279 0.580945,1285 0.580945,1336 0.580945,1364 0.580945,1402 0.580945,1430 0.580945,1433 0.580945,1462 0.580945,1547 0.580945,1548 0.580945}
+{113 0.285939,121 0.285939,139 0.285939,177 0.285939,178 0.285939,187 0.285939,209 0.663929,211 0.285939,225 0.285939,228 0.453202,244 0.285939,255 0.663929,258 0.663929,313 0.285939,359 0.285939,373 0.285939,399 0.285939,416 0.285939,418 0.285939,429 0.285939,437 0.453202,452 0.453202,457 0.571877,466 0.285939,470 0.285939,486 0.285939,487 0.285939,492 0.285939,514 0.285939,515 0.285939,592 0.285939,593 0.285939,616 0.285939,672 0.285939,680 0.285939,681 0.285939,682 0.285939,703 0.285939,704 0.285939,716 0.285939,725 0.285939,729 0.285939,799 0.285939,803 0.285939,804 0.285939,820 0.285939,827 0.453202,828 0.285939,853 0.285939,875 0.285939,881 0.285939,887 0.285939,893 0.285939,897 0.285939,919 0.453202,939 0.285939,942 0.453202,995 0.285939,998 0.285939,1010 0.285939,1018 0.285939,1025 0.285939,1027 0.285939,1048 0.571877,1078 0.453202,1079 0.285939,1098 0.285939,1102 0.285939,1105 0.285939,1135 0.453202,1149 0.453202,1220 0.453202,1245 0.285939,1270 0.285939,1304 0.285939,1338 0.285939,1379 0.285939,1400 0.285939,1411 0.285939,1412 0.285939,1417 0.285939,1430 0.802731,1431 0.285939,1439 0.285939,1453 0.285939,1455 0.285939,1463 0.285939,1469 0.285939,1470 0.285939,1476 0.285939,1477 0.285939,1503 0.285939,1536 0.285939,1574 0.285939,1592 0.285939,1612 0.285939,1645 0.285939,1721 0.285939,1728 0.285939,1730 0.285939,1731 0.285939,1743 0.453202,1779 0.285939,1784 0.285939}
+{127 0.648294,215 0.648294,239 0.648294,257 0.648294,457 1.027522,568 0.648294,627 0.648294,652 0.648294,763 0.648294,827 1.027522,882 0.648294,919 0.648294,940 0.648294,1053 0.648294,1078 0.648294,1249 0.648294,1365 0.648294,1430 0.648294,1455 0.648294,1502 0.648294,1530 0.648294,1625 0.648294,1734 0.648294,1753 1.027522}
+{67 0.507794,156 0.507794,209 1.015589,255 0.507794,391 0.507794,418 0.507794,457 1.015589,576 0.507794,635 0.507794,656 0.507794,881 0.507794,987 0.507794,1004 0.507794,1023 0.507794,1057 0.507794,1063 0.507794,1141 0.507794,1149 1.015589,1210 0.507794,1240 0.804835,1285 0.507794,1287 0.507794,1289 0.507794,1355 0.507794,1430 0.507794,1454 0.507794,1493 0.507794,1522 0.507794,1535 1.015589,1604 0.507794,1635 0.507794,1691 0.507794,1782 0.507794}
+{45 0.565074,94 0.895621,177 0.565074,185 0.895621,209 0.895621,347 0.565074,378 0.895621,438 0.565074,449 0.565074,571 0.565074,662 0.565074,670 0.565074,925 0.565074,1108 0.565074,1120 0.565074,1128 0.565074,1180 0.565074,1203 1.130147,1237 0.565074,1285 0.895621,1311 0.565074,1334 0.565074,1363 0.565074,1369 0.565074,1370 0.565074,1648 0.565074,1767 0.565074}
+{4 0.272298,41 0.272298,67 0.272298,69 0.272298,79 0.272298,85 0.272298,127 0.632257,177 0.431583,178 0.431583,188 0.272298,193 0.272298,209 1.007624,211 0.272298,244 0.272298,255 0.272298,342 0.272298,376 0.272298,380 0.272298,396 0.272298,418 0.544597,426 0.272298,437 0.544597,446 0.272298,457 0.764438,463 0.272298,507 0.272298,538 0.431583,548 0.272298,552 0.272298,588 0.272298,627 0.272298,628 0.272298,629 0.272298,640 0.272298,764 0.272298,814 0.431583,827 0.272298,832 0.272298,899 0.272298,913 0.431583,948 0.272298,956 0.272298,1017 0.272298,1048 0.764438,1050 0.272298,1056 0.272298,1059 0.272298,1078 0.764438,1108 0.272298,1119 0.272298,1127 0.272298,1178 0.272298,1198 0.272298,1211 0.431583,1261 0.272298,1263 0.272298,1269 0.272298,1285 0.272298,1306 0.272298,1327 0.431583,1328 0.272298,1329 0.272298,1342 0.272298,1369 0.544597,1370 0.272298,1376 0.272298,1430 0.632257,1432 0.272298,1436 0.272298,1454 0.431583,1461 0.431583,1477 0.431583,1486 0.431583,1493 0.272298,1535 0.544597,1602 0.272298,1604 0.272298,1644 0.816895,1670 0.272298,1706 0.272298,1741 0.272298,1751 0.272298,1773 0.272298}
+{85 0.925565,209 0.925565,210 0.925565,617 0.925565,705 0.925565,1048 0.925565,1327 0.925565,1430 0.925565,1457 0.925565,1535 0.925565,1550 0.925565,1696 0.925565,1717 0.925565,1753 0.925565}
+{3 0.331111,31 0.524798,34 0.331111,67 0.331111,127 0.331111,152 0.331111,166 0.331111,173 0.331111,174 0.855909,201 0.331111,206 0.331111,208 0.331111,209 0.768816,237 0.331111,284 0.524798,311 0.331111,334 0.331111,355 0.331111,366 0.331111,382 0.331111,390 0.331111,397 0.331111,398 0.331111,437 0.524798,450 0.331111,460 0.331111,464 0.331111,480 0.331111,511 0.331111,550 0.331111,558 0.331111,568 0.331111,572 0.331111,598 0.331111,625 0.331111,687 0.331111,706 0.331111,827 0.929546,828 0.524798,876 0.331111,882 0.331111,913 0.331111,919 0.331111,983 0.331111,1015 0.331111,1048 0.768816,1078 0.662222,1140 0.331111,1152 0.331111,1203 0.331111,1238 0.331111,1240 0.331111,1245 0.331111,1249 0.331111,1253 0.331111,1270 0.331111,1281 0.331111,1290 0.331111,1355 0.331111,1359 0.331111,1376 0.331111,1378 0.331111,1400 0.331111,1436 0.331111,1479 0.331111,1508 0.331111,1510 0.331111,1515 0.331111,1554 0.331111,1639 0.331111,1645 0.331111,1654 0.331111,1709 0.331111,1710 0.331111,1729 0.331111,1740 0.331111,1748 0.331111,1753 0.331111,1798 0.331111}
+{1 0.258517,52 0.258517,66 0.517034,90 0.258517,174 0.40974,194 0.258517,202 0.258517,206 0.258517,209 0.725749,233 0.258517,249 0.258517,256 0.258517,258 0.258517,275 0.258517,282 0.258517,284 0.258517,317 0.258517,320 0.258517,367 0.258517,378 0.258517,380 0.517034,383 0.258517,389 0.40974,412 0.258517,471 0.258517,475 0.258517,494 0.258517,506 0.258517,521 0.258517,561 0.258517,568 0.258517,588 0.40974,598 0.40974,600 0.258517,611 0.258517,632 0.258517,668 0.258517,680 0.40974,696 0.40974,704 0.258517,715 0.258517,731 0.258517,753 0.40974,760 0.40974,768 0.258517,776 0.258517,793 0.258517,825 0.258517,827 0.517034,846 0.258517,870 0.258517,881 0.40974,890 0.258517,898 0.258517,905 0.258517,906 0.258517,942 0.258517,944 0.258517,967 0.258517,984 0.40974,1000 0.258517,1004 0.40974,1042 0.258517,1048 0.894322,1052 0.258517,1078 0.517034,1110 0.258517,1120 0.258517,1149 0.258517,1157 0.40974,1162 0.258517,1185 0.40974,1202 0.258517,1203 0.258517,1220 0.40974,1221 0.258517,1245 0.258517,1294 0.258517,1313 0.258517,1317 0.258517,1327 0.258517,1332 0.258517,1369 0.258517,1370 0.40974,1373 0.258517,1376 0.258517,1388 0.258517,1392 0.258517,1400 0.40974,1403 0.258517,1416 0.258517,1427 0.258517,1429 0.258517,1430 0.517034,1447 0.600258,1448 0.40974,1451 0.258517,1484 0.258517,1522 0.258517,1528 0.258517,1556 0.258517,1587 0.258517,1599 0.40974,1608 0.258517,1614 0.258517,1638 0.258517,1640 0.258517,1692 0.258517,1719 0.258517,1726 0.258517,1730 0.258517,1737 0.258517,1745 0.258517,1754 0.258517,1791 0.258517}
+{13 0.374557,14 0.374557,55 0.374557,67 0.374557,105 0.374557,140 0.374557,177 0.374557,199 0.593659,202 0.374557,209 0.749114,255 0.374557,281 0.374557,331 0.374557,409 0.374557,423 0.374557,431 0.374557,437 0.374557,457 0.869694,485 0.374557,559 0.374557,600 0.374557,643 0.374557,712 0.374557,753 0.374557,790 0.374557,827 0.593659,862 0.374557,879 0.374557,888 0.374557,993 0.593659,1048 0.749114,1053 0.593659,1059 0.374557,1078 0.749114,1127 0.374557,1148 0.374557,1149 0.593659,1188 0.374557,1210 0.593659,1212 0.374557,1218 0.374557,1220 0.374557,1229 0.374557,1245 0.374557,1249 0.374557,1305 0.374557,1369 0.374557,1430 0.374557,1434 0.374557,1455 0.374557,1516 0.374557,1538 0.593659,1544 0.374557,1564 0.374557,1622 0.374557,1651 0.374557,1744 0.374557,1751 0.374557,1760 0.593659,1764 0.374557}
+{78 0.465106,131 0.465106,141 0.465106,174 0.737176,199 0.465106,209 1.305719,255 0.465106,257 0.465106,261 0.465106,416 0.737176,418 0.465106,586 0.465106,756 0.465106,799 0.737176,827 0.465106,862 0.465106,921 0.465106,936 0.465106,993 0.465106,1007 0.465106,1013 0.465106,1048 0.465106,1177 0.465106,1184 0.465106,1185 0.465106,1247 0.737176,1282 0.465106,1289 0.465106,1370 0.465106,1430 0.930213,1439 0.465106,1454 0.465106,1486 0.465106,1494 0.465106,1616 0.465106,1713 0.737176,1734 0.465106,1747 0.465106}
+{1 0.27862,12 0.27862,16 0.27862,55 0.27862,109 0.27862,159 0.27862,178 0.27862,201 0.27862,202 0.27862,209 0.720222,211 0.27862,223 0.27862,224 0.27862,232 0.27862,244 0.441602,255 0.441602,257 0.27862,325 0.27862,419 0.27862,425 0.27862,436 0.27862,437 0.27862,457 0.27862,472 0.27862,495 0.27862,547 0.720222,588 0.27862,598 0.27862,650 0.27862,670 0.27862,677 0.27862,685 0.27862,705 0.27862,712 0.27862,717 0.27862,747 0.27862,763 0.27862,764 0.27862,765 0.27862,774 0.27862,801 0.27862,803 0.27862,810 0.27862,879 0.27862,919 0.27862,930 0.27862,940 0.441602,950 0.27862,971 0.27862,993 0.27862,1011 0.27862,1012 0.27862,1043 0.27862,1048 0.782185,1057 0.27862,1059 0.27862,1070 0.27862,1078 0.441602,1082 0.27862,1085 0.27862,1090 0.27862,1116 0.441602,1138 0.27862,1144 0.27862,1183 0.27862,1185 0.27862,1210 0.646936,1218 0.27862,1223 0.27862,1241 0.27862,1242 0.27862,1265 0.27862,1288 0.27862,1289 0.27862,1307 0.27862,1327 0.441602,1334 0.27862,1349 0.27862,1428 0.27862,1429 0.27862,1430 0.782185,1436 0.782185,1469 0.55724,1471 0.55724,1485 0.27862,1511 0.27862,1535 0.441602,1574 0.441602,1575 0.27862,1586 0.27862,1616 0.27862,1632 0.27862,1640 0.27862,1644 0.27862,1677 0.27862,1687 0.27862,1739 0.27862,1743 0.27862,1753 0.27862,1772 0.27862}
+{6 0.330587,30 0.208577,38 0.208577,43 0.208577,56 0.208577,57 0.208577,76 0.208577,77 0.208577,127 0.208577,131 0.330587,136 0.208577,142 0.208577,154 0.208577,159 0.208577,160 0.208577,161 0.417155,165 0.208577,167 0.208577,174 0.208577,188 0.208577,199 0.208577,209 0.625732,218 0.208577,221 0.208577,223 0.208577,228 0.208577,234 0.208577,255 0.208577,261 0.417155,272 0.208577,286 0.330587,328 0.208577,354 0.208577,361 0.208577,364 0.208577,376 0.208577,377 0.208577,380 0.417155,384 0.208577,388 0.208577,411 0.208577,414 0.208577,416 0.208577,419 0.208577,457 0.208577,466 0.208577,483 0.208577,508 0.208577,543 0.208577,546 0.208577,564 0.208577,575 0.208577,604 0.208577,608 0.208577,611 0.417155,613 0.208577,619 0.208577,629 0.330587,632 0.208577,635 0.208577,640 0.330587,654 0.208577,661 0.208577,666 0.208577,667 0.208577,670 0.417155,683 0.208577,709 0.208577,724 0.208577,726 0.208577,753 0.208577,758 0.208577,767 0.208577,775 0.208577,799 0.208577,807 0.208577,822 0.330587,824 0.208577,827 0.539165,833 0.208577,836 0.208577,844 0.330587,875 0.208577,879 0.330587,881 0.539165,885 0.208577,890 0.330587,891 0.208577,914 0.208577,919 0.208577,921 0.208577,922 0.208577,924 0.330587,927 0.208577,928 0.208577,935 0.208577,942 0.208577,944 0.208577,972 0.208577,977 0.208577,988 0.208577,992 0.208577,993 0.330587,1004 0.330587,1021 0.208577,1025 0.208577,1027 0.208577,1033 0.208577,1048 0.585551,1060 0.208577,1078 0.208577,1090 0.208577,1093 0.208577,1096 0.208577,1099 0.208577,1103 0.208577,1108 0.208577,1113 0.208577,1127 0.208577,1132 0.208577,1136 0.208577,1137 0.208577,1155 0.417155,1156 0.208577,1162 0.208577,1163 0.208577,1178 0.208577,1198 0.330587,1210 0.208577,1216 0.208577,1245 0.330587,1285 0.208577,1322 0.208577,1371 0.208577,1385 0.208577,1394 0.208577,1420 0.208577,1428 0.208577,1430 0.417155,1441 0.208577,1449 0.208577,1452 0.330587,1462 0.208577,1464 0.208577,1466 0.208577,1472 0.417155,1478 0.330587,1501 0.330587,1507 0.208577,1518 0.208577,1520 0.208577,1521 0.208577,1533 0.417155,1535 0.539165,1542 0.208577,1546 0.330587,1547 0.208577,1550 0.208577,1551 0.208577,1564 0.208577,1570 0.208577,1589 0.208577,1605 0.208577,1607 0.208577,1611 0.208577,1612 0.208577,1625 0.208577,1634 0.208577,1643 0.208577,1644 0.330587,1648 0.208577,1663 0.208577,1673 0.208577,1681 0.208577,1688 0.208577,1689 0.208577,1702 0.208577,1709 0.208577,1768 0.208577,1769 0.208577,1776 0.208577,1783 0.330587,1791 0.208577,1792 0.208577,1798 0.330587}
+{24 0.23867,31 0.23867,37 0.23867,41 0.23867,54 0.23867,55 0.378284,67 0.378284,78 0.23867,85 0.23867,92 0.23867,118 0.477341,127 0.23867,145 0.23867,176 0.23867,177 0.23867,184 0.23867,185 0.23867,192 0.23867,199 0.23867,202 0.23867,206 0.23867,208 0.23867,209 0.792846,211 0.23867,224 0.23867,234 0.378284,244 0.23867,318 0.23867,336 0.23867,339 0.378284,345 0.23867,366 0.616954,367 0.477341,378 0.477341,398 0.23867,415 0.23867,418 0.23867,463 0.23867,495 0.378284,505 0.23867,611 0.23867,616 0.378284,632 0.23867,649 0.23867,653 0.23867,663 0.23867,670 0.23867,750 0.23867,764 0.23867,778 0.23867,788 0.23867,811 0.23867,827 0.378284,836 0.23867,856 0.23867,874 0.23867,881 0.23867,882 0.23867,893 0.23867,907 0.554176,940 0.23867,947 0.23867,951 0.23867,964 0.23867,971 0.23867,987 0.23867,995 0.23867,997 0.23867,1018 0.23867,1020 0.23867,1044 0.23867,1048 0.756567,1059 0.378284,1078 0.23867,1083 0.23867,1120 0.378284,1121 0.23867,1139 0.23867,1152 0.23867,1156 0.23867,1157 0.23867,1170 0.23867,1171 0.378284,1173 0.23867,1181 0.23867,1206 0.23867,1213 0.23867,1218 0.23867,1223 0.23867,1241 0.378284,1249 0.23867,1312 0.23867,1327 0.378284,1331 0.23867,1360 0.23867,1368 0.23867,1369 0.23867,1372 0.23867,1379 0.23867,1404 0.23867,1428 0.378284,1430 0.378284,1432 0.23867,1436 0.716011,1441 0.23867,1451 0.616954,1454 0.23867,1457 0.477341,1505 0.23867,1531 0.23867,1535 0.23867,1560 0.23867,1561 0.23867,1562 0.23867,1569 0.23867,1601 0.23867,1612 0.378284,1633 0.23867,1645 0.378284,1648 0.378284,1676 0.23867,1682 0.23867,1703 0.23867,1735 0.23867,1746 0.23867,1760 0.23867,1765 0.23867,1778 0.23867,1797 0.23867,1798 0.23867}
+{192 0.589295,199 0.589295,209 0.934011,211 0.589295,295 0.934011,326 0.589295,457 0.589295,520 0.589295,526 0.589295,600 0.589295,828 0.589295,929 0.589295,943 0.589295,1048 0.589295,1114 0.589295,1210 1.17859,1220 0.589295,1249 0.589295,1281 0.589295,1290 0.589295,1430 0.934011,1469 0.589295,1490 0.589295,1529 0.589295,1644 0.589295,1693 0.589295,1783 0.589295}
+{67 0.616925,89 0.616925,202 0.616925,209 0.616925,220 0.616925,377 0.977803,378 0.616925,389 0.616925,419 0.616925,448 0.616925,457 0.616925,555 0.616925,627 0.616925,645 0.616925,693 0.616925,751 0.616925,830 0.616925,881 0.616925,989 0.616925,1017 0.616925,1078 0.616925,1180 0.616925,1210 0.616925,1369 1.23385,1430 0.616925,1617 0.616925,1758 0.616925}
+{70 0.336602,131 0.336602,144 0.336602,163 0.533502,168 0.336602,169 0.336602,172 0.533502,174 0.673204,255 0.336602,263 0.870104,286 0.336602,331 0.336602,383 0.533502,410 0.336602,457 0.944961,465 0.336602,574 0.336602,596 0.336602,629 0.336602,647 0.533502,670 0.336602,705 0.336602,725 0.336602,746 0.336602,842 0.336602,864 0.336602,879 0.533502,881 0.336602,890 0.533502,908 0.336602,933 0.336602,942 0.336602,956 0.533502,1004 0.336602,1048 0.336602,1055 0.673204,1063 0.336602,1072 0.336602,1078 0.533502,1115 0.336602,1131 0.336602,1204 0.336602,1210 0.336602,1211 0.336602,1241 0.336602,1323 0.336602,1352 0.336602,1355 0.336602,1370 0.336602,1386 0.336602,1430 0.870104,1433 0.336602,1455 0.336602,1471 0.336602,1486 0.533502,1493 0.336602,1494 0.336602,1534 0.336602,1578 0.336602,1603 0.336602,1616 0.336602,1633 0.336602,1644 0.336602,1651 0.336602,1754 0.673204}
+{1 0.209126,8 0.209126,25 0.209126,26 0.209126,36 0.209126,44 0.209126,55 0.209126,57 0.209126,67 0.418253,95 0.209126,100 0.209126,128 0.209126,129 0.209126,143 0.209126,157 0.209126,171 0.209126,177 0.209126,178 0.418253,181 0.331457,199 0.331457,202 0.209126,209 0.796218,216 0.209126,221 0.209126,222 0.331457,227 0.209126,228 0.209126,232 0.209126,238 0.209126,248 0.209126,252 0.209126,258 0.209126,264 0.209126,283 0.209126,319 0.209126,321 0.209126,336 0.209126,351 0.209126,374 0.209126,378 0.331457,390 0.209126,393 0.331457,422 0.209126,428 0.209126,449 0.209126,452 0.485576,467 0.209126,506 0.209126,511 0.209126,528 0.209126,540 0.209126,559 0.331457,562 0.209126,564 0.209126,565 0.209126,590 0.209126,594 0.209126,607 0.209126,611 0.209126,622 0.209126,626 0.331457,629 0.485576,632 0.331457,640 0.418253,647 0.209126,666 0.209126,669 0.209126,670 0.331457,682 0.209126,722 0.209126,727 0.209126,738 0.209126,742 0.209126,761 0.209126,764 0.209126,772 0.209126,784 0.209126,828 0.209126,831 0.209126,833 0.209126,853 0.209126,861 0.209126,879 0.209126,881 0.485576,882 0.331457,886 0.209126,891 0.209126,921 0.209126,931 0.209126,937 0.209126,943 0.209126,962 0.209126,965 0.209126,966 0.209126,975 0.209126,1001 0.209126,1004 0.331457,1015 0.209126,1034 0.209126,1039 0.209126,1047 0.485576,1048 0.418253,1068 0.209126,1075 0.209126,1076 0.209126,1077 0.209126,1078 0.209126,1080 0.209126,1090 0.209126,1099 0.209126,1104 0.209126,1111 0.209126,1121 0.331457,1149 0.209126,1159 0.209126,1163 0.209126,1186 0.209126,1193 0.331457,1205 0.209126,1210 0.485576,1216 0.209126,1240 0.209126,1243 0.209126,1245 0.209126,1249 0.209126,1254 0.209126,1285 0.209126,1289 0.331457,1332 0.209126,1335 0.209126,1340 0.209126,1347 0.209126,1369 0.485576,1371 0.209126,1376 0.485576,1419 0.331457,1422 0.209126,1423 0.209126,1424 0.209126,1430 0.485576,1439 0.209126,1451 0.331457,1460 0.209126,1461 0.209126,1462 0.418253,1478 0.209126,1489 0.209126,1492 0.209126,1498 0.331457,1514 0.209126,1517 0.209126,1532 0.209126,1535 0.209126,1546 0.209126,1554 0.209126,1574 0.209126,1580 0.209126,1581 0.209126,1601 0.209126,1617 0.209126,1619 0.209126,1629 0.209126,1644 0.209126,1665 0.209126,1678 0.209126,1688 0.209126,1695 0.485576,1709 0.209126,1720 0.209126,1722 0.209126,1732 0.209126,1733 0.209126,1740 0.209126,1759 0.331457,1760 0.209126,1769 0.209126,1772 0.209126,1780 0.209126,1789 0.209126}
+{33 0.167633,39 0.167633,47 0.470604,60 0.265692,67 0.167633,71 0.167633,72 0.167633,73 0.167633,74 0.167633,75 0.167633,78 0.265692,80 0.167633,93 0.167633,103 0.265692,117 0.167633,127 0.389231,133 0.167633,137 0.167633,143 0.167633,153 0.265692,154 0.265692,163 0.265692,169 0.167633,198 0.167633,209 0.670531,214 0.167633,228 0.167633,234 0.265692,238 0.335265,244 0.167633,255 0.167633,259 0.167633,264 0.265692,268 0.167633,270 0.167633,287 0.167633,297 0.167633,298 0.167633,300 0.167633,303 0.167633,305 0.167633,325 0.167633,341 0.167633,344 0.167633,346 0.167633,366 0.167633,373 0.167633,374 0.167633,377 0.167633,378 0.167633,380 0.167633,387 0.265692,432 0.167633,436 0.265692,437 0.389231,457 0.433324,458 0.167633,461 0.167633,463 0.167633,480 0.167633,523 0.167633,524 0.167633,527 0.167633,544 0.265692,546 0.167633,550 0.265692,553 0.167633,582 0.167633,583 0.167633,587 0.335265,588 0.167633,592 0.167633,599 0.167633,602 0.167633,604 0.335265,607 0.167633,611 0.265692,627 0.335265,629 0.265692,631 0.167633,640 0.265692,641 0.167633,651 0.167633,653 0.167633,658 0.167633,663 0.167633,670 0.265692,682 0.167633,687 0.167633,695 0.167633,705 0.167633,707 0.167633,721 0.167633,725 0.167633,734 0.167633,737 0.167633,744 0.167633,753 0.167633,796 0.167633,798 0.167633,806 0.167633,825 0.335265,827 0.265692,828 0.167633,831 0.167633,849 0.167633,856 0.167633,858 0.167633,864 0.167633,866 0.167633,869 0.167633,877 0.167633,879 0.265692,881 0.389231,888 0.167633,889 0.167633,890 0.556864,895 0.167633,896 0.167633,902 0.167633,904 0.167633,910 0.265692,915 0.167633,924 0.389231,942 0.265692,945 0.167633,963 0.167633,964 0.167633,966 0.167633,967 0.167633,996 0.167633,1004 0.335265,1007 0.389231,1018 0.167633,1032 0.167633,1044 0.265692,1046 0.167633,1047 0.265692,1048 0.502898,1049 0.167633,1052 0.167633,1061 0.167633,1074 0.167633,1076 0.167633,1078 0.265692,1099 0.167633,1102 0.167633,1119 0.265692,1120 0.167633,1132 0.265692,1139 0.265692,1140 0.167633,1147 0.167633,1148 0.167633,1152 0.167633,1157 0.265692,1158 0.167633,1162 0.167633,1174 0.167633,1177 0.167633,1178 0.167633,1181 0.167633,1189 0.167633,1198 0.167633,1201 0.167633,1209 0.167633,1210 0.167633,1211 0.335265,1221 0.167633,1237 0.167633,1244 0.167633,1262 0.167633,1267 0.167633,1280 0.167633,1299 0.167633,1306 0.167633,1311 0.167633,1334 0.335265,1375 0.167633,1376 0.167633,1386 0.167633,1389 0.167633,1390 0.167633,1395 0.167633,1400 0.167633,1403 0.167633,1405 0.167633,1410 0.167633,1413 0.167633,1418 0.167633,1428 0.335265,1429 0.265692,1430 0.335265,1436 0.167633,1445 0.167633,1446 0.167633,1451 0.265692,1454 0.265692,1455 0.389231,1456 0.167633,1482 0.265692,1496 0.167633,1500 0.265692,1532 0.167633,1535 0.167633,1540 0.167633,1546 0.265692,1550 0.167633,1568 0.167633,1579 0.167633,1594 0.265692,1597 0.265692,1607 0.167633,1625 0.167633,1626 0.265692,1630 0.167633,1633 0.335265,1644 0.470604,1645 0.167633,1648 0.167633,1649 0.167633,1651 0.167633,1670 0.265692,1674 0.167633,1695 0.502898,1697 0.167633,1701 0.167633,1720 0.335265,1722 0.167633,1724 0.167633,1740 0.167633,1744 0.167633,1750 0.167633,1752 0.167633,1761 0.167633,1763 0.167633,1770 0.167633,1773 0.167633,1776 0.335265,1783 0.265692,1799 0.167633,1801 0.265692}
+{19 0.439734,124 0.439734,209 0.879469,248 0.439734,409 0.439734,455 0.439734,457 1.319203,466 0.439734,598 0.439734,611 0.439734,670 0.439734,671 0.439734,783 0.439734,811 0.439734,827 0.439734,890 0.696962,921 0.879469,924 0.439734,1048 0.696962,1120 0.439734,1132 0.439734,1167 0.439734,1177 0.439734,1178 0.439734,1279 0.439734,1294 0.439734,1295 0.439734,1337 0.439734,1370 0.439734,1430 0.879469,1462 0.879469,1483 0.439734,1542 0.439734,1567 0.439734,1573 0.439734,1600 0.439734,1601 0.439734,1647 0.439734,1754 0.439734}
+{209 1.292891,292 0.815723,360 0.815723,457 0.815723,488 0.815723,522 0.815723,584 0.815723,672 0.815723,682 0.815723,755 0.815723,799 0.815723,964 0.815723,1157 0.815723,1210 0.815723,1430 1.292891}
+{0 ' positive',670 1.548766,682 1.548766,1821 1.548766,2508 1.548766,2537 1.548766}
+{0 ' positive',209 1.154382,489 1.154382,682 1.154382,705 1.154382,1462 1.154382,1798 1.154382,1934 1.154382,2143 1.154382,2426 1.154382}
+{0 ' positive',209 0.839937,215 0.839937,465 0.839937,921 0.839937,1149 0.839937,1198 0.839937,1483 0.839937,1493 0.839937,1542 0.839937,1721 0.839937,1944 0.839937,2336 0.839937,2353 0.839937,2379 0.839937,2407 0.839937,2435 0.839937,2436 0.839937}
+{0 ' positive',177 0.774383,202 0.774383,209 0.774383,260 0.774383,303 0.774383,419 0.774383,670 0.774383,1157 0.774383,1173 0.774383,1177 0.774383,1272 0.774383,1454 0.774383,1574 0.774383,1647 0.774383,1709 0.774383,1720 0.774383,2080 0.774383,2108 0.774383,2317 0.774383,2595 0.774383}
+{0 ' positive',77 0.942127,124 0.942127,209 0.942127,466 1.493236,511 0.942127,921 0.942127,1462 0.942127,1599 0.942127,1908 0.942127,2332 0.942127,2510 0.942127,2511 0.942127}
+{0 ' positive',117 0.714209,178 0.714209,209 1.131994,215 0.714209,261 0.714209,588 0.714209,627 0.714209,682 0.714209,711 0.714209,739 0.714209,1157 0.714209,1173 0.714209,1177 0.714209,1271 0.714209,1440 0.714209,1644 0.714209,1673 0.714209,1798 0.714209,2000 0.714209,2322 0.714209,2417 0.714209,2447 0.714209}
+{0 ' positive',209 1.122878,465 1.122878,682 1.122878,921 1.77972,1157 1.122878,1909 1.122878,2371 1.122878,2408 1.122878}
+{0 ' positive',260 1.095143,670 1.095143,682 1.095143,727 1.095143,1157 1.095143,1218 1.095143,1823 1.095143,2212 1.095143,2411 1.095143,2433 1.095143}
+{0 ' positive',184 0.784005,209 1.242619,282 0.784005,466 0.784005,682 0.784005,727 0.784005,943 0.784005,1037 0.784005,1203 0.784005,1241 0.784005,1289 0.784005,1332 0.784005,1462 0.784005,1490 0.784005,1798 0.784005,2216 0.784005,2371 0.784005,2513 0.784005}
+{0 ' positive',154 1.154382,177 1.154382,209 1.154382,1156 1.154382,1493 1.154382,1804 1.154382,1934 1.154382,2176 1.154382,2386 1.154382}
+{0 ' positive',209 1.131994,215 0.714209,232 0.714209,682 0.714209,726 0.714209,755 0.714209,1201 0.714209,1203 0.714209,1347 0.714209,1379 0.714209,1634 0.714209,1753 0.714209,1777 0.714209,1858 0.714209,1902 0.714209,2054 0.714209,2063 0.714209,2332 0.714209,2346 0.714209,2366 0.714209,2381 0.714209,2429 0.714209}
+{0 ' positive',209 0.960504,466 0.960504,531 0.960504,670 0.960504,682 0.960504,830 0.960504,1044 0.960504,1203 0.960504,1493 0.960504,1599 0.960504,1780 0.960504,2158 0.960504,2365 0.960504}
+{0 ' positive',209 0.979052,380 0.979052,670 0.979052,1015 0.979052,1149 0.979052,1254 0.979052,1785 1.551761,1903 0.979052,2133 0.979052,2153 0.979052,2562 0.979052}
+{0 ' positive',209 0.999724,466 0.999724,670 0.999724,921 0.999724,1145 0.999724,1157 0.999724,1289 0.999724,1599 0.999724,1721 0.999724,1833 0.999724,1944 0.999724,2436 0.999724}
+{0 ' positive',177 0.852255,209 0.852255,466 0.852255,682 0.852255,905 0.852255,1157 1.350793,1249 0.852255,1289 0.852255,1797 0.852255,1986 0.852255,2030 0.852255,2190 0.852255,2246 0.852255,2350 0.852255,2597 0.852255}
+{0 ' positive',209 0.631772,221 1.001334,409 0.631772,437 0.631772,654 0.631772,664 0.631772,751 0.631772,888 0.631772,1156 0.631772,1157 1.001334,1245 0.631772,1419 1.001334,1439 1.001334,1483 0.631772,1720 0.631772,1734 0.631772,1858 0.631772,1929 0.631772,1951 0.631772,2069 0.631772,2214 0.631772,2256 0.631772,2266 0.631772,2507 0.631772}
+{0 ' positive',139 0.764655,186 0.764655,209 0.764655,211 0.764655,215 0.764655,643 0.764655,711 0.764655,753 0.764655,942 0.764655,1037 0.764655,1044 0.764655,1578 0.764655,1633 0.764655,1666 0.764655,1797 1.21195,1931 0.764655,1974 0.764655,2079 0.764655,2275 0.764655}
+{0 ' positive',209 0.985077,228 0.621514,282 0.621514,466 0.621514,665 0.621514,682 0.985077,915 0.621514,921 0.621514,1037 0.621514,1044 0.985077,1157 0.985077,1241 0.621514,1242 0.621514,1376 0.621514,1578 0.621514,1599 0.621514,1625 0.621514,1645 0.621514,1720 0.621514,1721 0.621514,1740 0.621514,1909 0.621514,2075 0.621514,2138 0.621514,2639 0.621514}
+{0 ' positive',177 1.044178,209 1.044178,282 1.044178,1044 1.044178,1245 1.044178,1493 1.044178,1740 1.044178,1762 1.044178,1777 1.044178,1780 1.044178,2408 1.044178}
+{0 ' positive',209 0.865132,682 0.865132,755 0.865132,1156 1.371202,1157 0.865132,1203 0.865132,1221 0.865132,1525 0.865132,1599 1.371202,1850 0.865132,2018 0.865132,2113 0.865132,2554 0.865132}
+{0 ' positive',209 1.068135,643 1.068135,682 1.692954,1044 1.068135,1157 1.068135,1483 1.068135,1599 1.068135,1822 1.068135,2212 1.068135}
+{0 ' positive',94 0.827564,177 0.827564,215 0.827564,466 0.827564,682 1.311658,705 0.827564,1157 0.827564,1240 0.827564,1934 0.827564,2074 0.827564,2282 0.827564,2314 0.827564,2317 0.827564,2386 0.827564,2403 0.827564,2501 0.827564}
+{0 ' positive',184 0.65419,209 1.308381,380 0.65419,490 0.65419,546 0.65419,567 0.65419,682 0.65419,731 0.65419,774 0.65419,921 1.036867,1007 0.65419,1015 0.65419,1026 0.65419,1037 0.65419,1157 1.036867,1332 0.65419,1599 0.65419,1601 0.65419,1891 0.65419,2233 0.65419,2381 0.65419,2505 0.65419}
+{0 ' positive',94 0.589502,209 1.179004,241 0.589502,412 0.589502,636 0.589502,670 0.589502,682 0.589502,768 0.589502,779 0.589502,915 0.589502,1088 0.589502,1141 0.589502,1144 0.589502,1157 0.934338,1249 0.589502,1256 0.589502,1441 0.589502,1647 0.589502,1740 0.589502,1798 0.589502,1824 0.589502,1858 0.589502,1922 0.589502,2027 0.589502,2154 0.589502,2186 0.589502,2231 0.589502,2353 0.589502,2597 0.589502,2647 0.589502}
+{0 ' positive',131 0.449192,158 0.449192,209 1.042992,211 0.449192,238 0.449192,342 0.449192,377 0.449192,409 0.449192,430 0.449192,436 0.449192,452 0.449192,529 0.449192,533 0.449192,584 0.449192,592 0.449192,629 0.449192,670 0.449192,753 0.449192,799 0.449192,869 0.449192,950 0.449192,1037 0.449192,1149 0.449192,1156 0.711953,1210 0.711953,1211 0.711953,1249 0.449192,1266 0.449192,1269 0.449192,1377 0.449192,1462 0.449192,1493 0.449192,1498 0.449192,1544 0.449192,1673 0.711953,1676 0.449192,1695 0.449192,1744 0.449192,1871 0.449192,1881 0.449192,1908 0.449192,1942 0.449192,2148 0.449192,2184 0.449192,2289 0.449192,2371 0.449192,2450 0.449192,2531 0.449192,2637 0.449192}
+{0 ' positive',211 0.774383,221 0.774383,604 0.774383,654 0.774383,670 0.774383,706 0.774383,852 0.774383,921 0.774383,1419 0.774383,1439 0.774383,1540 0.774383,1646 0.774383,2016 0.774383,2150 0.774383,2180 0.774383,2240 0.774383,2360 0.774383,2484 0.774383,2563 0.774383,2667 0.774383}
+{0 ' positive',209 1.154382,682 1.154382,711 1.154382,788 1.154382,836 1.154382,1493 1.154382,2233 1.154382,2329 1.154382,2515 1.154382}
+{0 ' positive',209 0.865787,217 0.865787,221 0.865787,643 0.865787,682 0.865787,864 0.865787,1203 0.865787,1262 0.865787,1419 0.865787,1461 0.865787,1574 0.865787,1651 0.865787,1720 0.865787,2034 0.865787,2309 0.865787,2531 0.865787}
+{0 ' positive',127 0.616925,177 0.616925,209 1.23385,221 0.616925,298 0.616925,316 0.616925,466 0.616925,662 0.616925,670 0.616925,706 0.616925,864 0.616925,1149 0.616925,1156 0.616925,1249 0.616925,1256 0.616925,1418 0.616925,1419 0.616925,1499 0.616925,1644 0.616925,1892 0.616925,1961 0.616925,2030 0.616925,2089 0.616925,2199 0.616925,2286 0.616925,2314 0.616925,2611 0.977803}
+{0 ' positive',394 1.224407,466 1.224407,559 1.224407,922 1.224407,1157 1.224407,1436 1.224407,1650 1.224407,2142 1.224407}
+{0 ' positive',209 0.960504,260 0.960504,561 0.960504,1157 0.960504,1523 0.960504,1897 0.960504,1953 0.960504,2176 0.960504,2184 0.960504,2246 0.960504,2269 0.960504,2494 0.960504,2500 0.960504}
+{0 ' positive',466 1.068135,670 1.692954,702 1.068135,888 1.068135,1155 1.068135,1599 1.068135,1780 1.068135,1858 1.068135,2487 1.068135}
+{0 ' positive',94 1.308947,209 1.308947,705 1.308947,1289 1.308947,1505 1.308947,1934 1.308947,2394 1.308947}
+{0 ' positive',177 0.685643,209 0.685643,248 0.685643,466 0.685643,543 0.685643,568 0.685643,662 0.685643,682 1.371285,850 0.685643,882 0.685643,1015 0.685643,1157 0.685643,1203 0.685643,1441 0.685643,1760 0.685643,1820 0.685643,1836 0.685643,1944 1.086718,2037 0.685643,2094 0.685643,2227 0.685643}
+{0 ' positive',177 0.755721,199 0.755721,209 0.755721,466 0.755721,597 0.755721,640 0.755721,644 0.755721,670 0.755721,682 0.755721,890 0.755721,1157 0.755721,1203 0.755721,1493 0.755721,1599 0.755721,1625 0.755721,1651 0.755721,2204 0.755721,2309 0.755721,2371 0.755721,2418 0.755721,2641 0.755721}
+{0 ' positive',211 0.816272,221 0.816272,243 0.816272,466 0.816272,670 0.816272,682 0.816272,890 0.816272,921 0.816272,1015 0.816272,1155 0.816272,1419 0.816272,1701 0.816272,1780 0.816272,1857 0.816272,1858 0.816272,2430 0.816272,2438 0.816272,2465 0.816272}
+{0 ' positive',209 1.308947,489 1.308947,705 1.308947,1240 1.308947,1798 1.308947,2139 1.308947,2234 1.308947}
+{0 ' positive',209 0.960504,466 0.960504,543 0.960504,643 0.960504,1249 0.960504,1901 0.960504,1908 0.960504,2057 0.960504,2153 0.960504,2268 0.960504,2397 0.960504,2424 0.960504,2626 0.960504}
+{0 ' positive',705 1.308947,921 1.308947,1157 1.308947,2096 1.308947,2277 1.308947,2371 1.308947,2408 1.308947}
+{0 ' positive',209 1.680232,260 0.723636,286 0.723636,726 0.723636,949 0.723636,1149 0.723636,1173 0.723636,1285 0.723636,1439 0.723636,1476 1.146937,1522 0.723636,1801 0.723636,2074 0.723636,2109 0.723636,2290 0.723636,2401 0.723636,2573 0.723636}
+{0 ' positive',466 1.308947,511 1.308947,1177 1.308947,1203 1.308947,1249 1.308947,1454 1.308947,1493 1.308947}
+{0 ' positive',67 0.722116,177 0.722116,209 1.444232,215 0.722116,228 0.722116,240 0.722116,316 0.722116,385 0.722116,387 0.722116,437 0.722116,734 0.722116,1048 0.722116,1075 0.722116,1241 0.722116,1266 0.722116,1340 0.722116,1644 0.722116,1748 0.722116,1858 0.722116,1962 0.722116}
+{0 ' positive',177 0.540374,188 0.540374,221 0.856473,282 0.540374,298 0.856473,342 0.540374,466 0.540374,561 0.540374,604 0.540374,654 0.540374,975 0.856473,1155 0.856473,1157 0.540374,1245 0.540374,1439 0.540374,1499 0.540374,1669 0.540374,1781 0.540374,1787 0.540374,1963 0.856473,2155 0.540374,2186 0.540374,2238 1.080748,2461 0.540374,2478 0.540374,2559 0.540374,2602 0.540374,2603 0.540374,2662 0.856473}
+{0 ' positive',185 1.095143,209 1.095143,436 1.095143,670 1.095143,915 1.095143,919 1.095143,1493 1.095143,1514 1.095143,1780 1.095143,1926 1.095143}
+{0 ' positive',199 0.925565,209 0.925565,221 0.925565,590 0.925565,654 0.925565,682 0.925565,833 0.925565,1053 0.925565,1108 0.925565,1203 0.925565,1963 0.925565,1997 0.925565,2369 0.925565,2615 0.925565}
+{0 ' positive',177 1.095143,209 1.095143,662 1.095143,1218 1.095143,1483 1.095143,1673 1.095143,1840 1.095143,2107 1.095143,2202 1.095143,2319 1.095143}
+{0 ' positive',653 1.095143,662 1.095143,670 1.095143,1149 1.095143,1599 1.095143,1721 1.095143,1934 1.095143,2142 1.095143,2234 1.095143,2246 1.095143}
+{0 ' positive',66 1.044178,209 1.044178,403 1.044178,466 1.044178,890 1.044178,935 1.044178,1037 1.044178,1157 1.044178,1440 1.044178,1797 1.044178,2234 1.044178}
+{0 ' positive',221 0.999724,263 0.999724,888 0.999724,913 0.999724,975 0.999724,1440 0.999724,1493 0.999724,1762 0.999724,1858 0.999724,1895 0.999724,2126 0.999724,2517 0.999724}
+{0 ' positive',202 1.043031,466 1.043031,568 1.043031,670 1.653165,1218 1.653165,1785 1.043031,2319 1.043031,2375 1.043031}
+{0 ' positive',597 1.413824,1173 1.413824,1493 1.413824,1762 1.413824,1934 1.413824,2151 1.413824}
+{0 ' positive',55 0.755721,67 0.755721,143 0.755721,209 1.511441,260 0.755721,282 0.755721,918 0.755721,921 0.755721,933 0.755721,1018 0.755721,1089 0.755721,1157 0.755721,1241 0.755721,1288 0.755721,1334 0.755721,1599 0.755721,1734 0.755721,2259 0.755721}
+{0 ' positive',94 0.755285,209 1.197099,228 0.755285,528 0.755285,874 0.755285,881 0.755285,884 0.755285,921 0.755285,1211 0.755285,1241 0.755285,1289 0.755285,1564 0.755285,1601 0.755285,1644 0.755285,1743 0.755285,1780 0.755285,1860 1.197099,2460 0.755285}
+{0 ' positive',202 0.865787,393 0.865787,465 0.865787,466 0.865787,640 0.865787,1008 0.865787,1120 0.865787,1149 0.865787,1203 0.865787,1249 0.865787,1345 0.865787,1740 0.865787,1934 0.865787,2125 0.865787,2176 0.865787,2650 0.865787}
+{0 ' positive',209 1.224407,240 1.224407,888 1.224407,913 1.224407,1806 1.224407,1858 1.224407,2056 1.224407,2432 1.224407}
+{0 ' positive',124 0.879297,209 0.879297,466 0.879297,561 0.879297,670 0.879297,682 1.393653,890 0.879297,1157 0.879297,1203 0.879297,1418 0.879297,1450 0.879297,1483 0.879297,1754 0.879297,1986 0.879297}
+{0 ' positive',177 0.627697,191 0.627697,209 1.457468,211 0.627697,409 0.994877,590 0.627697,662 0.627697,670 0.994877,682 0.994877,726 0.627697,919 0.627697,1015 0.627697,1085 0.627697,1157 0.627697,1203 0.994877,1493 0.627697,1525 0.627697,1599 0.627697,1785 0.627697,1879 0.627697}
+{0 ' positive',144 1.224407,466 1.224407,662 1.224407,682 1.224407,768 1.224407,922 1.224407,1462 1.224407,1914 1.224407}
+{0 ' positive',143 1.068135,209 1.692954,215 1.068135,466 1.068135,1156 1.068135,1476 1.068135,2253 1.068135,2381 1.068135,2383 1.068135}
+{0 ' positive',67 0.637486,138 0.637486,209 1.274973,412 0.637486,466 0.637486,527 0.637486,670 1.010392,864 0.637486,881 0.637486,1090 0.637486,1157 0.637486,1203 0.637486,1379 0.637486,1418 0.637486,1493 0.637486,1580 0.637486,1801 0.637486,1857 0.637486,1908 0.637486,2281 0.637486,2373 0.637486,2419 0.637486,2430 0.637486,2445 0.637486,2628 0.637486}
+{0 ' positive',670 1.308947,730 1.308947,1203 1.308947,1285 1.308947,1780 1.308947,2139 1.308947,2246 1.308947}
+{0 ' positive',215 1.044178,653 1.044178,662 1.044178,682 1.044178,1149 1.044178,1218 1.044178,1483 1.044178,1599 1.044178,1791 1.044178,1934 1.044178,2353 1.044178}
+{0 ' positive',55 0.925565,209 0.925565,282 0.925565,568 0.925565,670 0.925565,784 0.925565,972 0.925565,1063 0.925565,1149 0.925565,1218 0.925565,1483 0.925565,1644 0.925565,1721 0.925565,2433 0.925565}
+{0 ' positive',124 0.852255,209 1.704511,215 0.852255,466 0.852255,890 0.852255,921 1.350793,1177 0.852255,1240 0.852255,1454 0.852255,2004 0.852255,2159 0.852255,2620 0.852255}
+{0 ' positive',55 0.560367,177 0.560367,209 1.448528,211 0.560367,215 0.888161,249 0.560367,380 0.560367,528 0.560367,568 1.120734,573 0.560367,670 0.560367,705 0.560367,899 0.560367,913 0.560367,919 0.560367,921 0.560367,1240 0.560367,1289 0.560367,1645 0.560367,1771 0.560367,1798 0.560367,1955 0.560367,1966 0.560367,1996 0.560367,2182 0.560367,2217 0.560367,2220 0.560367,2279 0.560367}
+{0 ' positive',177 0.925565,209 0.925565,466 0.925565,531 0.925565,670 0.925565,682 0.925565,873 0.925565,993 0.925565,1157 0.925565,1556 0.925565,1599 0.925565,1744 0.925565,1797 0.925565,1876 0.925565}
+{0 ' positive',209 1.731574,436 0.865787,670 0.865787,920 0.865787,1157 0.865787,1493 0.865787,1637 0.865787,1864 0.865787,1954 0.865787,2139 0.865787,2294 0.865787,2376 0.865787,2644 0.865787}
+{0 ' positive',670 1.122878,921 1.122878,1211 1.122878,1493 1.122878,1776 1.122878,2353 1.77972,2380 1.122878,2652 1.122878}
+{0 ' positive',67 0.622,177 0.622,209 0.622,221 0.622,228 0.622,243 0.622,244 0.622,387 0.622,632 0.622,670 0.622,888 0.622,913 0.622,1157 0.622,1161 0.622,1203 0.622,1249 0.622,1289 0.622,1402 0.622,1419 0.622,1560 0.622,1599 0.622,1644 0.622,1777 0.622,1791 0.622,1858 0.622,1909 0.622,1934 0.622,2018 0.622,2246 0.622,2286 0.622,2386 0.622}
+{0 ' positive',670 1.122878,682 1.77972,972 1.122878,1149 1.122878,1218 1.122878,1289 1.122878,2207 1.122878,2566 1.122878}
+{0 ' positive',377 1.044178,670 1.044178,725 1.044178,1249 1.044178,1415 1.044178,1527 1.044178,1890 1.044178,2117 1.044178,2142 1.044178,2291 1.044178,2358 1.044178}
+{0 ' positive',177 0.737534,209 1.168964,222 0.737534,336 0.737534,494 0.737534,654 1.168964,705 1.168964,975 0.737534,1892 0.737534,1963 0.737534,2059 0.737534,2073 0.737534,2461 1.168964,2485 0.737534,2603 0.737534,2615 0.737534}
+{0 ' positive',198 1.224407,209 1.224407,466 1.224407,662 1.224407,1044 1.224407,1157 1.224407,1285 1.224407,2043 1.224407}
+{0 ' positive',177 1.122878,209 1.122878,394 1.122878,662 1.122878,1173 1.77972,1218 1.122878,1986 1.122878,2402 1.122878}
+{0 ' positive',209 1.224407,557 1.224407,1241 1.224407,1482 1.224407,1875 1.224407,1980 1.224407,2212 1.224407,2661 1.224407}
+{0 ' positive',72 0.865787,391 0.865787,511 0.865787,604 0.865787,682 0.865787,706 0.865787,764 0.865787,890 0.865787,1048 0.865787,1156 0.865787,1418 0.865787,1724 0.865787,1880 0.865787,2342 0.865787,2366 0.865787,2385 0.865787}
+{0 ' positive',177 1.308947,185 1.308947,670 1.308947,714 1.308947,1934 1.308947,2246 1.308947,2283 1.308947}
+{0 ' positive',209 1.224407,665 1.224407,682 1.224407,873 1.224407,1037 1.224407,1203 1.224407,1254 1.224407,1926 1.224407}
+{0 ' positive',155 0.804902,209 0.804902,546 0.804902,921 0.804902,968 0.804902,1249 0.804902,1292 0.804902,1699 0.804902,1762 1.27574,1887 0.804902,1894 0.804902,1902 0.804902,2026 0.804902,2044 0.804902,2323 0.804902,2524 0.804902,2532 0.804902}
+{0 ' positive',154 0.865132,209 1.371202,682 0.865132,921 0.865132,1249 0.865132,1459 0.865132,1644 0.865132,1854 0.865132,1885 0.865132,2012 0.865132,2029 0.865132,2366 1.371202,2635 0.865132}
+{0 ' positive',177 1.224407,199 1.224407,528 1.224407,662 1.224407,1037 1.224407,1138 1.224407,2031 1.224407,2233 1.224407}
+{0 ' positive',177 0.815723,209 1.292891,466 0.815723,653 0.815723,1008 0.815723,1476 0.815723,1666 0.815723,1740 1.292891,1762 0.815723,1797 0.815723,1934 0.815723,2142 0.815723,2319 0.815723,2355 0.815723,2620 0.815723}
+{0 ' positive',177 0.839937,221 0.839937,228 0.839937,466 0.839937,682 0.839937,828 0.839937,970 0.839937,975 0.839937,1155 0.839937,1353 0.839937,1858 0.839937,1934 0.839937,2072 0.839937,2123 0.839937,2133 0.839937,2246 0.839937,2290 0.839937}
+{0 ' positive',181 0.816272,221 1.632543,437 0.816272,466 0.816272,1506 0.816272,1599 0.816272,1644 0.816272,1944 0.816272,2084 0.816272,2141 0.816272,2170 0.816272,2241 0.816272,2362 0.816272,2525 0.816272,2616 0.816272}
+{0 ' positive',209 1.617754,215 1.020689,248 1.020689,682 1.020689,1190 1.020689,1461 1.020689,1744 1.020689,2089 1.020689,2101 1.020689,2353 1.020689}
+{0 ' positive',67 1.154382,209 1.154382,215 1.154382,466 1.154382,1173 1.154382,1203 1.154382,1608 1.154382,2037 1.154382,2467 1.154382}
+{0 ' positive',248 1.020689,682 1.617754,919 1.020689,924 1.020689,1008 1.020689,1201 1.020689,1203 1.020689,1218 1.020689,1699 1.020689,1740 1.020689}
+{0 ' positive',209 0.960504,511 0.960504,568 0.960504,616 0.960504,1156 0.960504,1157 0.960504,1254 0.960504,1476 0.960504,1601 0.960504,1861 0.960504,2003 0.960504,2036 0.960504,2319 0.960504}
+{0 ' positive',67 0.52857,69 0.52857,209 1.227301,215 0.52857,221 0.52857,228 0.52857,304 0.52857,380 0.52857,419 0.52857,466 0.52857,511 0.52857,654 0.837763,682 1.057139,705 0.52857,750 0.52857,919 0.52857,975 0.837763,1015 0.52857,1076 0.52857,1132 0.52857,1157 0.837763,1218 0.52857,1241 0.52857,1349 0.52857,1599 0.52857,1720 0.52857,1740 0.52857,1762 0.52857,1870 0.52857,1888 0.52857,2398 0.52857}
+{0 ' positive',209 1.85113,528 0.925565,568 0.925565,635 0.925565,1015 0.925565,1203 0.925565,1289 0.925565,1644 0.925565,1785 0.925565,2356 0.925565,2406 0.925565}
+{0 ' positive',561 0.925565,670 0.925565,727 0.925565,1198 0.925565,1218 0.925565,1451 0.925565,1475 0.925565,1780 0.925565,1815 0.925565,1965 0.925565,2334 0.925565,2433 0.925565,2492 0.925565,2589 0.925565}
+{0 ' positive',450 0.960504,655 0.960504,682 0.960504,1149 0.960504,1413 0.960504,1599 0.960504,1645 0.960504,1780 0.960504,2092 0.960504,2093 0.960504,2176 0.960504,2598 0.960504,2633 0.960504}
+{0 ' positive',209 1.308947,466 1.308947,1203 1.308947,1858 1.308947,1944 1.308947,2428 1.308947,2631 1.308947}
+{0 ' positive',209 1.044178,221 1.044178,529 1.044178,670 1.044178,682 1.044178,1353 1.044178,1419 1.044178,1471 1.044178,1744 1.044178,1780 1.044178,2030 1.044178}
+{0 ' positive',177 1.616056,670 1.616056,918 1.019618,1436 1.616056,1897 1.019618,1986 1.019618,2381 1.019618}
+{0 ' positive',131 0.894181,209 0.894181,555 0.894181,670 0.894181,682 0.894181,830 0.894181,1037 0.894181,1044 0.894181,1203 0.894181,1256 0.894181,1332 0.894181,1353 0.894181,1450 0.894181,1476 0.894181,2366 0.894181}
+{0 ' positive',209 0.827564,211 0.827564,239 0.827564,411 0.827564,465 0.827564,466 1.311658,670 0.827564,1037 0.827564,1157 0.827564,1494 0.827564,1599 0.827564,1858 0.827564,1908 0.827564,1924 0.827564,2233 0.827564,2582 0.827564}
+{0 ' positive',209 1.308947,643 1.308947,682 1.308947,921 1.308947,1157 1.308947,1801 1.308947,2436 1.308947}
+{0 ' positive',155 0.721736,177 0.721736,209 1.143925,211 0.721736,217 0.721736,260 0.721736,670 0.721736,1139 0.721736,1149 0.721736,1157 0.721736,1198 0.721736,1493 0.721736,1599 1.143925,1801 0.721736,1908 0.721736,1934 0.721736,1975 0.721736,1986 0.721736,2246 0.721736,2408 0.721736}
+{0 ' positive',27 0.909088,158 0.909088,177 0.909088,209 1.44087,336 0.909088,670 0.909088,1362 0.909088,1565 0.909088,1648 0.909088,1775 0.909088,2348 0.909088,2469 0.909088,2555 0.909088}
+{0 ' positive',209 0.839937,305 0.839937,541 0.839937,890 0.839937,924 0.839937,1177 0.839937,1454 0.839937,1493 0.839937,1834 0.839937,1858 0.839937,1922 1.679873,1948 0.839937,2450 0.839937,2615 0.839937}
+{0 ' positive',662 1.187005,1157 1.187005,1934 1.881358,1986 1.187005,2246 1.187005,2318 1.187005,2387 1.187005}
+{0 ' positive',209 1.224407,298 1.224407,1157 1.224407,1173 1.224407,1286 1.224407,2246 1.224407,2564 1.224407,2588 1.224407}
+{0 ' positive',36 0.699143,177 0.699143,178 0.699143,209 1.108116,215 0.699143,682 0.699143,1008 0.699143,1155 0.699143,1177 1.108116,1201 0.699143,1289 0.699143,1441 0.699143,1454 1.108116,1599 0.699143,1762 0.699143,1934 0.699143,2230 0.699143,2246 0.699143,2357 0.699143,2381 0.699143}
+{0 ' positive',127 0.637486,198 0.637486,209 1.274973,238 0.637486,436 0.637486,466 0.637486,662 0.637486,663 0.637486,670 1.010392,682 0.637486,921 0.637486,1203 0.637486,1418 0.637486,1483 0.637486,1493 0.637486,1720 0.637486,1721 0.637486,1744 0.637486,1887 0.637486,1891 0.637486,1934 0.637486,2176 0.637486,2234 0.637486,2246 0.637486,2319 0.637486}
+{0 ' positive',209 1.224407,380 1.224407,511 1.224407,1142 1.224407,1241 1.224407,1777 1.224407,1797 1.224407,1934 1.224407}
+{0 ' positive',158 0.626953,209 1.253906,409 0.626953,466 0.626953,527 0.626953,705 0.626953,1015 0.626953,1156 0.626953,1157 0.626953,1177 0.626953,1240 0.626953,1249 0.626953,1376 0.626953,1454 0.626953,1476 0.626953,1682 0.626953,1717 0.626953,1721 0.626953,1740 0.993697,1797 0.626953,1798 0.626953,1934 0.626953,1991 0.626953,2096 0.626953,2211 0.626953,2638 0.626953}
+{0 ' positive',209 0.634217,239 0.400147,260 0.400147,305 0.634217,333 0.400147,359 0.634217,487 0.400147,511 0.400147,604 0.634217,627 0.400147,635 0.400147,644 0.634217,663 0.400147,670 0.634217,759 0.400147,890 0.800293,919 0.634217,924 0.929112,950 0.400147,1044 0.400147,1157 1.20044,1228 0.400147,1269 0.400147,1364 0.400147,1440 0.634217,1441 0.929112,1493 0.400147,1523 0.400147,1568 0.400147,1599 0.400147,1776 0.400147,1801 0.400147,1869 0.400147,1882 0.400147,2065 0.634217,2144 0.400147,2205 0.400147,2349 0.634217,2594 0.400147,2618 0.400147}
+{0 ' positive',199 0.979052,209 1.551761,561 0.979052,662 0.979052,727 0.979052,1203 0.979052,1289 0.979052,1772 0.979052,1934 0.979052,2353 0.979052,2490 0.979052}
+{0 ' positive',198 0.999724,466 0.999724,670 0.999724,682 0.999724,1157 0.999724,1203 0.999724,1254 0.999724,1418 0.999724,1483 0.999724,1545 0.999724,1554 0.999724,1897 0.999724}
+{0 ' positive',26 0.974081,67 0.487041,98 0.487041,206 0.487041,209 0.974081,221 0.771941,228 0.771941,244 0.487041,260 0.487041,261 0.487041,409 0.487041,450 0.487041,466 0.487041,527 0.487041,632 0.487041,682 0.487041,687 0.487041,931 0.487041,945 0.487041,975 0.487041,1076 0.487041,1087 0.487041,1089 0.487041,1157 0.487041,1203 0.487041,1241 0.771941,1379 0.487041,1531 0.487041,1780 0.487041,1827 0.487041,1948 0.487041,1988 0.487041,2426 0.487041,2529 0.771941,2544 0.771941,2631 0.487041,2664 0.487041}
+{0 ' positive',143 0.879297,199 0.879297,209 0.879297,260 0.879297,466 1.393653,699 0.879297,921 0.879297,1127 0.879297,1157 0.879297,1459 0.879297,1493 0.879297,1599 0.879297,1644 0.879297,2276 0.879297}
+{0 ' positive',209 1.044178,370 1.044178,1149 1.044178,1720 1.044178,1740 1.044178,1797 1.044178,1940 1.044178,1970 1.044178,2030 1.044178,2041 1.044178,2070 1.044178}
+{0 ' positive',199 0.672281,221 0.672281,241 0.672281,518 0.672281,662 0.672281,670 1.06554,682 0.672281,890 0.672281,1157 1.06554,1203 0.672281,1241 0.672281,1493 0.672281,1589 0.672281,1617 0.672281,1688 0.672281,1754 0.672281,1858 0.672281,2142 1.06554,2192 0.672281,2416 0.672281,2475 0.672281,2665 0.672281}
+{0 ' positive',199 0.738345,221 0.738345,411 0.738345,698 0.738345,734 0.738345,879 0.738345,913 0.738345,975 0.738345,993 0.738345,1083 0.738345,1156 0.738345,1939 0.738345,1982 0.738345,2023 0.738345,2091 0.738345,2191 0.738345,2193 0.738345,2218 0.738345,2228 0.738345,2298 0.738345,2310 0.738345,2509 0.738345}
+{0 ' positive',7 0.589295,199 0.589295,209 0.589295,232 0.589295,262 0.589295,348 0.589295,487 0.589295,599 0.589295,611 0.934011,670 0.934011,1001 0.589295,1024 0.589295,1029 0.589295,1099 0.589295,1157 0.589295,1210 0.589295,1254 0.589295,1279 0.589295,1423 0.589295,1462 0.934011,1599 0.589295,1798 0.589295,1873 0.589295,2072 0.589295,2096 0.589295,2136 0.589295,2371 0.589295,2412 0.589295,2420 0.589295,2533 0.589295}
+{0 ' positive',209 1.413824,215 1.413824,583 1.413824,682 1.413824,921 1.413824,1711 1.413824}
+{0 ' positive',209 1.413824,228 1.413824,1157 1.413824,1938 1.413824,2107 1.413824,2246 1.413824}
+{0 ' positive',209 0.925565,282 0.925565,511 0.925565,568 0.925565,942 0.925565,1044 0.925565,1141 0.925565,1157 0.925565,1599 0.925565,1601 0.925565,1844 0.925565,2096 0.925565,2371 0.925565,2491 0.925565}
+{0 ' positive',209 1.154382,466 1.154382,682 1.154382,921 1.154382,1155 1.154382,1289 1.154382,1548 1.154382,1599 1.154382,2310 1.154382}
+{0 ' positive',209 1.308947,662 1.308947,670 1.308947,924 1.308947,1044 1.308947,1157 1.308947,1203 1.308947}
+{0 ' positive',67 0.475374,188 0.475374,199 0.475374,209 0.950748,215 0.75345,221 0.75345,298 0.475374,380 0.475374,527 0.475374,590 0.475374,611 0.475374,632 0.475374,653 0.475374,852 0.475374,921 0.75345,933 0.475374,936 0.475374,975 0.75345,1120 0.75345,1130 0.475374,1149 0.475374,1201 0.475374,1240 0.475374,1669 0.475374,1709 0.475374,1780 0.475374,1857 0.475374,1858 0.475374,1892 0.75345,1918 0.475374,1929 0.475374,2019 0.475374,2108 0.475374,2216 0.475374,2230 0.475374,2429 0.475374,2458 0.475374,2518 0.475374,2527 0.475374,2546 0.475374,2611 0.475374}
+{0 ' positive',177 0.692629,209 0.692629,466 0.692629,919 0.692629,943 0.692629,1015 0.692629,1044 0.692629,1149 0.692629,1171 0.692629,1465 0.692629,1483 0.692629,1490 0.692629,1493 0.692629,1666 0.692629,1721 0.692629,1870 0.692629,2009 0.692629,2017 0.692629,2139 0.692629,2246 0.692629,2353 0.692629,2371 0.692629,2502 0.692629,2620 0.692629,2656 0.692629}
+{0 ' positive',209 1.655129,466 0.827564,531 0.827564,670 0.827564,866 0.827564,1157 1.311658,1483 0.827564,1599 0.827564,1772 0.827564,2030 0.827564,2096 0.827564,2371 0.827564,2408 0.827564}
+{0 ' positive',158 1.154382,466 1.154382,580 1.154382,653 1.154382,1044 1.154382,1156 1.154382,1256 1.154382,1599 1.154382,1934 1.154382}
+{0 ' positive',705 1.77972,1776 1.122878,1934 1.122878,2089 1.122878,2114 1.122878,2174 1.122878,2400 1.122878,2462 1.122878}
+{0 ' positive',124 0.960504,209 0.960504,215 0.960504,466 0.960504,921 0.960504,1157 0.960504,1289 0.960504,1493 0.960504,1599 0.960504,1772 0.960504,1998 0.960504,2379 0.960504,2381 0.960504}
+{0 ' positive',36 0.815723,209 1.292891,215 1.292891,361 0.815723,432 0.815723,824 0.815723,1156 0.815723,1157 0.815723,1873 0.815723,1989 0.815723,2029 0.815723,2042 0.815723,2290 0.815723,2506 0.815723,2663 0.815723}
+{0 ' positive',209 1.350793,682 0.852255,705 0.852255,1037 0.852255,1157 0.852255,1493 0.852255,1517 0.852255,1599 0.852255,1762 0.852255,1903 0.852255,1937 0.852255,2096 0.852255,2284 0.852255,2408 0.852255,2556 0.852255}
+{0 ' positive',209 1.154382,682 1.154382,919 1.154382,942 1.154382,1052 1.154382,1257 1.154382,1811 1.154382,2140 1.154382,2646 1.154382}
+{0 ' positive',199 1.068135,209 1.692954,490 1.068135,670 1.068135,682 1.068135,1157 1.068135,1599 1.068135,1721 1.068135,1772 1.068135}
+{0 ' positive',67 0.421709,124 0.421709,154 0.421709,177 0.421709,209 0.979178,211 0.421709,221 0.843418,466 0.421709,511 0.421709,654 0.421709,670 0.668393,725 0.421709,921 0.421709,1044 0.421709,1156 0.421709,1157 0.421709,1201 0.421709,1203 0.421709,1204 0.421709,1249 0.668393,1418 0.421709,1419 0.668393,1462 0.421709,1483 0.421709,1546 0.421709,1580 0.421709,1599 0.421709,1683 0.421709,1709 0.421709,1710 0.421709,1720 0.668393,1801 0.421709,1817 0.421709,1850 0.421709,1854 0.421709,1885 0.421709,1910 0.421709,1926 0.421709,2160 0.421709,2171 0.421709,2179 0.421709,2199 0.421709,2202 0.421709,2264 0.421709,2310 0.421709,2337 0.421709,2350 0.421709,2381 0.421709,2446 0.421709,2516 0.421709,2605 0.421709,2615 0.421709,2620 0.421709,2623 0.421709}
+{0 ' positive',209 1.224407,466 1.224407,682 1.224407,1670 1.224407,1897 1.224407,1944 1.224407,1987 1.224407,2562 1.224407}
+{0 ' positive',466 1.044178,682 1.044178,922 1.044178,993 1.044178,1157 1.044178,1177 1.044178,1454 1.044178,1578 1.044178,1599 1.044178,1644 1.044178,2139 1.044178}
+{0 ' positive',98 0.589295,154 0.589295,209 0.934011,326 0.589295,452 0.589295,604 0.934011,662 0.589295,682 0.589295,705 0.589295,727 0.589295,789 0.589295,921 0.589295,1144 0.589295,1157 0.589295,1221 0.589295,1245 0.589295,1289 0.589295,1493 0.589295,1599 0.589295,1627 0.589295,1673 0.934011,1719 0.589295,1740 0.589295,1887 0.589295,1934 0.589295,2087 0.589295,2184 0.589295,2212 0.589295,2344 0.589295,2371 0.589295}
+{0 ' positive',221 0.7945,228 0.7945,377 0.7945,567 0.7945,653 0.7945,662 0.7945,670 0.7945,705 0.7945,836 0.7945,1157 0.7945,1419 0.7945,1493 0.7945,1599 0.7945,1934 0.7945,2015 0.7945,2208 0.7945,2341 0.7945,2431 0.7945,2550 0.7945}
+{0 ' positive',702 1.095143,1157 1.095143,1599 1.095143,2074 1.095143,2096 1.095143,2194 1.095143,2261 1.095143,2363 1.095143,2436 1.095143,2464 1.095143}
+{0 ' positive',66 0.64309,209 0.64309,380 0.64309,670 0.64309,921 0.64309,1157 0.64309,1203 0.64309,1221 0.64309,1832 0.64309,1935 0.64309,2049 0.64309,2098 0.64309,2104 0.64309,2189 0.64309,2260 0.64309,2272 0.64309,2296 0.64309,2351 0.64309,2352 0.64309,2384 0.64309,2396 0.64309,2476 0.64309,2572 0.64309,2575 0.64309,2577 0.64309,2604 0.64309,2621 0.64309,2624 0.64309,2632 0.64309}
+{0 ' positive',662 1.154382,913 1.154382,922 1.154382,1013 1.154382,1245 1.154382,1858 1.154382,1934 1.154382,2317 1.154382,2429 1.154382}
+{0 ' positive',209 1.78692,419 0.89346,437 0.89346,670 0.89346,1015 1.4161,1240 0.89346,1249 0.89346,1785 1.4161,1950 0.89346}
+{0 ' positive',209 1.187005,682 1.881358,1203 1.187005,1505 1.187005,1797 1.187005,2246 1.187005,2353 1.187005}
+{0 ' positive',67 0.397313,94 0.397313,98 0.397313,105 0.397313,177 0.397313,178 0.629726,209 0.794625,221 0.794625,228 0.397313,241 0.397313,318 0.397313,377 0.397313,557 0.397313,597 0.397313,662 0.922532,670 0.397313,744 0.397313,799 0.397313,873 0.397313,942 0.629726,945 0.397313,975 0.629726,1044 0.397313,1054 0.397313,1089 0.629726,1090 0.397313,1158 0.397313,1245 0.397313,1342 0.397313,1362 0.629726,1451 0.397313,1625 0.397313,1648 0.397313,1649 0.397313,1666 0.397313,1762 0.397313,1858 0.629726,1905 0.397313,1906 0.397313,1922 0.397313,1934 0.629726,2006 0.397313,2072 0.397313,2118 0.397313,2128 0.397313,2263 0.397313,2274 0.397313,2456 0.397313,2470 0.397313,2493 0.397313,2651 0.397313,2658 0.794625}
+{0 ' positive',154 0.960504,209 0.960504,568 0.960504,682 0.960504,745 0.960504,919 0.960504,1177 0.960504,1454 0.960504,1644 0.960504,1740 0.960504,1780 0.960504,2247 0.960504,2370 0.960504}
+{0 ' positive',209 1.548766,466 1.548766,670 1.548766,1099 1.548766,1157 1.548766}
+{0 ' positive',66 0.648569,124 0.648569,199 0.648569,209 1.297138,466 0.648569,531 0.648569,588 0.648569,682 1.297138,698 0.648569,923 0.648569,943 0.648569,1149 0.648569,1156 1.027958,1203 0.648569,1493 0.648569,1803 0.648569,1873 0.648569,1931 0.648569,2096 0.648569,2209 0.648569,2340 0.648569}
+{0 ' positive',209 0.999724,682 0.999724,921 0.999724,1203 0.999724,1493 0.999724,1791 0.999724,1973 0.999724,1984 0.999724,2336 0.999724,2407 0.999724,2436 0.999724,2495 0.999724}
+{0 ' positive',670 1.224407,1155 1.224407,1157 1.224407,1249 1.224407,1612 1.224407,2037 1.224407,2081 1.224407,2468 1.224407}
+{0 ' positive',209 1.263543,670 2.002669,682 1.263543,1203 1.263543,1898 1.263543,2541 1.263543}
+{0 ' positive',139 0.737534,199 0.737534,209 1.168964,670 1.168964,864 0.737534,885 0.737534,950 0.737534,1082 1.168964,1157 0.737534,1418 0.737534,1499 0.737534,2020 1.168964,2021 0.737534,2045 0.737534,2188 0.737534,2196 0.737534}
+{0 ' positive',199 1.020689,345 1.020689,682 1.617754,997 1.020689,1157 1.020689,1601 1.020689,1709 1.020689,1720 1.020689,2108 1.020689,2139 1.020689}
+{0 ' positive',209 0.672281,215 0.672281,282 0.672281,466 1.06554,495 0.672281,511 0.672281,635 0.672281,725 0.672281,727 0.672281,1149 0.672281,1156 0.672281,1203 1.06554,1218 0.672281,1249 1.06554,1289 0.672281,1332 0.672281,1578 0.672281,1808 0.672281,1828 0.672281,1861 0.672281,1945 0.672281,2276 0.672281}
+{0 ' positive',94 0.925565,209 0.925565,670 0.925565,682 0.925565,975 0.925565,1156 0.925565,1601 0.925565,1780 0.925565,1855 0.925565,1893 0.925565,1944 0.925565,1960 0.925565,2378 0.925565,2436 0.925565}
+{0 ' positive',209 0.621757,557 0.621757,748 0.621757,786 0.985461,798 0.621757,904 0.621757,988 0.621757,1001 0.621757,1037 0.621757,1155 0.621757,1740 0.621757,1859 0.621757,1867 0.621757,1907 0.621757,1936 0.621757,2071 0.621757,2119 0.985461,2130 0.621757,2210 0.621757,2236 0.621757,2239 0.621757,2283 0.621757,2299 0.621757,2303 0.621757,2305 0.621757,2364 0.621757,2448 0.621757,2599 0.621757}
+{0 ' positive',260 1.095143,380 1.095143,466 1.095143,670 1.095143,682 1.095143,803 1.095143,1037 1.095143,1157 1.095143,2072 1.095143,2576 1.095143}
+{0 ' positive',209 0.879297,221 0.879297,282 0.879297,466 0.879297,662 0.879297,682 1.393653,921 0.879297,922 0.879297,1089 0.879297,1203 0.879297,1240 0.879297,1419 0.879297,2015 0.879297,2286 0.879297}
+{0 ' positive',209 0.999724,215 0.999724,682 0.999724,705 0.999724,1026 0.999724,1157 0.999724,1217 0.999724,1289 0.999724,1455 0.999724,1476 0.999724,2233 0.999724,2382 0.999724}
+{0 ' positive',55 0.879297,209 1.393653,215 0.879297,532 0.879297,665 0.879297,682 0.879297,1157 0.879297,1177 0.879297,1454 0.879297,1461 0.879297,1475 0.879297,1798 0.879297,2127 0.879297,2223 0.879297}
+{0 ' positive',44 0.345431,124 0.345431,127 0.345431,178 0.345431,211 0.802066,215 0.547495,361 0.345431,410 0.345431,412 0.547495,430 0.547495,452 0.345431,463 0.345431,504 0.345431,531 0.547495,544 0.345431,615 0.345431,663 0.345431,682 0.345431,779 0.345431,824 0.345431,836 0.345431,866 0.345431,899 0.345431,919 0.690862,958 0.345431,1004 0.345431,1020 0.345431,1048 0.345431,1053 0.547495,1108 0.345431,1148 0.547495,1157 0.345431,1249 0.345431,1376 0.345431,1462 0.345431,1482 0.345431,1525 0.345431,1578 0.547495,1760 0.345431,1798 0.345431,1801 0.690862,1836 0.345431,1852 0.345431,1878 0.345431,1884 0.345431,1932 0.547495,1987 0.690862,2002 0.547495,2115 0.345431,2182 0.345431,2197 0.345431,2222 0.345431,2231 0.345431,2248 0.345431,2249 0.345431,2265 0.345431,2324 0.547495,2330 0.345431,2347 0.345431,2381 0.345431,2390 0.345431,2444 0.345431,2459 0.345431,2471 0.345431,2503 0.345431,2508 0.345431,2526 0.345431,2552 0.345431,2570 0.345431,2578 0.345431,2584 0.345431,2593 0.345431}
+{0 ' positive',197 1.308947,626 1.308947,646 1.308947,670 1.308947,1218 1.308947,2063 1.308947,2110 1.308947}
+{0 ' positive',186 0.588056,198 0.588056,209 1.520103,228 0.588056,436 0.588056,466 0.588056,670 0.588056,890 0.588056,1156 0.588056,1157 0.588056,1203 0.588056,1441 0.588056,1599 0.588056,1601 0.588056,1668 0.588056,1720 0.588056,1754 0.588056,1762 0.588056,1858 0.588056,1924 0.588056,1963 0.588056,1976 0.588056,2040 0.588056,2048 0.588056,2234 0.588056,2246 0.588056,2280 0.588056,2481 0.588056,2496 0.588056}
+{0 ' positive',1 0.521802,209 0.827037,215 0.827037,260 0.521802,455 0.521802,465 0.521802,682 1.043604,727 0.521802,890 0.521802,921 0.521802,1008 0.521802,1037 0.521802,1099 0.521802,1116 0.521802,1144 0.521802,1157 0.521802,1201 0.521802,1218 0.521802,1221 0.521802,1241 0.827037,1289 0.521802,1290 0.521802,1334 0.827037,1476 0.521802,1677 0.521802,1740 0.521802,1744 0.521802,1754 0.521802,1778 0.521802,1829 0.521802,1899 0.521802,2027 0.521802,2107 0.521802,2404 0.521802,2450 0.521802}
+{0 ' positive',209 1.616056,260 1.019618,466 1.019618,1157 1.616056,1483 1.019618,1599 1.019618,2353 1.616056}
+{0 ' positive',248 0.660251,345 0.660251,450 0.660251,590 0.660251,636 0.660251,670 1.320502,888 0.660251,936 0.660251,980 0.660251,1015 0.660251,1088 0.660251,1157 1.046473,1249 0.660251,1566 0.660251,1645 0.660251,1858 0.660251,1991 0.660251,2029 0.660251,2066 0.660251,2076 0.660251,2177 0.660251,2590 0.660251,2649 0.660251}
+{0 ' positive',209 1.044178,890 1.044178,1241 1.044178,1476 1.044178,1483 1.044178,1493 1.044178,1542 1.044178,1754 1.044178,2153 1.044178,2175 1.044178,2591 1.044178}
+{0 ' positive',177 0.998717,209 1.58293,466 0.998717,682 1.58293,1203 0.998717,1740 0.998717,1797 0.998717,1934 0.998717,2080 0.998717}
+{0 ' positive',130 0.485397,202 0.485397,209 0.970794,228 1.127057,377 0.485397,436 0.485397,466 0.485397,528 0.485397,640 0.485397,670 0.485397,706 0.485397,734 0.485397,1157 0.485397,1162 0.485397,1177 0.485397,1289 0.485397,1454 0.485397,1483 0.485397,1490 0.485397,1589 0.485397,1846 0.485397,1857 0.485397,1858 0.485397,1865 0.485397,1904 0.485397,1919 0.485397,1941 0.485397,2035 0.485397,2242 0.485397,2251 0.485397,2318 0.485397,2353 0.485397,2423 0.485397,2443 0.485397,2534 0.970794,2607 0.485397,2609 0.485397,2659 0.769336,2666 0.485397}
+{0 ' positive',177 1.350793,209 0.852255,221 0.852255,409 0.852255,412 0.852255,670 0.852255,705 0.852255,1203 0.852255,1210 0.852255,1218 0.852255,1419 0.852255,1778 0.852255,2107 0.852255,2497 0.852255,2498 0.852255}
+{0 ' positive',209 2.002669,559 1.263543,682 1.263543,1157 1.263543,1599 1.263543,1740 1.263543}
+{0 ' positive',67 0.433725,127 0.433725,200 0.433725,209 1.121164,221 0.433725,228 0.433725,291 0.433725,403 0.433725,409 0.433725,436 0.433725,437 0.433725,670 0.433725,705 0.433725,913 0.433725,924 0.433725,1127 0.867451,1132 0.433725,1157 0.433725,1218 0.687439,1240 0.433725,1266 0.687439,1376 0.687439,1379 0.433725,1402 0.433725,1419 0.433725,1428 0.433725,1544 0.867451,1599 0.433725,1626 0.433725,1704 0.687439,1807 0.433725,1814 0.687439,1842 0.433725,1858 0.433725,2033 0.433725,2186 0.433725,2270 0.433725,2273 0.433725,2404 0.433725,2410 0.433725,2416 0.687439,2418 0.433725,2453 0.433725}
+{0 ' positive',177 0.485282,209 1.12679,218 0.485282,221 0.485282,228 0.485282,282 0.485282,412 0.485282,452 0.485282,465 0.485282,466 0.485282,632 0.485282,643 0.485282,662 0.485282,682 0.769154,866 0.485282,1089 0.485282,1218 0.485282,1419 0.485282,1644 0.485282,1709 0.769154,1717 0.485282,1720 0.485282,1721 0.485282,1771 0.485282,1797 0.485282,1820 0.485282,1853 0.485282,1874 0.485282,1930 0.769154,1944 0.485282,1964 0.485282,2005 0.485282,2039 0.485282,2112 0.485282,2160 0.485282,2331 0.485282,2339 0.485282,2371 0.485282,2408 0.485282,2462 0.485282,2504 0.485282,2596 0.485282}
+{0 ' positive',662 1.308947,921 1.308947,1214 1.308947,2064 1.308947,2286 1.308947,2333 1.308947,2477 1.308947}
+{0 ' positive',209 1.020689,466 2.041379,643 1.617754,682 1.020689,1157 1.020689,1599 1.020689,1776 1.020689}
+{0 ' positive',209 0.942127,221 0.942127,240 0.942127,298 0.942127,466 1.493236,670 0.942127,975 0.942127,992 0.942127,1157 0.942127,2053 0.942127,2369 0.942127,2615 0.942127}
+{0 ' positive',209 1.921008,377 0.960504,682 0.960504,725 0.960504,757 0.960504,921 0.960504,1249 0.960504,1450 0.960504,1739 0.960504,2361 0.960504}
+{0 ' positive',185 0.979052,209 1.551761,336 0.979052,409 0.979052,918 0.979052,1037 0.979052,1493 0.979052,1740 0.979052,1868 0.979052,2345 0.979052,2517 0.979052}
+{0 ' positive',209 0.65419,215 0.65419,221 0.65419,409 0.65419,437 0.65419,682 1.036867,727 0.65419,803 0.65419,921 0.65419,950 0.65419,975 0.65419,1008 1.036867,1037 0.65419,1149 0.65419,1203 0.65419,1274 0.65419,1289 0.65419,1332 0.65419,1475 0.65419,1547 0.65419,1633 0.65419,1839 0.65419,1886 0.65419,1990 0.65419,2120 0.65419}
+{0 ' positive',8 0.338879,117 0.338879,127 0.338879,139 0.338879,199 0.53711,209 1.016636,211 0.53711,221 0.338879,228 0.338879,244 0.338879,282 0.338879,412 0.338879,425 0.338879,441 0.338879,489 0.53711,527 0.338879,590 0.338879,611 0.338879,632 0.338879,670 0.338879,725 0.338879,739 0.338879,779 0.338879,792 0.338879,863 0.338879,873 0.338879,874 0.338879,875 0.53711,899 0.338879,943 0.338879,944 0.338879,950 0.875989,975 0.338879,1065 0.338879,1082 0.338879,1101 0.338879,1107 0.338879,1149 0.338879,1198 0.338879,1203 0.338879,1418 0.338879,1608 0.338879,1736 0.338879,1862 0.338879,1892 0.338879,1961 0.338879,1995 0.338879,2013 0.338879,2021 0.338879,2060 0.338879,2067 0.338879,2074 0.338879,2077 0.338879,2090 0.53711,2100 0.338879,2111 0.875989,2178 0.338879,2181 0.338879,2186 0.338879,2203 0.53711,2313 0.338879,2325 0.338879,2335 0.338879,2338 0.338879,2372 0.338879,2392 0.338879,2393 0.338879,2405 0.338879,2422 0.338879,2426 0.338879,2452 0.338879,2455 0.338879,2463 0.338879,2549 0.338879,2574 0.338879,2615 0.338879}
+{0 ' positive',199 0.722116,209 0.722116,412 0.722116,489 0.722116,491 0.722116,561 0.722116,568 0.722116,597 0.722116,1001 0.722116,1149 0.722116,1190 0.722116,1256 0.722116,1462 0.722116,1493 0.722116,1857 0.722116,1972 0.722116,2030 0.722116,2086 0.722116,2243 0.722116,2371 0.722116,2408 0.722116,2428 0.722116,2551 0.722116}
+{0 ' positive',215 1.095143,682 1.095143,936 1.095143,1157 1.095143,1601 1.095143,1944 1.095143,2029 1.095143,2314 1.095143,2436 1.095143,2610 1.095143}
+{0 ' positive',662 1.026085,922 2.382496,1778 1.026085,1870 1.026085,1986 1.026085,2353 1.026085,2474 1.026085}
+{0 ' positive',209 1.06554,211 1.06554,327 0.672281,412 0.672281,436 0.672281,466 1.06554,662 0.672281,663 0.672281,682 0.672281,727 0.672281,942 0.672281,1137 0.672281,1148 0.672281,1289 0.672281,1476 0.672281,1856 0.672281,2038 0.672281,2074 0.672281,2077 0.672281,2078 0.672281,2121 0.672281,2271 0.672281}
+{0 ' positive',177 1.122878,209 1.77972,282 1.122878,921 1.122878,1288 1.122878,1659 1.122878,2001 1.122878,2504 1.122878}
+{0 ' positive',209 0.729899,437 0.729899,466 0.729899,670 0.729899,682 1.459798,921 0.729899,1156 0.729899,1157 1.156863,1428 0.729899,1751 0.729899,1772 0.729899,1780 0.729899,1797 0.729899,1849 0.729899,1889 0.729899,1944 0.729899,2145 0.729899,2279 0.729899}
+{0 ' positive',209 1.020689,221 1.020689,298 1.020689,466 1.617754,682 1.020689,975 1.020689,1155 1.020689,1476 1.020689,2020 1.020689,2186 1.020689}
+{0 ' positive',117 1.154382,177 1.154382,466 1.154382,1110 1.154382,1157 1.154382,1776 1.154382,2176 1.154382,2246 1.154382,2374 1.154382}
+{0 ' positive',228 1.881358,279 1.187005,466 1.187005,682 1.187005,899 1.187005,1156 1.187005,1722 1.187005}
+{0 ' positive',117 0.960504,282 0.960504,511 0.960504,670 0.960504,1044 0.960504,1440 0.960504,1441 0.960504,1462 0.960504,1476 0.960504,1483 0.960504,1566 0.960504,1599 0.960504,1958 0.960504}
+{0 ' positive',221 0.839937,241 0.839937,380 0.839937,682 0.839937,711 0.839937,950 0.839937,975 0.839937,1108 0.839937,1476 0.839937,1633 0.839937,1858 0.839937,1971 0.839937,2021 0.839937,2186 0.839937,2426 0.839937,2458 0.839937,2583 0.839937}
+{0 ' positive',209 1.551761,377 0.979052,568 0.979052,682 0.979052,730 0.979052,922 0.979052,1063 0.979052,1157 0.979052,1285 0.979052,2142 0.979052,2201 0.979052}
+{0 ' positive',209 0.960504,240 0.960504,682 0.960504,705 0.960504,1157 0.960504,1202 0.960504,1332 0.960504,1599 0.960504,1858 0.960504,1933 0.960504,2304 0.960504,2381 0.960504,2427 0.960504}
+{0 ' positive',260 1.020689,466 1.617754,590 1.020689,1157 1.020689,1944 1.020689,2030 1.020689,2142 1.020689,2316 1.020689,2436 1.020689,2483 1.020689}
+{0 ' positive',117 0.678547,160 0.678547,209 1.075472,285 0.678547,437 0.678547,466 0.678547,643 0.678547,682 0.678547,875 0.678547,1007 1.075472,1157 0.678547,1177 1.075472,1203 0.678547,1454 1.075472,1601 0.678547,1759 0.678547,1780 0.678547,1785 0.678547,2153 0.678547,2620 0.678547}
+{0 ' positive',177 1.068135,199 1.068135,209 1.068135,466 1.068135,557 1.692954,635 1.068135,921 1.068135,1776 1.068135,2190 1.068135}
+{0 ' positive',209 1.692954,412 1.068135,511 1.068135,921 1.068135,1130 1.068135,1157 1.068135,1599 1.068135,1780 1.068135,2029 1.068135}
+{0 ' positive',209 1.731574,873 1.731574,921 1.731574,1785 1.731574}
+{0 ' positive',143 1.154382,282 1.154382,466 1.154382,1156 1.154382,1157 1.154382,1272 1.154382,1599 1.154382,1766 1.154382,2353 1.154382}
+{0 ' positive',154 0.852255,209 1.350793,215 0.852255,228 0.852255,282 0.852255,682 0.852255,1155 0.852255,1177 0.852255,1454 0.852255,2096 0.852255,2354 0.852255,2408 0.852255,2479 0.852255,2578 0.852255,2643 0.852255}
+{0 ' positive',177 0.960504,209 0.960504,466 0.960504,604 0.960504,670 0.960504,852 0.960504,890 0.960504,1156 0.960504,1163 0.960504,1209 0.960504,2345 0.960504,2371 0.960504,2464 0.960504}
+{0 ' positive',143 1.044178,209 1.044178,466 1.044178,653 1.044178,670 1.044178,682 1.044178,1132 1.044178,1141 1.044178,1666 1.044178,1810 1.044178,2206 1.044178}
+{0 ' positive',177 1.095143,662 1.095143,682 1.095143,890 1.095143,924 1.095143,1157 1.095143,1249 1.095143,1644 1.095143,1762 1.095143,2246 1.095143}
+{0 ' positive',209 0.959611,215 0.959611,890 0.959611,921 0.959611,1044 1.520947,1157 0.959611,1599 1.520947,1720 0.959611,2096 0.959611,2504 0.959611}
+{0 ' positive',692 1.413824,1203 1.413824,1861 1.413824,2151 1.413824,2284 1.413824,2606 1.413824}
+{0 ' positive',66 0.755721,209 1.511441,385 0.755721,466 0.755721,511 0.755721,682 0.755721,890 0.755721,921 0.755721,1137 0.755721,1157 0.755721,1203 0.755721,1249 0.755721,1476 0.755721,1565 0.755721,1612 0.755721,1754 0.755721,2246 0.755721,2283 0.755721}
+{0 ' positive',209 1.224407,568 1.224407,670 1.224407,1203 1.224407,1218 1.224407,1289 1.224407,1347 1.224407,2153 1.224407}
+{0 ' positive',119 0.642554,158 0.642554,682 1.018424,705 0.642554,814 0.642554,864 0.642554,1088 0.642554,1121 0.642554,1139 1.285108,1156 1.018424,1157 0.642554,1599 0.642554,1601 0.642554,1721 0.642554,1740 1.018424,2085 0.642554,2160 0.642554,2215 0.642554,2285 1.018424,2368 0.642554}
+{0 ' positive',120 0.979052,158 0.979052,209 0.979052,531 0.979052,881 0.979052,964 0.979052,1493 1.551761,1568 0.979052,1801 0.979052,1917 0.979052,2096 0.979052}
+{0 ' positive',653 1.263543,705 1.263543,1240 2.002669,1934 1.263543,1986 1.263543,2246 1.263543}
+{0 ' positive',209 1.154382,466 1.154382,682 1.154382,705 1.154382,913 1.154382,1157 1.154382,1644 1.154382,1858 1.154382,2221 1.154382}
+{0 ' positive',191 0.445996,209 1.035571,221 0.445996,298 0.445996,415 0.445996,436 0.445996,511 0.445996,648 0.445996,682 0.891992,708 0.445996,858 0.445996,1127 0.445996,1139 0.445996,1147 0.445996,1149 1.035571,1173 0.445996,1177 0.445996,1221 0.445996,1245 0.445996,1249 0.445996,1288 0.445996,1332 0.445996,1419 0.445996,1454 0.445996,1493 0.445996,1506 0.445996,1547 0.445996,1599 0.445996,1601 0.445996,1801 0.445996,1843 0.445996,1892 0.445996,1908 0.445996,1915 0.445996,1934 0.445996,1947 0.445996,1952 0.445996,2029 0.445996,2052 0.445996,2083 0.445996,2147 0.445996,2232 0.445996,2244 0.445996,2267 0.445996,2513 0.445996,2587 0.706887,2615 0.445996}
+{0 ' positive',67 0.77438,199 0.488579,209 1.262959,221 0.488579,228 0.488579,282 0.488579,366 0.488579,367 0.488579,387 0.488579,588 0.488579,632 0.77438,682 0.77438,831 0.977159,899 0.488579,975 0.488579,1075 0.77438,1202 0.488579,1240 0.77438,1241 0.488579,1285 0.488579,1341 0.488579,1379 0.488579,1428 0.488579,1583 0.488579,1683 0.488579,1856 0.488579,1897 0.488579,1925 0.488579,1946 0.488579,2063 0.488579,2254 0.488579,2268 0.488579,2322 0.488579,2381 0.488579}
+{0 ' positive',465 1.413824,1088 1.413824,1461 1.413824,1797 1.413824,2089 1.413824,2306 1.413824}
+{0 ' positive',209 0.925565,222 0.925565,466 0.925565,890 0.925565,1044 0.925565,1201 0.925565,1419 0.925565,1589 0.925565,1612 0.925565,1776 0.925565,1857 0.925565,1899 0.925565,1923 0.925565,2314 0.925565}
+{0 ' positive',199 0.602857,209 0.602857,211 0.602857,255 0.602857,359 0.602857,412 0.602857,466 0.602857,643 0.602857,682 0.602857,739 0.602857,890 0.602857,921 0.602857,936 0.602857,1155 0.602857,1157 0.602857,1221 0.602857,1289 0.602857,1493 0.602857,1599 0.602857,1653 0.602857,1657 0.602857,1754 0.602857,1805 0.602857,1851 0.602857,1858 0.602857,1922 0.602857,1950 0.602857,1977 0.602857,2430 0.602857,2530 0.602857,2535 0.602857,2569 0.602857,2659 0.602857}
+{0 ' positive',73 0.550773,200 0.550773,209 0.550773,211 0.872955,221 0.550773,228 0.550773,289 0.550773,412 0.550773,580 0.550773,604 0.550773,670 0.550773,725 0.550773,726 0.550773,852 0.550773,975 0.550773,980 0.550773,1034 0.550773,1231 0.550773,1240 0.550773,1249 0.872955,1439 0.550773,1477 0.550773,1493 0.550773,1825 0.550773,1826 0.550773,1949 0.550773,1992 0.550773,2030 0.550773,2074 0.550773,2111 0.872955,2156 0.550773,2320 0.550773,2343 0.550773,2389 0.550773,2512 0.550773}
+{0 ' positive',177 1.020689,209 1.020689,221 1.020689,228 1.020689,466 1.020689,682 1.617754,975 1.020689,1203 1.020689,1644 1.020689,1801 1.020689}
+{0 ' positive',177 1.548766,209 1.548766,662 1.548766,1203 1.548766,2107 1.548766}
+{0 ' positive',209 1.187005,466 1.187005,489 1.187005,670 1.187005,682 1.881358,1157 1.187005,1203 1.187005}
+{0 ' positive',127 1.095143,177 1.095143,199 1.095143,739 1.095143,921 1.095143,1190 1.095143,1461 1.095143,1776 1.095143,2175 1.095143,2332 1.095143}
+{0 ' positive',124 0.960504,209 0.960504,412 0.960504,869 0.960504,1772 0.960504,2124 0.960504,2185 0.960504,2282 0.960504,2290 0.960504,2311 0.960504,2353 0.960504,2381 0.960504,2436 0.960504}
+{0 ' positive',38 0.537506,209 1.075013,419 0.537506,466 0.537506,1037 0.537506,1149 0.537506,1157 0.851927,1173 0.537506,1177 0.537506,1190 0.537506,1249 0.537506,1254 0.537506,1317 0.537506,1379 0.537506,1454 0.537506,1461 0.537506,1480 0.537506,1493 0.537506,1527 0.537506,1556 0.537506,1644 0.537506,1751 0.537506,1835 0.537506,1845 0.537506,1866 0.537506,1891 0.537506,1927 0.537506,1933 0.537506,1979 0.537506,1993 0.537506,2054 0.537506,2063 0.537506,2190 0.537506,2388 0.537506,2394 0.537506,2450 0.537506,2620 0.537506}
+{0 ' positive',117 0.865132,466 0.865132,611 0.865132,682 0.865132,725 1.371202,836 0.865132,913 0.865132,1155 0.865132,1249 1.371202,1644 0.865132,1858 0.865132,1958 0.865132,2221 0.865132}
+{0 ' positive',209 1.154382,466 1.154382,606 1.154382,1149 1.154382,1493 1.154382,1740 1.154382,1961 1.154382,2377 1.154382,2620 1.154382}
+{0 ' positive',209 0.839339,211 0.839339,215 1.330321,254 0.839339,286 0.839339,466 0.839339,707 0.839339,918 0.839339,1138 0.839339,1157 1.330321,1201 0.839339,1289 0.839339,2055 0.839339,2063 0.839339}
+{0 ' positive',143 0.721736,154 0.721736,209 1.443473,409 0.721736,531 0.721736,1001 0.721736,1065 0.721736,1156 0.721736,1157 1.143925,1599 0.721736,1645 0.721736,1772 0.721736,1908 1.143925,1976 0.721736,2096 0.721736,2176 0.721736,2408 0.721736}
+{0 ' positive',260 1.095143,281 1.095143,466 1.095143,705 1.095143,1149 1.095143,1838 1.095143,2008 1.095143,2061 1.095143,2353 1.095143,2356 1.095143}
+{0 ' positive',215 1.154382,663 1.154382,921 1.154382,1332 1.154382,1762 1.154382,2125 1.154382,2161 1.154382,2216 1.154382,2398 1.154382}
+{0 ' positive',177 1.224407,209 1.224407,670 1.224407,836 1.224407,1203 1.224407,1884 1.224407,2224 1.224407,2246 1.224407}
+{0 ' positive',209 0.9841,211 0.49205,215 0.779881,264 0.49205,412 0.49205,449 0.49205,628 0.49205,670 0.49205,682 0.49205,702 0.49205,707 0.49205,921 0.49205,972 0.49205,1027 0.49205,1037 0.49205,1130 0.49205,1141 0.49205,1149 0.49205,1156 0.49205,1157 0.49205,1241 0.779881,1328 0.49205,1418 0.49205,1461 0.49205,1465 0.49205,1599 0.49205,1626 0.49205,1798 0.49205,1809 0.49205,2025 0.49205,2149 0.49205,2186 0.49205,2212 0.49205,2219 0.49205,2295 0.49205,2314 0.49205,2387 0.49205,2477 0.49205,2482 0.49205,2503 0.49205,2592 0.49205,2600 0.779881}
+{0 ' positive',209 1.154382,518 1.154382,725 1.154382,1085 1.154382,1218 1.154382,1249 1.154382,1740 1.154382,1897 1.154382,1986 1.154382}
+{0 ' positive',143 1.154382,209 1.154382,215 1.154382,466 1.154382,727 1.154382,921 1.154382,1149 1.154382,1599 1.154382,2425 1.154382}
+{0 ' positive',209 1.392566,466 0.878611,604 0.878611,670 1.392566,682 1.392566,1044 0.878611,1086 0.878611,1149 0.878611,1289 0.878611,1944 0.878611,2536 0.878611}
+{0 ' positive',127 0.531147,184 0.531147,215 0.531147,222 0.531147,228 0.531147,380 0.531147,511 0.531147,567 0.531147,588 0.531147,682 0.531147,694 0.531147,921 0.531147,1144 0.531147,1149 0.841848,1241 0.531147,1419 0.531147,1483 0.531147,1599 0.531147,1666 0.531147,1724 0.531147,1754 0.531147,1776 0.531147,1777 0.531147,1778 0.531147,1780 0.531147,1797 0.531147,1837 0.531147,1857 0.531147,1897 0.531147,1916 0.531147,2169 0.531147,2213 0.531147,2367 0.531147,2371 0.531147,2414 0.531147,2473 0.531147,2486 0.531147,2514 0.531147,2567 0.531147,2627 0.531147,2656 0.531147}
+{0 ' positive',55 0.507398,190 0.507398,204 0.507398,209 0.804207,220 0.507398,263 0.804207,378 0.507398,403 0.507398,466 0.507398,682 0.507398,1149 0.507398,1203 0.507398,1599 0.804207,1612 0.507398,1625 0.507398,1644 0.507398,1646 0.804207,1720 0.804207,1841 0.507398,1847 0.507398,1891 0.507398,1908 0.507398,1911 0.804207,2024 0.507398,2146 0.507398,2225 0.507398,2258 0.507398,2282 0.507398,2288 0.507398,2292 0.507398,2326 0.507398,2371 0.507398,2409 0.507398,2543 0.507398,2571 0.804207,2612 0.507398}
+{0 ' positive',209 0.925565,215 0.925565,277 0.925565,412 0.925565,466 0.925565,682 0.925565,890 0.925565,1190 0.925565,1218 0.925565,1461 0.925565,1493 0.925565,1754 0.925565,1780 0.925565,2319 0.925565}
+{0 ' positive',466 1.692954,913 1.068135,1644 1.068135,1858 1.068135,1908 1.068135,2221 1.068135,2371 1.068135,2408 1.068135,2430 1.068135}
+{0 ' positive',143 0.816272,209 1.632543,215 0.816272,706 0.816272,890 0.816272,1157 0.816272,1203 0.816272,1242 0.816272,1262 0.816272,1289 0.816272,1709 0.816272,1754 0.816272,1861 0.816272,2108 0.816272,2200 0.816272}
+{0 ' positive',209 1.020689,466 1.617754,682 1.020689,1044 1.020689,1245 1.020689,1439 1.020689,2319 1.020689,2371 1.020689,2408 1.020689,2622 1.020689}
+{0 ' positive',209 1.3707,466 0.590328,627 0.590328,682 0.590328,921 0.935648,938 0.590328,1017 0.590328,1137 0.590328,1203 0.590328,1218 0.590328,1242 0.590328,1246 0.590328,1279 0.590328,1379 0.590328,1608 0.590328,1709 0.590328,1744 0.590328,1804 0.590328,1857 0.935648,1858 0.590328,2007 0.590328,2108 0.590328,2162 0.590328,2429 0.590328,2430 0.590328,2468 0.590328,2578 0.590328}
+{0 ' positive',209 1.393653,221 0.879297,436 0.879297,682 0.879297,975 0.879297,1422 0.879297,1776 0.879297,1892 0.879297,2014 0.879297,2153 0.879297,2226 0.879297,2233 0.879297,2440 0.879297,2615 0.879297}
+{0 ' positive',117 0.839937,209 0.839937,437 0.839937,466 0.839937,567 0.839937,682 0.839937,943 0.839937,1089 0.839937,1155 0.839937,1157 0.839937,1333 0.839937,1439 0.839937,1601 0.839937,1892 0.839937,1897 0.839937,2020 0.839937,2102 0.839937}
+{0 ' positive',209 1.679873,260 0.839937,670 0.839937,682 0.839937,890 0.839937,1157 0.839937,1203 0.839937,1289 0.839937,1599 0.839937,1880 0.839937,2022 0.839937,2422 0.839937,2457 0.839937,2542 0.839937}
+{0 ' positive',66 1.122878,209 1.122878,682 1.77972,1149 1.122878,1203 1.122878,1249 1.122878,1493 1.122878,1721 1.122878}
+{0 ' positive',209 0.851431,221 0.537193,359 0.537193,380 0.537193,466 0.537193,698 0.537193,921 0.537193,1083 0.537193,1141 0.537193,1157 0.851431,1203 0.851431,1223 0.537193,1322 0.537193,1419 0.537193,1578 0.537193,1599 0.537193,1721 0.537193,1762 0.537193,1807 0.537193,1813 0.537193,1858 0.537193,1892 0.537193,1922 0.537193,2080 0.537193,2096 0.537193,2134 0.537193,2221 0.851431,2311 0.537193,2340 0.537193,2353 0.537193,2383 0.537193,2488 0.537193,2585 0.537193,2587 0.851431}
+{0 ' positive',155 0.693971,177 0.693971,209 1.61135,466 0.693971,597 0.693971,682 1.099918,921 0.693971,1017 0.693971,1279 0.693971,1493 0.693971,1740 0.693971,1986 0.693971,2105 0.693971,2142 0.693971,2237 0.693971,2319 0.693971,2371 0.693971,2408 0.693971,2630 0.693971}
+{0 ' positive',7 0.729507,209 1.459014,466 1.156241,890 0.729507,1015 0.729507,1108 0.729507,1709 0.729507,1754 1.156241,1785 1.156241,1985 0.729507,2011 0.729507,2108 0.729507,2129 0.729507,2319 0.729507,2629 0.729507}
+{0 ' positive',117 0.909088,555 0.909088,670 0.909088,682 0.909088,1007 1.44087,1249 0.909088,1709 0.909088,2062 0.909088,2084 0.909088,2099 0.909088,2108 0.909088,2262 0.909088,2545 0.909088}
+{0 ' positive',209 1.044178,466 1.044178,670 1.044178,885 1.044178,1270 1.044178,1897 1.044178,2003 1.044178,2045 1.044178,2068 1.044178,2076 1.044178,2381 1.044178}
+{0 ' positive',177 0.699489,209 1.108663,221 0.699489,466 0.699489,727 0.699489,830 0.699489,975 0.699489,1054 0.699489,1218 0.699489,1289 0.699489,1419 0.699489,1493 0.699489,1608 0.699489,1666 0.699489,1828 0.699489,1848 0.699489,2096 0.699489,2122 0.699489,2383 0.699489,2413 0.699489,2467 0.699489,2539 0.699489,2620 0.699489}
+{0 ' positive',202 0.865787,209 0.865787,215 0.865787,364 0.865787,1157 0.865787,1241 0.865787,1249 0.865787,1476 0.865787,1599 0.865787,1741 0.865787,1857 0.865787,1858 0.865787,1870 0.865787,1986 0.865787,2246 0.865787,2430 0.865787}
+{0 ' positive',197 1.413824,209 1.413824,215 1.413824,282 1.413824,466 1.413824,2238 1.413824}
+{0 ' positive',209 1.044178,242 1.044178,282 1.044178,670 1.044178,682 1.044178,725 1.044178,1203 1.044178,1858 1.044178,1944 1.044178,2290 1.044178,2436 1.044178}
+{0 ' positive',154 0.655605,155 0.655605,198 0.655605,209 1.522267,215 0.655605,221 0.655605,264 0.655605,466 1.039109,705 0.655605,873 0.655605,921 0.655605,975 0.655605,1157 0.655605,1289 0.655605,1455 0.655605,1720 0.655605,1968 0.655605,2398 0.655605,2409 0.655605,2534 0.655605,2547 0.655605,2581 0.655605}
+{0 ' positive',209 1.154382,215 1.154382,452 1.154382,466 1.154382,890 1.154382,1044 1.154382,1462 1.154382,1476 1.154382,1720 1.154382}
+{0 ' positive',209 1.020689,466 1.020689,682 1.617754,943 1.020689,1156 1.020689,1203 1.020689,1483 1.020689,1682 1.020689,1780 1.020689,2371 1.020689}
+{0 ' positive',202 0.816272,209 0.816272,466 0.816272,670 0.816272,747 0.816272,1015 0.816272,1157 0.816272,1589 0.816272,1599 0.816272,1644 0.816272,1802 0.816272,1857 0.816272,1858 0.816272,2221 0.816272,2332 0.816272,2369 0.816272,2465 0.816272,2620 0.816272}
+{0 ' positive',209 1.44087,559 0.909088,745 0.909088,1141 0.909088,1155 0.909088,1493 0.909088,1599 0.909088,1740 0.909088,1908 0.909088,2287 0.909088,2321 0.909088,2371 0.909088,2606 0.909088}
+{0 ' positive',209 1.241848,466 0.783519,682 0.783519,873 0.783519,921 0.783519,1157 1.241848,1601 1.241848,1720 0.783519,1753 0.783519,1877 0.783519,1986 0.783519,2010 0.783519,2250 0.783519,2528 0.783519,2653 0.783519}
+{0 ' positive',177 0.679179,209 0.679179,466 0.679179,557 0.679179,854 0.679179,936 0.679179,1045 0.679179,1149 1.358358,1198 0.679179,1288 0.679179,1476 0.679179,1920 0.679179,2006 0.679179,2020 0.679179,2075 0.679179,2096 0.679179,2137 0.679179,2203 0.679179,2297 0.679179,2371 0.679179,2408 0.679179,2521 0.679179,2558 0.679179}
+{0 ' positive',209 1.020689,409 1.020689,466 1.020689,597 1.617754,932 1.020689,1040 1.020689,1493 1.020689,1892 1.020689,2371 1.020689,2615 1.020689}
+{0 ' positive',159 0.678863,209 0.678863,409 0.678863,412 0.678863,457 0.678863,466 0.678863,568 0.678863,640 0.678863,682 0.678863,873 0.678863,950 0.678863,1037 1.075972,1040 0.678863,1082 0.678863,1177 0.678863,1269 0.678863,1454 0.678863,1625 0.678863,1710 0.678863,2020 0.678863,2216 0.678863,2392 0.678863,2620 1.075972}
+{0 ' positive',111 0.637486,209 0.637486,298 0.637486,466 0.637486,490 0.637486,557 0.637486,662 0.637486,705 0.637486,852 0.637486,890 0.637486,1037 0.637486,1105 0.637486,1210 0.637486,1241 0.637486,1362 0.637486,1369 0.637486,1754 0.637486,1945 0.637486,1956 0.637486,1963 0.637486,2106 0.637486,2135 0.637486,2142 1.010392,2186 0.637486,2391 0.637486,2449 0.637486,2464 0.637486,2540 0.637486}
+{0 ' positive',209 1.617754,412 1.020689,466 1.020689,670 1.020689,682 1.020689,1157 1.020689,1242 1.020689,1599 1.020689,1627 1.020689,2434 1.020689}
+{0 ' positive',117 0.257403,127 0.514807,159 0.257403,177 0.407975,178 0.257403,199 0.407975,209 0.952506,211 0.514807,215 0.514807,221 0.257403,377 0.257403,436 0.257403,452 0.257403,465 0.257403,466 0.257403,546 0.257403,665 0.257403,670 0.407975,682 0.407975,705 0.257403,789 0.257403,825 0.257403,862 0.257403,903 0.257403,919 0.257403,921 0.257403,924 0.257403,932 0.257403,943 0.257403,950 0.514807,951 0.597672,975 0.257403,1015 0.257403,1017 0.257403,1027 0.257403,1049 0.257403,1157 0.722623,1177 0.257403,1203 0.514807,1223 0.514807,1249 0.257403,1271 0.407975,1289 0.257403,1439 0.407975,1440 0.407975,1441 0.514807,1454 0.257403,1455 0.257403,1462 0.257403,1493 0.257403,1505 0.257403,1525 0.257403,1547 0.257403,1594 0.514807,1601 0.257403,1616 0.407975,1617 0.257403,1633 0.514807,1673 0.407975,1740 0.257403,1797 0.257403,1798 0.257403,1812 0.257403,1818 0.257403,1819 0.257403,1830 0.407975,1851 0.407975,1856 0.257403,1863 0.257403,1880 0.257403,1931 0.257403,1933 0.257403,1942 0.407975,1994 0.257403,2030 0.257403,2089 0.257403,2132 0.257403,2167 0.514807,2172 0.257403,2175 0.257403,2176 0.257403,2190 0.257403,2196 0.257403,2231 0.597672,2307 0.257403,2327 0.257403,2328 0.257403,2344 0.257403,2356 0.257403,2389 0.257403,2399 0.257403,2415 0.257403,2454 0.257403,2466 0.257403,2489 0.257403,2499 0.257403,2522 0.257403,2543 0.407975,2549 0.257403,2553 0.257403,2586 0.257403,2601 0.257403,2655 0.257403}
+{0 ' positive',117 0.398595,177 0.398595,209 1.263515,211 0.398595,215 0.631757,221 0.398595,277 0.398595,282 0.398595,391 0.398595,412 0.797189,466 0.398595,489 0.398595,611 0.631757,613 0.398595,629 0.398595,763 0.398595,975 0.398595,1141 0.925508,1145 0.398595,1148 0.398595,1149 0.398595,1177 0.398595,1178 0.398595,1211 0.398595,1249 0.398595,1254 0.631757,1271 0.398595,1272 0.398595,1289 0.398595,1418 0.398595,1467 0.398595,1490 0.398595,1540 0.398595,1568 0.631757,1601 0.797189,1717 0.398595,1762 0.398595,1814 0.398595,1872 0.398595,1882 0.398595,1908 0.398595,2079 0.398595,2183 0.398595,2195 0.398595,2288 0.398595,2314 0.398595,2371 0.398595,2395 0.398595,2424 0.398595,2631 0.398595}
+{0 ' positive',154 0.722116,209 1.444232,215 0.722116,282 0.722116,298 0.722116,412 0.722116,513 0.722116,559 0.722116,567 0.722116,682 0.722116,890 0.722116,921 0.722116,1141 0.722116,1157 0.722116,1599 0.722116,1780 0.722116,1801 0.722116,2021 0.722116,2030 0.722116,2381 0.722116}
+{0 ' positive',209 1.329376,466 0.838743,682 1.329376,1157 1.329376,1173 0.838743,1249 0.838743,1285 0.838743,1644 0.838743,1666 1.329376,1943 0.838743,2645 0.838743}
+{0 ' positive',400 1.044178,670 1.044178,1148 1.044178,1289 1.044178,1902 1.044178,1921 1.044178,2245 1.044178,2557 2.088356}
+{0 ' positive',202 1.224407,209 1.224407,466 1.224407,662 1.224407,890 1.224407,1801 1.224407,2319 1.224407,2561 1.224407}
+{0 ' positive',221 1.095143,466 1.095143,528 1.095143,890 1.095143,975 1.095143,1494 1.095143,2015 1.095143,2319 1.095143,2615 1.095143,2648 1.095143}
+{0 ' positive',94 0.839937,209 0.839937,221 0.839937,377 0.839937,750 0.839937,975 0.839937,1173 0.839937,1240 0.839937,1252 0.839937,1370 0.839937,1436 0.839937,1787 0.839937,2028 0.839937,2252 0.839937,2401 0.839937,2441 0.839937,2442 0.839937}
+{0 ' positive',55 0.291399,67 0.291399,119 0.291399,139 0.291399,177 0.461856,209 0.676607,211 0.291399,215 0.291399,221 0.291399,228 0.461856,240 0.291399,241 0.291399,244 0.461856,254 0.291399,260 0.291399,345 0.291399,412 0.582797,450 0.291399,455 0.291399,466 0.753255,592 0.291399,604 0.291399,635 0.291399,653 0.291399,670 0.291399,739 0.291399,755 0.291399,803 0.291399,854 0.291399,864 0.291399,942 0.291399,975 0.291399,1044 0.461856,1046 0.291399,1105 0.461856,1127 0.291399,1141 0.461856,1149 0.923712,1173 0.291399,1203 0.291399,1211 0.291399,1240 0.582797,1379 0.291399,1466 0.291399,1467 0.291399,1601 0.291399,1633 0.291399,1709 0.291399,1721 0.291399,1734 0.291399,1740 0.291399,1772 0.291399,1798 0.291399,1808 0.291399,1831 0.291399,1853 0.291399,1858 0.582797,1865 0.461856,1873 0.291399,1882 0.291399,1892 0.291399,1922 0.291399,1928 0.291399,1939 0.291399,1967 0.461856,1999 0.291399,2029 0.291399,2046 0.291399,2047 0.291399,2058 0.291399,2090 0.291399,2097 0.291399,2103 0.291399,2153 0.291399,2157 0.291399,2242 0.291399,2293 0.291399,2301 0.291399,2302 0.291399,2308 0.582797,2371 0.291399,2381 0.582797,2451 0.461856,2472 0.291399,2480 0.291399,2481 0.291399,2560 0.291399,2565 0.291399,2596 0.291399,2613 0.291399,2636 0.291399,2640 0.461856}
+{0 ' positive',466 1.020689,568 1.617754,682 1.020689,711 1.020689,873 1.020689,905 1.020689,1507 1.020689,1644 1.020689,1957 1.020689,2233 1.020689}
+{0 ' positive',209 0.909088,215 0.909088,387 0.909088,466 1.44087,663 0.909088,665 0.909088,1037 0.909088,1439 0.909088,2180 0.909088,2315 0.909088,2319 0.909088,2381 0.909088,2460 0.909088}
+{0 ' positive',124 0.796927,131 0.796927,199 1.00561,209 1.167477,215 0.502805,293 0.796927,377 0.502805,387 0.502805,409 0.502805,415 0.502805,437 0.502805,547 0.502805,670 0.502805,682 0.502805,1048 0.502805,1127 0.502805,1157 0.502805,1285 0.502805,1379 1.00561,1599 0.502805,1627 0.502805,1644 0.502805,1897 0.502805,1980 0.796927,2082 0.502805,2089 0.502805,2116 0.502805,2246 0.502805,2348 0.502805,2381 0.502805,2654 0.502805}
+{0 ' positive',124 1.095143,580 1.095143,890 1.095143,924 1.095143,950 1.095143,1082 1.095143,1157 1.095143,1210 1.095143,1476 1.095143,1599 1.095143}
+{0 ' positive',45 1.020689,126 1.020689,177 1.617754,209 1.020689,465 1.020689,568 1.020689,1862 1.020689,1870 1.020689,2107 1.020689,2165 1.020689}
+{0 ' positive',466 1.224407,1149 1.224407,1270 1.224407,1644 1.224407,1912 1.224407,2182 1.224407,2255 1.224407,2319 1.224407}
+{0 ' positive',154 0.852255,190 0.852255,209 0.852255,260 0.852255,345 0.852255,528 0.852255,682 0.852255,1018 0.852255,1089 0.852255,1461 0.852255,1506 0.852255,1786 0.852255,1978 0.852255,2289 1.350793,2421 0.852255}
+{0 ' positive',177 1.154382,400 1.154382,465 1.154382,662 1.154382,1148 1.154382,1601 1.154382,1797 1.154382,2142 1.154382,2198 1.154382}
+{0 ' positive',198 0.879297,209 0.879297,211 0.879297,260 0.879297,412 0.879297,670 0.879297,682 0.879297,980 0.879297,1149 0.879297,1493 0.879297,1646 1.393653,2029 0.879297,2051 0.879297,2597 0.879297}
+{0 ' positive',209 1.020689,670 1.020689,1157 1.617754,1429 1.020689,1981 1.020689,1983 1.020689,1998 1.020689,2050 1.020689,2357 1.020689,2580 1.020689}
+{0 ' positive',209 1.044178,221 1.044178,298 1.044178,921 1.044178,1155 1.044178,1656 1.044178,1709 1.044178,1893 1.044178,2020 1.044178,2108 1.044178,2369 1.044178}
+{0 ' positive',7 0.314569,27 0.314569,44 0.314569,67 0.314569,127 0.314569,178 0.314569,181 0.314569,209 0.883106,211 0.314569,215 0.883106,244 0.314569,254 0.314569,282 0.314569,316 0.314569,327 0.314569,401 0.314569,466 0.314569,527 0.314569,567 0.314569,568 0.730406,582 0.314569,682 0.49858,764 0.314569,885 0.314569,913 0.314569,936 0.314569,940 0.314569,944 0.314569,1007 0.314569,1008 0.49858,1026 0.314569,1044 0.314569,1089 0.314569,1190 0.314569,1217 0.314569,1218 0.49858,1249 0.314569,1294 0.314569,1362 0.314569,1419 0.314569,1476 0.314569,1556 0.314569,1601 0.314569,1626 0.314569,1644 0.314569,1653 0.314569,1669 0.314569,1676 0.314569,1709 0.314569,1720 0.314569,1721 0.314569,1775 0.314569,1816 0.314569,1883 0.314569,1891 0.629138,1896 0.314569,1901 0.314569,1959 0.314569,1968 0.314569,1969 0.314569,2029 0.314569,2032 0.314569,2084 0.314569,2088 0.314569,2131 0.314569,2152 0.314569,2160 0.314569,2166 0.314569,2168 0.314569,2173 0.314569,2187 0.314569,2229 0.314569,2235 0.314569,2278 0.314569,2300 0.314569,2381 0.629138,2437 0.314569,2519 0.314569,2520 0.314569,2523 0.314569,2538 0.314569,2548 0.314569,2553 0.314569,2568 0.314569,2579 0.314569,2614 0.314569,2617 0.314569,2619 0.49858,2625 0.314569,2657 0.314569,2660 0.314569}
+{0 ' positive',64 0.865787,177 0.865787,209 0.865787,215 0.865787,298 0.865787,670 0.865787,942 0.865787,1144 0.865787,1156 0.865787,1173 0.865787,1245 0.865787,1741 0.865787,2257 0.865787,2312 0.865787,2398 0.865787,2634 0.865787}
+{0 ' positive',199 1.154382,209 1.154382,670 1.154382,1469 1.154382,1493 1.154382,1523 1.154382,1778 1.154382,1838 1.154382,2506 1.154382}
+{0 ' positive',209 0.839339,466 0.839339,682 0.839339,921 0.839339,1085 0.839339,1157 0.839339,1177 1.330321,1454 1.330321,1740 0.839339,2096 0.839339,2142 0.839339,2371 0.839339,2620 0.839339,2630 0.839339}
+{0 ' positive',27 0.637486,209 0.637486,211 1.274973,367 0.637486,588 0.637486,705 0.637486,781 0.637486,1018 0.637486,1177 0.637486,1201 0.637486,1203 1.010392,1249 0.637486,1270 0.637486,1454 0.637486,1493 0.637486,1522 0.637486,1762 0.637486,1870 0.637486,1897 0.637486,1913 0.637486,2256 0.637486,2360 0.637486,2371 0.637486,2439 0.637486,2608 0.637486}
+{0 ' positive',124 0.925565,209 1.85113,466 0.925565,1149 0.925565,1156 0.925565,1241 0.925565,1601 0.925565,1986 0.925565,2137 0.925565,2195 0.925565,2322 0.925565}
+{0 ' positive',209 1.520947,215 0.959611,682 1.520947,727 0.959611,1157 0.959611,1289 0.959611,1514 0.959611,1589 0.959611,1673 0.959611,2433 0.959611}
+{0 ' positive',209 0.942127,670 0.942127,1151 0.942127,1152 0.942127,1509 0.942127,1511 1.493236,1602 0.942127,1721 0.942127,1729 0.942127,2163 0.942127,2359 0.942127,2642 0.942127}
+{0 ' positive',209 1.264053,217 0.632026,378 0.632026,573 0.632026,592 0.632026,670 1.001738,779 0.632026,888 0.632026,890 0.632026,914 0.632026,1015 0.632026,1037 0.632026,1139 0.632026,1249 0.632026,1492 0.632026,1720 0.632026,1858 1.001738,1900 0.632026,2095 0.632026,2164 0.632026,2220 0.632026,2233 0.632026,2371 0.632026,2601 0.632026}
+{0 ' positive',209 1.999449,412 0.999724,466 0.999724,682 0.999724,727 0.999724,1157 0.999724,1289 0.999724,1721 0.999724,2531 0.999724}
+{0 ' positive',66 0.925565,209 0.925565,222 0.925565,378 0.925565,437 0.925565,466 0.925565,1149 0.925565,1157 0.925565,1186 0.925565,1203 0.925565,1249 0.925565,1262 0.925565,1527 0.925565,2206 0.925565}

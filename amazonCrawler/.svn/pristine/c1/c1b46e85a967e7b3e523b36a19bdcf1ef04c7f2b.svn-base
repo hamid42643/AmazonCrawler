@@ -1,0 +1,4 @@
+    
+for x in range(1, 8):
+    #print '"http://www.amazon.com/Canon-PowerShot-A2500-Stabilized-2-7-Inch/product-reviews/B00B5HE2UG/ref=cm_cr_pr_top_link_2?ie=UTF8&filterBy=addFiveStar&pageNumber=%d&showViewpoints=0&sortBy=bySubmissionDateDescending", ' % (x)
+    print '"http://www.amazon.com/Canon-PowerShot-SX280-Stabilized-Black/product-reviews/B00BW6LTG0/ref=cm_cr_pr_top_link_2?ie=UTF8&filterBy=addOneStar&pageNumber=%d&showViewpoints=0&sortBy=bySubmissionDateDescending", ' % (x)

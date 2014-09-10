@@ -1,0 +1,35 @@
+from scrapy.contrib.spiders import CrawlSpider, Rule
+from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
+from scrapy.spider import BaseSpider
+from scrapy.selector import HtmlXPathSelector
+from tutorial.items import DmozItem
+
+class DmozSpider(BaseSpider):
+	name = "dmoz"
+	allowed_domains = ["dmoz.org"]
+	start_urls = [
+		#"http://www.amazon.com/Canon-PowerShot-A2500-Stabilized-2-7-Inch/product-reviews/B00B5HE2UG/ref=cm_cr_pr_top_link_2?ie=UTF8&filterBy=addFiveStar&pageNumber=2&showViewpoints=0&sortBy=bySubmissionDateDescending",
+		"http://localhost/a.html"
+	]
+	
+	#rules = [Rule(SgmlLinkExtractor(allow=["http://www.amazon.com/Canon-PowerShot-A2500-Stabilized-2-7-Inch/product-reviews/B00B5HE2UG/ref=cm_cr_pr_top_link_(\d+)?ie=UTF8&filterBy=addFiveStar&pageNumber=\1&showViewpoints=0&sortBy=bySubmissionDateDescending"]), "parse_item", follow=True)]
+	
+	def parse(self, response):
+		sel = HtmlXPathSelector(response)
+		sites = sel.select('//div[@class="reviewText"]')
+		items = []
+		
+		for site in sites:
+			item = DmozItem()
+			item['productid'] = "2"
+			item['star'] = "5"
+			item['bodytext'] = site.select('text()').extract()
+			
+			text=""
+			for elem in item['bodytext']:
+				text += elem.rstrip()
+				
+			item['bodytext'] = text
+			
+			items.append(item)
+		return items

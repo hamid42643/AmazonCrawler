@@ -1,0 +1,51 @@
+2014-03-18 01:26:25-0300 [scrapy] INFO: Scrapy 0.18.0 started (bot: tutorial)
+2014-03-18 01:26:25-0300 [scrapy] DEBUG: Optional features available: ssl, http11
+2014-03-18 01:26:25-0300 [scrapy] DEBUG: Overridden settings: {'NEWSPIDER_MODULE': 'tutorial.spiders', 'FEED_URI': 'items.xml', 'SPIDER_MODULES': ['tutorial.spiders'], 'BOT_NAME': 'tutorial', 'ITEM_PIPELINES': ['tutorial.pipelines.TutorialPipeline'], 'FEED_FORMAT': 'xml', 'LOG_FILE': 'scrapy.log'}
+2014-03-18 01:26:26-0300 [scrapy] DEBUG: Enabled extensions: FeedExporter, LogStats, TelnetConsole, CloseSpider, WebService, CoreStats, SpiderState
+2014-03-18 01:26:26-0300 [scrapy] DEBUG: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2014-03-18 01:26:26-0300 [scrapy] DEBUG: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2014-03-18 01:26:26-0300 [scrapy] INFO: connecting to database!!
+2014-03-18 01:26:26-0300 [scrapy] DEBUG: Enabled item pipelines: TutorialPipeline
+2014-03-18 01:26:26-0300 [dmoz] INFO: Spider opened
+2014-03-18 01:26:26-0300 [dmoz] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2014-03-18 01:26:26-0300 [scrapy] DEBUG: Telnet console listening on 0.0.0.0:6023
+2014-03-18 01:26:26-0300 [scrapy] DEBUG: Web service listening on 0.0.0.0:6080
+2014-03-18 01:26:27-0300 [dmoz] DEBUG: Crawled (200) <GET http://www.amazon.com/Canon-PowerShot-A2500-Stabilized-2-7-Inch/product-reviews/B00B5HE2UG/ref=cm_cr_pr_top_link_2?ie=UTF8&filterBy=addFiveStar&pageNumber=2&showViewpoints=0&sortBy=bySubmissionDateDescending> (referer: None)
+2014-03-18 01:26:27-0300 [dmoz] ERROR: Spider error processing <GET http://www.amazon.com/Canon-PowerShot-A2500-Stabilized-2-7-Inch/product-reviews/B00B5HE2UG/ref=cm_cr_pr_top_link_2?ie=UTF8&filterBy=addFiveStar&pageNumber=2&showViewpoints=0&sortBy=bySubmissionDateDescending>
+	Traceback (most recent call last):
+	  File "C:\Python27___32bit\lib\site-packages\twisted\internet\base.py", line 1201, in mainLoop
+	    self.runUntilCurrent()
+	  File "C:\Python27___32bit\lib\site-packages\twisted\internet\base.py", line 824, in runUntilCurrent
+	    call.func(*call.args, **call.kw)
+	  File "C:\Python27___32bit\lib\site-packages\twisted\internet\defer.py", line 380, in callback
+	    self._startRunCallbacks(result)
+	  File "C:\Python27___32bit\lib\site-packages\twisted\internet\defer.py", line 488, in _startRunCallbacks
+	    self._runCallbacks()
+	--- <exception caught here> ---
+	  File "C:\Python27___32bit\lib\site-packages\twisted\internet\defer.py", line 575, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "C:\Python27___32bit\lib\site-packages\scrapy\spider.py", line 57, in parse
+	    raise NotImplementedError
+	exceptions.NotImplementedError: 
+	
+2014-03-18 01:26:27-0300 [dmoz] INFO: Closing spider (finished)
+2014-03-18 01:26:27-0300 [dmoz] INFO: Dumping Scrapy stats:
+	{'downloader/request_bytes': 405,
+	 'downloader/request_count': 1,
+	 'downloader/request_method_count/GET': 1,
+	 'downloader/response_bytes': 34300,
+	 'downloader/response_count': 1,
+	 'downloader/response_status_count/200': 1,
+	 'finish_reason': 'finished',
+	 'finish_time': datetime.datetime(2014, 3, 18, 4, 26, 27, 461000),
+	 'log_count/DEBUG': 9,
+	 'log_count/ERROR': 1,
+	 'log_count/INFO': 5,
+	 'response_received_count': 1,
+	 'scheduler/dequeued': 1,
+	 'scheduler/dequeued/memory': 1,
+	 'scheduler/enqueued': 1,
+	 'scheduler/enqueued/memory': 1,
+	 'spider_exceptions/NotImplementedError': 1,
+	 'start_time': datetime.datetime(2014, 3, 18, 4, 26, 26, 746000)}
+2014-03-18 01:26:27-0300 [dmoz] INFO: Spider closed (finished)

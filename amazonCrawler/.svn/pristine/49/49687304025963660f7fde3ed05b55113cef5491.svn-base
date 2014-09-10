@@ -1,0 +1,6 @@
+scrapy crawl dmoz -o items.xml -t xml -s LOG_FILE=scrapy.log
+
+scrapy crawl dmoz -o items.json -t json -s LOG_FILE=scrapy.log
+
+scrapy crawl dmoz -s LOG_FILE=scrapy.log
+
